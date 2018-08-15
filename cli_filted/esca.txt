@@ -1,0 +1,13 @@
+Tag	Tag2	number_NA	other																										
+tobacco_smoking_age_started	age_began_smoking_in_years	106[57.3%] | N/A	9[4.86%] | 15	7[3.78%] | 19	6[3.24%] | 20	6[3.24%] | 23	5[2.7%] | 16	5[2.7%] | 18	5[2.7%] | 21	4[2.16%] | 25	3[1.62%] | 24	3[1.62%] | 26	3[1.62%] | 27	2[1.08%] | 12	2[1.08%] | 14	2[1.08%] | 29	2[1.08%] | 31	2[1.08%] | 33	2[1.08%] | 35	2[1.08%] | 38	1[0.54%] | 10	1[0.54%] | 11	1[0.54%] | 17	1[0.54%] | 22	1[0.54%] | 28	1[0.54%] | 30	1[0.54%] | 32	1[0.54%] | 41	1[0.54%] | 57
+alcohol_consumption_frequency	frequency_of_alcohol_consumption	72[38.92%] | N/A	48[25.95%] | 7	34[18.38%] | 0	11[5.95%] | 1	 6[3.24%] | 2	 6[3.24%] | 3	 6[3.24%] | 5	 2[1.08%] | 4																				
+alcohol_consumption_per_day	amount_of_alcohol_consumption_per_day	91[49.19%] | N/A	35[18.92%] | 1	23[12.43%] | 0	19[10.27%] | 2	 5[2.7%] | 5	 4[2.16%] | 4	 2[1.08%] | 3	 2[1.08%] | 7	 1[0.54%] | 10	 1[0.54%] | 14	 1[0.54%] | 6	 1[0.54%] | 8																
+history_reflux_disease_indicator	reflux_history	31[16.76%] | N/A	97[52.43%] | NO	57[30.81%] | YES																									
+history_barretts_esophageal_indicator	barretts_esophagus	39[21.08%] | N/A	118[63.78%] | No	 18[9.73%] | Yes-USA	 10[5.41%] | Yes-UK																								
+esophageal_tumor_location_centered	esophageal_tumor_cental_location	1[0.54%] | N/A	128[69.19%] | Distal	 50[27.03%] | Mid	  6[3.24%] | Proximal																								
+esophageal_tumor_location_involved	esophageal_tumor_involvement_site	1[0.54%] | N/A	125[67.57%] | Distal	 43[23.24%] | Mid	  8[4.32%] | Mid|Distal	  6[3.24%] | Proximal	  2[1.08%] | Proximal|Mid																						
+esoph_columnar_metaplasia_indicator	columnar_metaplasia_present	75[40.54%] | N/A	78[42.16%] | NO	32[17.3%] | YES																									
+esoph_non_ca_degree_of_dysplasia	columnar_mucosa_dysplasia	107[57.84%] | N/A	42[22.7%] | Negative/no dysplasia	30[16.22%] | High grade dysplasia	 6[3.24%] | Low grade dysplasia																								
+lymph_node_sprd_radiograph_evidence	lymph_node_metastasis_radiographic_evidence	39[21.08%] | N/A	95[51.35%] | NO	51[27.57%] | YES																									
+patient_to_undergo_surgery	planned_surgery_status	113[61.08%] | N/A	52[28.11%] | Surgery already performed	15[8.11%] | No	 5[2.7%] | Yes																								
+alcohol_history_documented	alcohol_history_documented	3[1.62%] | N/A	129[69.73%] | YES	 53[28.65%] | NO																									

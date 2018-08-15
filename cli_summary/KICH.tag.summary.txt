@@ -1,0 +1,117 @@
+Factor1	Factor2	Tags...
+bcr_patient_uuid	bcr_patient_uuid	02979422-5149-4750-ad5f-483e0bec6ac5	02ec7a3a-2812-4a65-93cd-07bf655cc91b	03f3dd32-e1d1-485b-a968-3f55798f4d46	04e9a63a-d742-488c-8564-bf9d79aa2091	0697436f-e487-45db-b0bc-ad9246f70196	07A3F9D8-B741-4F96-9E88-57030C3FAABC	08a96dec-e658-493a-9308-83f7ace3b3b6	0b77657a-0297-4cee-b9f2-5de72e182016	0BDE80B1-02BF-443E-B386-B44D9D5E3DC2	0CFBF4D0-3D17-4B6C-85A3-52A51AD5C32B	0ec3caa1-7c51-417b-a89c-18e9fceb80c4	0f3c4f8f-0766-46b0-81b4-18ca4f6ea20a	11a33d4a-4839-468f-9d61-5630586ed978	14E2E718-40BD-411C-BFFB-E0BA8E6F4A53	151f07f5-1529-4fcd-912c-e55b2ff8abef	1860BA2A-76A9-4EC3-A19F-A05F3F28505A	1C43C45D-E767-4805-9C5B-FA21392145FB	222a2e5b-9d55-4477-8a54-7776bd44f8a7	23656226-2d99-4548-959f-5c2eed803e33	2589E8B4-C76B-445F-80C4-60516C202C2D	2a05f855-83cc-4276-befd-5d6d4ec18f82	2ea84e23-6a0a-4c5d-9c70-d5355a85df35	2f1c4db6-88a7-4a5d-a5fe-94d85f569440	2fc175d1-9d95-44fd-a53e-820f6f404551	3129e869-bb2f-423a-bd20-d0daae33b11a	33EE63ED-6FF7-4145-BCB9-391B1D8867DB	366219b9-fde3-4d2d-82d3-15fe6245aa98	39034b58-1fe1-4cae-ad3e-3ee291f1b4d0	3BA28F6A-28EB-4F32-993D-1FD1BB9F884E	3ec3bcb3-492c-4942-be02-76a67f57e38f	3FE1ED4F-583D-4033-916E-3F4E8B5DF2DA	40f79cfe-a51f-497b-b06e-7a4f9004f092	452135f2-6de6-4593-a091-ddf6344ee431	452e96b0-dd23-4f5a-bc05-625763b0ee12	455fd7d4-5ff4-423f-83ce-4630aef89bb7	4a88bc85-4c6e-4fac-8dbb-d3fc5f36b35e	4e4faf51-2cbf-4910-a093-186660e4a19b	528A4D08-68ED-4622-B8FF-425BC3B8EDC3	5B658942-2174-461D-8EF9-0CD08952AED0	5f633c79-fcf8-47da-b349-ada3fb794819	6101ffe6-2ef6-4256-9d6b-a7c545836995	62AC3498-2538-47D1-BCE4-DD6CDFB3FFBF	63643ba6-bed9-4c36-91dd-a18105fadc06	648fecca-4946-4880-8359-6801cbb4fc0d	70e306ee-9584-49d6-81a1-a49d837ab6aa	739deed4-d1dc-458f-bd0f-1e24d2bfd305	7C191769-F139-4DDA-B9AB-4E4D81064A02	83b3060c-2449-4581-88ef-817d126e4525	84910FBB-E5FD-48E1-99AD-768FD66EA187	863C9086-E8CE-4E92-A0C7-A913CF01AACB	872092b3-d31e-44d7-bd03-e29f52f8ab5a	879C40D9-D21F-4D6D-ABC1-C8ED9E4C0ACF	8A1A9872-6B3E-4AD7-8EBE-85CBA80F7C58	8ac7f218-bd7b-4dda-8879-2cec49748e42	8c9e1f60-1838-4aa4-a667-c1cef7dddbdf	8D002850-DDD4-442C-A5CD-81340CD4E88A	8D30C7BE-73B6-4C4C-80C5-31152B2F7CB0	8EE83284-3CDD-44D9-A3E2-2A567F10B605	8FA3A7E1-249C-4958-AF0D-5A30E1353AB7	955d428c-8fe8-456b-b86d-65ea6c2a1b18	9680b5ff-1882-434f-9981-e8ac33764b93	99558A57-3692-439F-BD24-3F5B90411B60	9aa02d46-294b-4e99-b9ee-56edcbfb5275	9aabcbd7-a26a-49b1-abf1-02c0dc3adcf2	9C7404D6-6E97-4BE2-93F6-901153869BBC	9f8aa332-e625-46f7-b77b-1fcb3ca99ee2	a122d361-835e-4cf2-850f-af7864aa112c	a5af1391-89d3-4f41-930e-7e8272afec98	A86C2490-37DA-46A3-88E2-0B0CE21D067F	af1111af-9384-4e37-9b16-227d38007ebd	b08dfba8-6afb-4217-9259-72be6f1f3363	b4a0bf74-1381-4c17-b97d-206810d9e59a	b5f6a0e3-f9ac-475f-9a34-b8b8834f1779	B9356AF2-C448-4809-AE29-E8B80F65FA73	B947DCF8-C83A-4BB0-B517-6B5989421C61	baaf32ff-b31b-4c42-bbf6-8ff7ab569ab6	BCE773E1-2A8D-4402-A662-88BAF9F1B68B	BFA595A1-7DB5-4CF7-BA76-5C4DBA8651A2	C593C5C7-EDCD-46FC-AE20-D32350A6ADCF	c689ae1d-4a6b-45db-b4d1-6b34c5c61522	C7679861-F8A5-4DC1-853C-943B912253F6	C7921A85-329B-4B23-AD87-5A695A88611E	C8890A69-CD2F-41D1-9280-769932228690	cc316faf-dcb1-4dea-b8b0-a17d000ff40f	D0A8CFDC-C025-4DE9-94AD-F5160809FF8F	D22A7911-A917-470A-B19B-1F4960DA66E7	D3210869-E2F3-4429-BA46-CEEAA21DE943	d52c3cb6-921e-4f26-b49c-e6e4f11f9c06	d542c363-fd6c-447d-b71a-0e94fec125e4	dc04b82c-e1e8-4917-ba19-c2fea4a1b69a	dc8dbf62-b687-4362-8839-2fac69703f64	DFBE9B61-1F13-4BD1-8F87-364B186C69B5	E00F9035-679F-4465-990C-93A75497F6C0	E0901BB2-27CE-46A4-BD82-EE1A8EBBE48C	e0e38071-877f-4ebf-955f-483eb4865351	E1145EAA-6BEA-4A82-AF2A-7AD1DC8A262E	e1e15226-9f8e-4035-8f08-eb1fed57080e	E2C4E773-ED5E-4274-ACA6-1E7168D593DE	E2EE1DDF-985E-491E-8E0C-39F9731FEE7A	e562c60c-8e6e-481f-ad4f-28b067437ece	e8c2a8c6-5c2b-460b-b536-60bc537e6be3	EC082842-B5E2-4673-B1D5-68FF36D3522B	edcbbfd8-9fc9-4774-bfbd-d1a30dc2f46a	ee8c1919-17a9-4df1-8aa5-79546621b23c	f1c1502e-1bd6-425a-b651-454363809668	f2b58595-dec0-4194-ab33-7c7dc6c058a6	F300EFC6-A125-468A-BB2F-FBAAC71FCCA0	f31ba8ec-a3dd-4dd8-8d15-f6c5975ebe44	f3ba1cf8-ac67-4da8-96f3-8680dc55f247	F72CF636-3140-4D1A-BBE7-19A4BD9D51AE	F744CC77-1DB1-4E3F-A9D6-FB8D38F2F9C5	F828A188-7011-4483-B857-AFE936D9ED9B	fb322d32-d753-41cc-a21e-e47bf063d5bb
+bcr_patient_uuid	bcr_patient_uuid	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+bcr_patient_barcode	bcr_patient_barcode	TCGA-KL-8323	TCGA-KL-8324	TCGA-KL-8325	TCGA-KL-8326	TCGA-KL-8327	TCGA-KL-8328	TCGA-KL-8329	TCGA-KL-8330	TCGA-KL-8331	TCGA-KL-8332	TCGA-KL-8333	TCGA-KL-8334	TCGA-KL-8335	TCGA-KL-8336	TCGA-KL-8337	TCGA-KL-8338	TCGA-KL-8339	TCGA-KL-8340	TCGA-KL-8341	TCGA-KL-8342	TCGA-KL-8343	TCGA-KL-8344	TCGA-KL-8345	TCGA-KL-8346	TCGA-KM-8438	TCGA-KM-8439	TCGA-KM-8440	TCGA-KM-8441	TCGA-KM-8442	TCGA-KM-8443	TCGA-KM-8476	TCGA-KM-8477	TCGA-KM-8639	TCGA-KM-A7Q6	TCGA-KM-A7Q7	TCGA-KM-A7Q8	TCGA-KM-A7Q9	TCGA-KM-A7QA	TCGA-KM-A7QB	TCGA-KM-A7QC	TCGA-KM-A7QD	TCGA-KM-A7QE	TCGA-KM-A7QG	TCGA-KM-A7QH	TCGA-KM-A7QI	TCGA-KM-A7QJ	TCGA-KM-A7QK	TCGA-KM-A7QL	TCGA-KN-8418	TCGA-KN-8419	TCGA-KN-8421	TCGA-KN-8422	TCGA-KN-8423	TCGA-KN-8424	TCGA-KN-8425	TCGA-KN-8426	TCGA-KN-8427	TCGA-KN-8428	TCGA-KN-8429	TCGA-KN-8430	TCGA-KN-8431	TCGA-KN-8432	TCGA-KN-8433	TCGA-KN-8434	TCGA-KN-8435	TCGA-KN-8436	TCGA-KN-8437	TCGA-KO-8403	TCGA-KO-8404	TCGA-KO-8405	TCGA-KO-8406	TCGA-KO-8407	TCGA-KO-8408	TCGA-KO-8409	TCGA-KO-8410	TCGA-KO-8411	TCGA-KO-8413	TCGA-KO-8414	TCGA-KO-8415	TCGA-KO-8416	TCGA-KO-8417	TCGA-NP-A5B3	TCGA-NP-A5GY	TCGA-NP-A5GZ	TCGA-NP-A5H1	TCGA-NP-A5H5	TCGA-NP-A5H6	TCGA-NP-A5H7	TCGA-UW-A72H	TCGA-UW-A72I	TCGA-UW-A72J	TCGA-UW-A72K	TCGA-UW-A72L	TCGA-UW-A72M	TCGA-UW-A72N	TCGA-UW-A72O	TCGA-UW-A72P	TCGA-UW-A72Q	TCGA-UW-A72R	TCGA-UW-A72S	TCGA-UW-A72T	TCGA-UW-A7GC	TCGA-UW-A7GG	TCGA-UW-A7GI	TCGA-UW-A7GJ	TCGA-UW-A7GK	TCGA-UW-A7GL	TCGA-UW-A7GN	TCGA-UW-A7GP	TCGA-UW-A7GR	TCGA-UW-A7GU	TCGA-UW-A7GX	TCGA-UW-A7GY
+bcr_patient_barcode	bcr_patient_barcode	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+form_completion_date	form_completion_date	2012-7-24	2013-12-17	2012-8-8	2013-12-11	2012-6-13	2013-11-22	2013-8-6	2013-11-25	2013-4-14	2012-8-13	2012-8-15	2013-1-31	2013-11-26	2013-12-10	2013-4-12	2012-6-7	2012-8-14	2013-1-28	2012-10-19	2012-6-14	2012-8-10	2013-4-23
+form_completion_date	form_completion_date	22	13	 9	 9	 7	 7	 7	 5	 5	 4	 3	 3	 3	 3	 3	 2	 2	 2	 1	 1	 1	 1
+histologic_diagnosis	histological_type	Kidney Chromophobe
+histologic_diagnosis	histological_type	113
+sarcomatoid_features	presence_of_sarcomatoid_features	NO	NA	YES
+sarcomatoid_features	presence_of_sarcomatoid_features	60	49	 4
+sarcomatoid_percent_of_tumor	percent_tumor_sarcomatoid	NA	50	90
+sarcomatoid_percent_of_tumor	percent_tumor_sarcomatoid	111	  1	  1
+laterality	laterality	Left	Right
+laterality	laterality	57	56
+prospective_collection	tissue_prospective_collection_indicator	NO	YES
+prospective_collection	tissue_prospective_collection_indicator	90	23
+retrospective_collection	tissue_retrospective_collection_indicator	YES	NO
+retrospective_collection	tissue_retrospective_collection_indicator	90	23
+gender	gender	MALE	FEMALE
+gender	gender	62	51
+birth_days_to	days_to_birth	-10303	-10671	-10764	-11139	-11266	-11560	-12381	-12696	-13043	-13269	-13469	-13602	-13860	-13903	-13947	-14212	-14521	-14665	-14805	-15045	-15086	-15261	-15384	-15407	-15475	-15690	-15769	-15877	-16221	-16250	-16266	-16275	-16335	-16395	-16479	-16550	-16683	-16744	-16782	-16784	-17067	-17108	-17121	-17167	-17240	-17241	-17299	-17524	-17710	-17814	-17987	-18171	-18345	-18476	-18502	-18552	-18560	-18660	-18667	-18742	-18821	-19258	-19303	-19486	-19692	-19854	-20090	-20128	-20266	-20491	-20700	-20768	-20849	-20972	-20985	-21097	-21175	-21183	-21197	-21371	-21580	-21891	-21976	-22295	-22303	-22651	-22997	-23934	-24299	-24510	-24545	-24640	-24650	-24832	-25229	-25267	-25419	-26252	-26562	-27084	-27094	-27197	-27412	-27438	-27464	-27467	-27649	-28705	-29034	-31591	-6556	-6837	-9819
+birth_days_to	days_to_birth	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+race	race	WHITE	BLACK OR AFRICAN AMERICAN	ASIAN	NA
+race	race	95	12	 4	 2
+ethnicity	ethnicity	NOT HISPANIC OR LATINO	NA	HISPANIC OR LATINO
+ethnicity	ethnicity	67	38	 8
+history_other_malignancy	other_dx	No	Yes, History of Prior Malignancy	Yes, History of Synchronous/Bilateral Malignancy
+history_other_malignancy	other_dx	98	11	 4
+history_neoadjuvant_treatment	history_of_neoadjuvant_treatment	No	Yes, Pharmaceutical Treatment Prior to Resection
+history_neoadjuvant_treatment	history_of_neoadjuvant_treatment	112	  1
+initial_pathologic_dx_year	year_of_initial_pathologic_diagnosis	2005	2006	2011	2012	2004	2007	2008	2009	2013	2000	2003	2010	2002	2001	1999
+initial_pathologic_dx_year	year_of_initial_pathologic_diagnosis	18	16	13	12	10	 9	 6	 6	 5	 4	 4	 4	 3	 2	 1
+lymph_nodes_examined	primary_lymph_node_presentation_assessment	NO	YES
+lymph_nodes_examined	primary_lymph_node_presentation_assessment	69	44
+lymph_nodes_examined_count	lymph_node_examined_count	NA	1	3	6	4	13	15	2	5	7	8	9	10	14	19	26	30	33	36	50
+lymph_nodes_examined_count	lymph_node_examined_count	69	11	 4	 4	 3	 2	 2	 2	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1
+lymph_nodes_examined_positive	number_of_lymphnodes_positive	NA	0	1	3	2	4
+lymph_nodes_examined_positive	number_of_lymphnodes_positive	69	38	 2	 2	 1	 1
+ajcc_staging_edition	system_version	6th	7th	5th
+ajcc_staging_edition	system_version	55	48	10
+ajcc_tumor_pathologic_pt	pathologic_T	T1b	T1a	T2	T3a	T2b	T1	T2a	T3b	T3	T4
+ajcc_tumor_pathologic_pt	pathologic_T	25	24	22	18	 7	 6	 4	 3	 2	 2
+ajcc_nodes_pathologic_pn	pathologic_N	NX	N0	N1	N2
+ajcc_nodes_pathologic_pn	pathologic_N	59	48	 4	 2
+ajcc_metastasis_clinical_cm	clinical_M	M0	NA	MX	M1
+ajcc_metastasis_clinical_cm	clinical_M	65	25	22	 1
+ajcc_metastasis_pathologic_pm	pathologic_M	NA	M0	MX	M1
+ajcc_metastasis_pathologic_pm	pathologic_M	61	34	16	 2
+ajcc_pathologic_tumor_stage	pathologic_stage	Stage I	Stage II	Stage III	Stage IV
+ajcc_pathologic_tumor_stage	pathologic_stage	54	33	19	 7
+vital_status	vital_status	Alive	Dead
+vital_status	vital_status	103	 10
+last_contact_days_to	days_to_last_followup	NA	114	397	-2	1	1024	106	107	108	1094	1125	1128	1166	1192	124	1297	132	1327	1345	1364	1383	1536	1553	159	1688	1739	18	1815	1835	1873	1933	1945	1961	198	1983	2	2024	2064	2108	22	2211	2262	2279	229	230	2304	2339	2368	2404	2445	246	247	2536	2582	2590	26	2619	2648	2670	2674	2727	2820	3010	3067	3127	3141	3249	327	3322	341	3474	3553	3641	376	421	4311	4335	467	5132	533	572	578	583	6	637	674	714	730	736	76	775	784	788	791	807	82	843	871	876	930	953	994
+last_contact_days_to	days_to_last_followup	10	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+death_days_to	days_to_death	NA	1158	1590	22	325	507	725	754	855	920
+death_days_to	days_to_death	104	  1	  1	  1	  1	  1	  1	  1	  1	  1
+tumor_status	person_neoplasm_cancer_status	TUMOR FREE	WITH TUMOR	NA
+tumor_status	person_neoplasm_cancer_status	95	17	 1
+ldh_level	lactate_dehydrogenase_result	NA	Normal	Low
+ldh_level	lactate_dehydrogenase_result	92	20	 1
+serum_calcium_level	serum_calcium_result	NA	Low	Normal	Elevated
+serum_calcium_level	serum_calcium_result	38	37	35	 3
+hemoglobin_level	hemoglobin_result	NA	Normal	Low
+hemoglobin_level	hemoglobin_result	42	38	33
+platelet_count	platelet_qualitative_result	Normal	NA	Elevated	Low
+platelet_count	platelet_qualitative_result	64	42	 4	 3
+white_cell_count	white_cell_count_result	NA	Normal	Elevated	Low
+white_cell_count	white_cell_count_result	42	39	31	 1
+erythrocyte_sedimentation_rate	erythrocyte_sedimentation_rate_result	NA	Normal
+erythrocyte_sedimentation_rate	erythrocyte_sedimentation_rate_result	112	  1
+tobacco_smoking_history_indicator	tobacco_smoking_history	1	NA	2	4	3	5
+tobacco_smoking_history_indicator	tobacco_smoking_history	74	13	12	 7	 5	 2
+tobacco_smoking_year_started	year_of_tobacco_smoking_onset	NA	1986	1997	1949	1961	1965	1971	1973	1977	1978	1980	1981	1982	1984	1987	1991
+tobacco_smoking_year_started	year_of_tobacco_smoking_onset	96	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+tobacco_smoking_year_stopped	stopped_smoking_year	NA	2003	2005	1955	1975	1979	1980	1985	1993	2000	2006
+tobacco_smoking_year_stopped	stopped_smoking_year	101	  2	  2	  1	  1	  1	  1	  1	  1	  1	  1
+tobacco_smoking_pack_years_smoked	number_pack_years_smoked	NA	30	10	15	25	27	1	20	24	3	35	48	50	6	75
+tobacco_smoking_pack_years_smoked	number_pack_years_smoked	93	 3	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1
+karnofsky_score	karnofsky_performance_score	NA	100	90	80	70
+karnofsky_score	karnofsky_performance_score	87	13	10	 2	 1
+ecog_score	eastern_cancer_oncology_group	NA	0	1	2
+ecog_score	eastern_cancer_oncology_group	83	21	 8	 1
+performance_status_timing	performance_status_scale_timing	NA	Other
+performance_status_timing	performance_status_scale_timing	83	30
+radiation_treatment_adjuvant	radiation_therapy	NO	NA
+radiation_treatment_adjuvant	radiation_therapy	111	  2
+treatment_outcome_first_course	primary_therapy_outcome_success	Complete Remission/Response	NA	Progressive Disease	Partial Remission/Response	Stable Disease
+treatment_outcome_first_course	primary_therapy_outcome_success	71	35	 3	 2	 2
+new_tumor_event_dx_indicator	new_tumor_event_after_initial_treatment	NO	YES	NA
+new_tumor_event_dx_indicator	new_tumor_event_after_initial_treatment	99	12	 2
+age_at_initial_pathologic_diagnosis	age_at_initial_pathologic_diagnosis	44	45	57	47	50	67	75	42	51	38	41	46	55	56	69	74	29	30	36	37	40	43	48	49	52	53	58	59	61	62	17	18	26	28	31	33	34	35	39	54	60	65	66	71	72	78	79	86
+age_at_initial_pathologic_diagnosis	age_at_initial_pathologic_diagnosis	6	6	6	5	5	5	5	4	4	3	3	3	3	3	3	3	2	2	2	2	2	2	2	2	2	2	2	2	2	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+days_to_initial_pathologic_diagnosis	days_to_initial_pathologic_diagnosis	0
+days_to_initial_pathologic_diagnosis	days_to_initial_pathologic_diagnosis	113
+disease_code	disease_code	NA
+disease_code	disease_code	113
+icd_10	icd_10	C64.9
+icd_10	icd_10	113
+icd_o_3_histology	icd_o_3_histology	8317/3
+icd_o_3_histology	icd_o_3_histology	113
+icd_o_3_site	icd_o_3_site	C64.9
+icd_o_3_site	icd_o_3_site	113
+informed_consent_verified	informed_consent_verified	YES
+informed_consent_verified	informed_consent_verified	113
+patient_id	patient_id	8323	8324	8325	8326	8327	8328	8329	8330	8331	8332	8333	8334	8335	8336	8337	8338	8339	8340	8341	8342	8343	8344	8345	8346	8403	8404	8405	8406	8407	8408	8409	8410	8411	8413	8414	8415	8416	8417	8418	8419	8421	8422	8423	8424	8425	8426	8427	8428	8429	8430	8431	8432	8433	8434	8435	8436	8437	8438	8439	8440	8441	8442	8443	8476	8477	8639	A5B3	A5GY	A5GZ	A5H1	A5H5	A5H6	A5H7	A72H	A72I	A72J	A72K	A72L	A72M	A72N	A72O	A72P	A72Q	A72R	A72S	A72T	A7GC	A7GG	A7GI	A7GJ	A7GK	A7GL	A7GN	A7GP	A7GR	A7GU	A7GX	A7GY	A7Q6	A7Q7	A7Q8	A7Q9	A7QA	A7QB	A7QC	A7QD	A7QE	A7QG	A7QH	A7QI	A7QJ	A7QK	A7QL
+patient_id	patient_id	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+project_code	project_code	NA
+project_code	project_code	113
+stage_other	stage_other	NA
+stage_other	stage_other	113
+targeted_molecular_therapy	targeted_molecular_therapy	NO	YES	NA
+targeted_molecular_therapy	targeted_molecular_therapy	105	  6	  2
+tissue_source_site	tissue_source_site	UW	KL	KM	KN	KO	NP
+tissue_source_site	tissue_source_site	25	24	24	19	14	 7
+tumor_tissue_site	tumor_tissue_site	Kidney
+tumor_tissue_site	tumor_tissue_site	113

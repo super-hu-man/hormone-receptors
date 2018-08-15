@@ -1,0 +1,169 @@
+Factor1	Factor2	Tags...
+bcr_patient_uuid	bcr_patient_uuid	0304B12D-7640-4150-A581-2EEA2B1F2AD5	075DBFD0-9CF4-4877-884F-AE858902C79E	0824B246-9FA2-4A8B-AD4C-1FFC7731BF7D	08E0D412-D4D8-4D13-B792-A4DD0BD9EC2B	09454ED6-64BC-4A35-AF44-7C4344623D45	0ACC28BC-D348-41DF-8F49-BC0332EB9BE4	0B73CBBA-5520-4610-B649-912D76114033	11D8A9C2-14D8-4FC2-8388-386051E408B1	15FB07AE-101C-4553-891D-539CEE89A5E9	199560CB-15E5-4276-865A-7D44D47C856C	1AE9CD13-73EF-4B1A-A734-4C465C73BC8E	1D5602A7-72E7-4DC6-B2DB-2F778FCBF475	202F7A77-9E5A-4F12-8FFE-78AE5527A746	240DCA72-76E0-4D57-978D-1242E6E7ED68	28153E3E-8515-4852-AAA0-247F86399F27	2F04E760-8A64-49F2-A1D6-3D390604745C	33C02ECE-911B-4F45-B410-9DF07E9B189E	344F7EA4-2BD4-4F2D-89F2-9FC7F572A3D6	388B8788-A635-4BC9-9B73-D204B2256747	3ED33021-8EFD-420F-9A0B-E7420B586BCD	424A497A-48B9-4507-B234-C4FD08C8ACAD	42EF34CC-FFB4-432C-82BB-7AA56639FF51	42F69B2B-F3AA-4F4E-AC3A-149E14789927	48402D61-3A6B-4603-BFA0-B1A38A47D34D	4F845FEA-E823-47D6-89FB-36EE478A43B8	4FBBBE43-3C0E-4475-BCF8-3745BD7195EB	56CDBBA2-327E-4ACD-A1EB-0F313A77834F	5E086192-AB74-4AA3-BF6B-B34AB19995DB	5EB5EE1F-ECFF-4427-B717-B91380C043AE	5F3E2974-F1DF-47A2-8A8A-29BB525EEEF6	5F461197-15ED-43CF-9331-9E0EFC4622A4	63B7B596-CB55-41DC-B862-A6C3A058DFE2	653F1D34-73E9-4216-B40B-E25C1CFC7943	69F4F19C-08C8-4001-92A8-FED155C3B4FE	6D980941-219E-40A0-9B41-E84C3FB0BD1A	70F1569E-F8F5-4F1D-BF18-D0586B29077D	71892706-F8B6-44E6-8DE4-6CBB43F612E0	723EB689-7B4F-4758-BCDF-426B12508935	7E61E3B8-C617-4A5F-AFDF-689521C9A670	802DBD0D-EF07-4C91-AB8D-1DD39532E947	82940E94-AC74-4A9B-9DA5-9E4B7D4D45C0	83E7B9F8-04A4-440F-AAFC-7A8E9DDFF284	888A7158-2319-4563-849B-573705C72AB7	891B7A67-0A01-45F0-8A32-4A1B3E888F6C	8B3649E3-16E2-4044-8AB8-F4D28A87E513	8E7C2E31-D085-4B75-A970-162526DD07A0	905368C2-BA60-4DDA-B32D-A51A203B5E4D	92B67CA9-6C82-463E-9CC5-685A1D02EA3E	94CDAC79-2B4E-483A-8F17-3E0C9BE589D0	99F86B57-3894-45C5-BFBE-C757C69A3050	9A8EA017-0152-48B2-ACCB-D040DEB1C6B6	9C87DCEE-D422-4DF1-82E1-3FA201473E31	9EC86C06-E7A9-4EA6-B36D-6F832909054B	A19104D6-B6A6-4878-AF2C-783679070A05	A26B6F97-FD7E-4B96-BDF5-9DF4F9233726	A3383252-1161-4B65-8BAC-125A6EDA3D08	A477B55D-A591-482F-A554-D8EF7298C23D	A53E9117-0A49-40D8-AF40-7867370B671A	A5BE4E42-CB6C-4E67-8547-45DBD058BB95	A9A57127-94D3-425F-A4C5-5CBCF24A9A35	B3164F7B-C826-4E08-9EE6-8FF96D29B913	B4B41A43-EE45-4AA3-ABF0-100DB752A6AC	B7ADB786-1F81-43CA-AC72-7243966CD439	BAFE2638-4ADC-4957-9D62-D7EEBE5DD2F9	BDFCD747-F6A2-42E2-BC9B-483112205FA8	C0E1A036-BE4C-4FB5-BB50-E2431BE60ED4	C4DD9501-C193-45FB-8535-A9D901520BDD	C6312DE5-DD56-4025-80D1-DBDD8568D047	C72B973B-4719-46AB-AC99-05D14088D3BC	C8898B42-B704-45A0-9829-144B98F416E0	CAC8EABA-9E40-4048-B8CC-87574F048D91	CF327482-199B-4604-AC19-C8B68D91C5D9	CF332DAA-F335-4AF1-81DE-CBFDAFB0F764	D63F2F1E-1970-445F-907B-23CF4D9EFD83	D885B720-E813-4828-A731-B3CDCBD20687	D890CBF7-41D8-4992-99C2-24C60C77B156	DAFB9844-1A5C-4AF8-B382-59C751942BB8	DE7F06AA-9638-4389-AC8E-711ADFA0F2A5	DFD687BC-6E69-42F7-AF94-D17FC150D1A1	DFEF51C8-6050-4EBB-B25C-E74919397244	E612EF6E-F3F2-44BE-AB15-8E4095687CD6	E93CA89F-CA48-43CA-BF1C-ADC7491C0FE5	EC9C3EFE-AF61-4DEB-B047-DCF7EE735FD2	EDC62C30-CACC-457D-96BA-D05ED35432A3	F13A3D5E-7F8E-4ACB-AD46-F6380A9443E8	F63946EC-DDCB-469A-8F5E-74366B7F419B	F8954241-E541-406F-A09D-C3C987473732	F8E77BB6-E521-4A6A-9CB4-4B58EE38CA7F	FAD4B7E6-510C-4968-83DF-3140ED5A0549	FB504E55-1859-48EE-AEC7-A3FCB082785E	FB54458D-C373-46C2-841E-82663E13EFAA	FC83AB27-929E-4AD4-BA18-ABB0694F1E43
+bcr_patient_uuid	bcr_patient_uuid	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+bcr_patient_barcode	bcr_patient_barcode	TCGA-OR-A5J1	TCGA-OR-A5J2	TCGA-OR-A5J3	TCGA-OR-A5J4	TCGA-OR-A5J5	TCGA-OR-A5J6	TCGA-OR-A5J7	TCGA-OR-A5J8	TCGA-OR-A5J9	TCGA-OR-A5JA	TCGA-OR-A5JB	TCGA-OR-A5JC	TCGA-OR-A5JD	TCGA-OR-A5JE	TCGA-OR-A5JF	TCGA-OR-A5JG	TCGA-OR-A5JH	TCGA-OR-A5JI	TCGA-OR-A5JJ	TCGA-OR-A5JK	TCGA-OR-A5JL	TCGA-OR-A5JM	TCGA-OR-A5JO	TCGA-OR-A5JP	TCGA-OR-A5JQ	TCGA-OR-A5JR	TCGA-OR-A5JS	TCGA-OR-A5JT	TCGA-OR-A5JU	TCGA-OR-A5JV	TCGA-OR-A5JW	TCGA-OR-A5JX	TCGA-OR-A5JY	TCGA-OR-A5JZ	TCGA-OR-A5K0	TCGA-OR-A5K1	TCGA-OR-A5K2	TCGA-OR-A5K3	TCGA-OR-A5K4	TCGA-OR-A5K5	TCGA-OR-A5K6	TCGA-OR-A5K8	TCGA-OR-A5K9	TCGA-OR-A5KB	TCGA-OR-A5KO	TCGA-OR-A5KP	TCGA-OR-A5KQ	TCGA-OR-A5KS	TCGA-OR-A5KT	TCGA-OR-A5KU	TCGA-OR-A5KV	TCGA-OR-A5KW	TCGA-OR-A5KX	TCGA-OR-A5KY	TCGA-OR-A5KZ	TCGA-OR-A5L1	TCGA-OR-A5L2	TCGA-OR-A5L3	TCGA-OR-A5L4	TCGA-OR-A5L5	TCGA-OR-A5L6	TCGA-OR-A5L8	TCGA-OR-A5L9	TCGA-OR-A5LA	TCGA-OR-A5LB	TCGA-OR-A5LC	TCGA-OR-A5LD	TCGA-OR-A5LE	TCGA-OR-A5LF	TCGA-OR-A5LG	TCGA-OR-A5LH	TCGA-OR-A5LI	TCGA-OR-A5LJ	TCGA-OR-A5LK	TCGA-OR-A5LL	TCGA-OR-A5LM	TCGA-OR-A5LN	TCGA-OR-A5LO	TCGA-OR-A5LP	TCGA-OR-A5LR	TCGA-OR-A5LS	TCGA-OR-A5LT	TCGA-OU-A5PI	TCGA-P6-A5OF	TCGA-P6-A5OG	TCGA-P6-A5OH	TCGA-PA-A5YG	TCGA-PK-A5H8	TCGA-PK-A5H9	TCGA-PK-A5HA	TCGA-PK-A5HB	TCGA-PK-A5HC
+bcr_patient_barcode	bcr_patient_barcode	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+form_completion_date	form_completion_date	2013-11-27	2013-11-5	2013-10-3	2013-11-4	2013-12-3	2013-9-10	2013-9-16	2013-9-17	2013-9-9	2013-11-7	2013-9-11	2013-9-18	2014-4-2	2014-6-26	2013-11-6	2013-12-2	2014-6-27	2013-10-8	2013-8-15	2014-2-6	2013-11-26	2013-7-16	2014-3-13	2014-3-25	2014-4-7	2014-5-8
+form_completion_date	form_completion_date	8	8	5	5	5	5	5	5	5	4	4	4	4	4	3	3	3	2	2	2	1	1	1	1	1	1
+prospective_collection	tissue_prospective_collection_indicator	NO	YES
+prospective_collection	tissue_prospective_collection_indicator	89	 3
+retrospective_collection	tissue_retrospective_collection_indicator	YES	NO
+retrospective_collection	tissue_retrospective_collection_indicator	89	 3
+gender	gender	FEMALE	MALE
+gender	gender	60	32
+race	race	WHITE	NA	ASIAN	BLACK OR AFRICAN AMERICAN
+race	race	78	11	 2	 1
+ethnicity	ethnicity	NA	NOT HISPANIC OR LATINO	HISPANIC OR LATINO
+ethnicity	ethnicity	44	40	 8
+history_other_malignancy	other_dx	No	Yes
+history_other_malignancy	other_dx	86	 6
+history_neoadjuvant_treatment	history_of_neoadjuvant_treatment	No	Yes
+history_neoadjuvant_treatment	history_of_neoadjuvant_treatment	91	 1
+tumor_status	person_neoplasm_cancer_status	TUMOR FREE	WITH TUMOR	NA
+tumor_status	person_neoplasm_cancer_status	46	44	 2
+vital_status	vital_status	Alive	Dead
+vital_status	vital_status	61	31
+radiation_treatment_adjuvant	radiation_therapy	NO	YES	NA
+radiation_treatment_adjuvant	radiation_therapy	70	17	 5
+pharmaceutical_tx_adjuvant	postoperative_rx_tx	YES	NO	NA
+pharmaceutical_tx_adjuvant	postoperative_rx_tx	55	33	 4
+pharm_tx_mitotane_indicator	mitotane_therapy	YES	NO	NA
+pharm_tx_mitotane_indicator	mitotane_therapy	55	32	 5
+pharm_tx_mitotane_adjuvant	mitotane_therapy_adjuvant_setting	NA	YES	NO
+pharm_tx_mitotane_adjuvant	mitotane_therapy_adjuvant_setting	44	43	 5
+pharm_tx_mitotane_theraputic_levels	therapeutic_mitotane_levels_achieved	NA	YES	NO
+pharm_tx_mitotane_theraputic_levels	therapeutic_mitotane_levels_achieved	62	22	 8
+pharm_tx_mitotane_theraputic_at_rec	therapeutic_mitotane_lvl_recurrence	NA	NO	YES
+pharm_tx_mitotane_theraputic_at_rec	therapeutic_mitotane_lvl_recurrence	72	16	 4
+pharm_tx_mitotane_for_macro_disease	mitotane_therapy_for_macroscopic_residual_disease	NA	YES	NO
+pharm_tx_mitotane_for_macro_disease	mitotane_therapy_for_macroscopic_residual_disease	78	10	 4
+pharm_tx_mitotane_theraputic_macro	therapeutic_mitotane_lvl_macroscopic_residual	NA	YES	NO
+pharm_tx_mitotane_theraputic_macro	therapeutic_mitotane_lvl_macroscopic_residual	86	 4	 2
+pharm_tx_mitotane_theraputic_at_prog	therapeutic_mitotane_lvl_progression	NA	YES	NO
+pharm_tx_mitotane_theraputic_at_prog	therapeutic_mitotane_lvl_progression	88	 3	 1
+clinical_status_within_3_mths_surgery	post_surgical_procedure_assessment_thyroid_gland_carcinoma_status	No imaging evidence of disease	Persistent distant metastases	NA	Persistent locoregional disease	Biochemical Evidence of Disease
+clinical_status_within_3_mths_surgery	post_surgical_procedure_assessment_thyroid_gland_carcinoma_status	63	17	 9	 2	 1
+treatment_outcome_first_course	primary_therapy_outcome_success	Complete Remission/Response	NA	Progressive Disease	Stable Disease
+treatment_outcome_first_course	primary_therapy_outcome_success	42	29	20	 1
+laterality	laterality	Left	Right
+laterality	laterality	52	40
+histologic_diagnosis	histological_type	Adrenocortical carcinoma- Usual Type	Adrenocortical Carcinoma- Oncocytic Type	Adrenocortical Carcinoma- Myxoid Type
+histologic_diagnosis	histological_type	87	 4	 1
+initial_pathologic_dx_year	year_of_initial_pathologic_diagnosis	2011	2008	2009	2010	2006	2012	2000	2005	2002	2004	2007	1998	2001	2003	1997
+initial_pathologic_dx_year	year_of_initial_pathologic_diagnosis	19	10	 9	 9	 8	 8	 7	 6	 3	 3	 3	 2	 2	 2	 1
+ct_scan_preop_results	ct_scan	YES	NA
+ct_scan_preop_results	ct_scan	84	 8
+ct_scan_preop_results.1	ct_scan_findings	Normal	NA	Lung Involvement	Retroperitoneal Lymph Node Involvement	Vena Cava Involvement/thrombus	Liver Involvement
+ct_scan_preop_results.1	ct_scan_findings	53	15	11	 5	 5	 3
+lymph_nodes_examined	primary_lymph_node_presentation_assessment	NO	YES	NA
+lymph_nodes_examined	primary_lymph_node_presentation_assessment	40	35	17
+lymph_nodes_examined_count	lymph_node_examined_count	NA	1	2	3	10	6	17	18	19	20	21	32	4	5	52	8	9
+lymph_nodes_examined_count	lymph_node_examined_count	60	10	 4	 3	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+lymph_nodes_examined_he_count	number_of_lymphnodes_positive_by_he	NA	0	1	6	2	3	52	8
+lymph_nodes_examined_he_count	number_of_lymphnodes_positive_by_he	61	23	 2	 2	 1	 1	 1	 1
+weiss_score_overall	weiss_score	NA	3	4	6	7	8	5	9	2
+weiss_score_overall	weiss_score	23	12	11	11	10	 9	 8	 5	 3
+mitoses_per_50_hpf	mitoses_count	NA	5	6	1	10	15	7	0	2	3	4	60	8	90	100	12	129	13	18	19	23	24	30	31	35	50	51	77	9
+mitoses_per_50_hpf	mitoses_count	31	 7	 5	 4	 4	 4	 4	 3	 3	 3	 3	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+ajcc_pathologic_tumor_stage	pathologic_stage	Stage II	Stage III	Stage IV	Stage I	NA
+ajcc_pathologic_tumor_stage	pathologic_stage	44	19	18	 9	 2
+residual_tumor	residual_tumor	R0	R2	R1	RX	NA
+residual_tumor	residual_tumor	64	12	 7	 6	 3
+metastatic_dx_confirmed_by	metastatic_neoplasm_confirmed_diagnosis_method_name	NA	Imaging Suspected	Other, specify	Biopsy Proven	Biopsy Proven|Imaging Suspected
+metastatic_dx_confirmed_by	metastatic_neoplasm_confirmed_diagnosis_method_name	75	 7	 5	 3	 2
+metastatic_dx_confirmed_by_other	metastatic_neoplasm_confirmed_diagnosis_method_text	NA	excision of brain met	Operation	Resection	surgical resection
+metastatic_dx_confirmed_by_other	metastatic_neoplasm_confirmed_diagnosis_method_text	88	 1	 1	 1	 1
+metastatic_tumor_site	metastatic_neoplasm_initial_diagnosis_anatomic_site	NA	Lung	Liver	Other, specify	Bone|Liver	Bone|Lung|Peritoneum	Liver|Other, specify	Lung|Liver|Other, specify	Lung|Other, specify
+metastatic_tumor_site	metastatic_neoplasm_initial_diagnosis_anatomic_site	72	 7	 6	 2	 1	 1	 1	 1	 1
+metastatic_tumor_site.1	distant_metastasis_anatomic_site	NA	brain	left cervical lymph node	Lymph nodes	Retroperitoneum	Vena cava and left atrium of the heart
+metastatic_tumor_site.1	distant_metastasis_anatomic_site	87	 1	 1	 1	 1	 1
+history_adrenal_hormone_excess	excess_adrenal_hormone_history_type	None	Androgen|Cortisol	Cortisol	Androgen	NA	Mineralocorticoids	Androgen|Estrogen	Estrogen	Androgen|Mineralocorticoids	Mineralocorticoids|Cortisol
+history_adrenal_hormone_excess	excess_adrenal_hormone_history_type	31	20	17	 8	 7	 3	 2	 2	 1	 1
+history_basis_adrenal_hormone_dx	excess_adrenal_hormone_diagnosis_method_type	Both Clinical and Biochemical Assessments	NA	Biochemical Assessment
+history_basis_adrenal_hormone_dx	excess_adrenal_hormone_diagnosis_method_type	41	39	12
+molecular_studies_others_performed	germline_testing_performed	NO	YES	NA
+molecular_studies_others_performed	germline_testing_performed	66	15	11
+new_tumor_event_dx_indicator	new_tumor_event_after_initial_treatment	NO	YES	NA
+new_tumor_event_dx_indicator	new_tumor_event_after_initial_treatment	43	42	 7
+age_at_initial_pathologic_diagnosis	age_at_initial_pathologic_diagnosis	23	37	53	61	30	36	42	44	45	52	55	59	65	17	22	25	26	32	39	48	57	58	60	63	69	14	20	27	29	31	34	40	46	47	49	50	51	54	56	62	64	66	67	68	71	72	74	75	77	83
+age_at_initial_pathologic_diagnosis	age_at_initial_pathologic_diagnosis	4	4	4	4	3	3	3	3	3	3	3	3	3	2	2	2	2	2	2	2	2	2	2	2	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+atypical_mitotic_figures	atypical_mitotic_figures	Atypical Mitotic Figures Absent	Atypical Mitotic Figures Present	NA
+atypical_mitotic_figures	atypical_mitotic_figures	35	33	24
+clinical_M	clinical_M	M0	M1	NA
+clinical_M	clinical_M	72	18	 2
+clinical_N	clinical_N	NA
+clinical_N	clinical_N	92
+clinical_T	clinical_T	NA
+clinical_T	clinical_T	92
+clinical_stage	clinical_stage	NA
+clinical_stage	clinical_stage	92
+cytoplasm_presence_less_than_equal_25_percent	cytoplasm_presence_less_than_equal_25_percent	Cytoplasm presence <= 25% Present	NA	Cytoplasm presence <= 25% Absent
+cytoplasm_presence_less_than_equal_25_percent	cytoplasm_presence_less_than_equal_25_percent	57	23	12
+days_to_birth	days_to_birth	-10173	-10839	-11171	-11261	-11279	-11414	-11970	-11994	-12663	-13155	-13182	-13472	-13559	-13574	-13840	-13862	-14435	-14606	-14667	-15373	-15536	-15594	-16090	-16182	-16217	-16604	-16659	-16702	-16875	-17513	-17596	-17819	-18214	-18402	-18926	-19111	-19172	-19242	-19375	-19436	-19492	-19526	-20069	-20106	-20319	-20328	-20657	-20989	-21032	-21292	-21496	-21565	-21627	-21907	-22057	-22218	-22370	-22390	-22550	-22596	-22919	-23293	-23345	-23481	-23794	-24017	-24082	-24266	-24763	-25190	-25400	-25502	-26084	-26404	-27179	-27607	-28270	-30535	-5383	-6250	-6455	-7459	-8175	-8177	-8451	-8624	-8735	-8745	-9298	-9359	-9547	-9667
+days_to_birth	days_to_birth	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+days_to_death	days_to_death	NA	0	1105	1197	1204	125	1355	159	1613	1677	1750	1852	207	2105	2385	289	344	365	383	391	423	436	445	490	541	551	552	562	579	662	922	994
+days_to_death	days_to_death	61	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+days_to_initial_pathologic_diagnosis	days_to_initial_pathologic_diagnosis	0
+days_to_initial_pathologic_diagnosis	days_to_initial_pathologic_diagnosis	92
+days_to_last_followup	days_to_last_followup	NA	2549	1029	1091	1130	1183	1227	1255	1259	1293	1414	1424	149	1525	1541	1583	1589	1781	1858	1916	1924	1942	1949	211	2222	2251	2428	253	2673	2723	2782	2842	307	309	3240	365	3659	3688	383	3897	4673	470	487	488	504	528	555	628	639	645	670	674	679	709	724	741	830	840	882	889	950
+days_to_last_followup	days_to_last_followup	31	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+diffuse_architecture	diffuse_architecture	Diffuse Architecture Present	NA	Diffuse Architecture Absent
+diffuse_architecture	diffuse_architecture	50	22	20
+disease_code	disease_code	NA
+disease_code	disease_code	92
+extranodal_involvement	extranodal_involvement	NA
+extranodal_involvement	extranodal_involvement	92
+icd_10	icd_10	C74.0
+icd_10	icd_10	92
+icd_o_3_histology	icd_o_3_histology	8370/3	8370/1
+icd_o_3_histology	icd_o_3_histology	87	 5
+icd_o_3_site	icd_o_3_site	C74.0
+icd_o_3_site	icd_o_3_site	92
+informed_consent_verified	informed_consent_verified	YES
+informed_consent_verified	informed_consent_verified	92
+invasion_of_tumor_capsule	invasion_of_tumor_capsule	Invasion of Tumor Capsule Present	Invasion of Tumor Capsule Absent	NA
+invasion_of_tumor_capsule	invasion_of_tumor_capsule	48	35	 9
+mitotic_rate	mitotic_rate	Mitotic Rate > 5/50 HPF Present	Mitotic Rate > 5/50 HPF Absent	NA
+mitotic_rate	mitotic_rate	48	32	12
+necrosis	necrosis	Necrosis Present	Necrosis Absent	NA
+necrosis	necrosis	67	20	 5
+nuclear_grade_III_IV	nuclear_grade_III_IV	Nuclear Grade III or IV Present	NA	Nuclear Grade III or IV Absent
+nuclear_grade_III_IV	nuclear_grade_III_IV	56	21	15
+pathologic_M	pathologic_M	NA
+pathologic_M	pathologic_M	92
+pathologic_N	pathologic_N	N0	N1	NA
+pathologic_N	pathologic_N	80	10	 2
+pathologic_T	pathologic_T	T2	T4	T3	T1	NA
+pathologic_T	pathologic_T	49	21	11	 9	 2
+patient_id	patient_id	A5H8	A5H9	A5HA	A5HB	A5HC	A5J1	A5J2	A5J3	A5J4	A5J5	A5J6	A5J7	A5J8	A5J9	A5JA	A5JB	A5JC	A5JD	A5JE	A5JF	A5JG	A5JH	A5JI	A5JJ	A5JK	A5JL	A5JM	A5JO	A5JP	A5JQ	A5JR	A5JS	A5JT	A5JU	A5JV	A5JW	A5JX	A5JY	A5JZ	A5K0	A5K1	A5K2	A5K3	A5K4	A5K5	A5K6	A5K8	A5K9	A5KB	A5KO	A5KP	A5KQ	A5KS	A5KT	A5KU	A5KV	A5KW	A5KX	A5KY	A5KZ	A5L1	A5L2	A5L3	A5L4	A5L5	A5L6	A5L8	A5L9	A5LA	A5LB	A5LC	A5LD	A5LE	A5LF	A5LG	A5LH	A5LI	A5LJ	A5LK	A5LL	A5LM	A5LN	A5LO	A5LP	A5LR	A5LS	A5LT	A5OF	A5OG	A5OH	A5PI	A5YG
+patient_id	patient_id	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+project_code	project_code	NA
+project_code	project_code	92
+ret	ret	NA	RET Negative
+ret	ret	91	 1
+sdha	sdha	NA
+sdha	sdha	92
+sdhaf2_sdh5	sdhaf2_sdh5	NA
+sdhaf2_sdh5	sdhaf2_sdh5	92
+sdhb	sdhb	NA
+sdhb	sdhb	92
+sdhc	sdhc	NA
+sdhc	sdhc	92
+sdhd	sdhd	NA
+sdhd	sdhd	92
+sinusoid_invasion	sinusoid_invasion	Sinusoid Invasion Absent	Sinusoid Invasion Present	NA
+sinusoid_invasion	sinusoid_invasion	39	29	24
+stage_other	stage_other	NA
+stage_other	stage_other	92
+system_version	system_version	NA
+system_version	system_version	92
+tissue_source_site	tissue_source_site	OR	PK	P6	OU	PA
+tissue_source_site	tissue_source_site	82	 5	 3	 1	 1
+tmem127	tmem127	NA
+tmem127	tmem127	92
+tumor_tissue_site	tumor_tissue_site	Adrenal
+tumor_tissue_site	tumor_tissue_site	92
+vhl	vhl	NA
+vhl	vhl	92
+weiss_venous_invasion	weiss_venous_invasion	Venous Invasion Absent	Venous Invasion Present	NA
+weiss_venous_invasion	weiss_venous_invasion	43	36	13

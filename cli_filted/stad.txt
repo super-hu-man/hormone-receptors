@@ -1,0 +1,3 @@
+Tag	Tag2	number_NA	other	
+history_reflux_disease_indicator	reflux_history	185[41.76%] | N/A	212[47.86%] | NO	 46[10.38%] | YES
+h_pylori_infection	h_pylori_infection	255[57.56%] | N/A	168[37.92%] | No	 20[4.51%] | Yes

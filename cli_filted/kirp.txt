@@ -1,0 +1,6 @@
+Tag	Tag2	number_NA	other													
+lymph_nodes_examined_positive	number_of_lymphnodes_positive	237[81.44%] | N/A	25[8.59%] | 0	 8[2.75%] | 1	 5[1.72%] | 2	 3[1.03%] | 3	 3[1.03%] | 4	 2[0.69%] | 5	 1[0.34%] | 09	 1[0.34%] | 11	 1[0.34%] | 14	 1[0.34%] | 21	 1[0.34%] | 30	 1[0.34%] | 6	 1[0.34%] | 7	 1[0.34%] | 9
+serum_calcium_level	serum_calcium_result	110[37.8%] | N/A	134[46.05%] | Normal	 41[14.09%] | Low	  6[2.06%] | Elevated											
+hemoglobin_level	hemoglobin_result	81[27.84%] | N/A	112[38.49%] | Normal	 97[33.33%] | Low	  1[0.34%] | Elevated											
+platelet_count	platelet_qualitative_result	85[29.21%] | N/A	183[62.89%] | Normal	 16[5.5%] | Low	  7[2.41%] | Elevated											
+white_cell_count	white_cell_count_result	84[28.87%] | N/A	152[52.23%] | Normal	 44[15.12%] | Elevated	 11[3.78%] | Low											

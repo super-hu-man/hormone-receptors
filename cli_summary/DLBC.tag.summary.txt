@@ -1,0 +1,223 @@
+Factor1	Factor2	Tags...
+bcr_patient_uuid	bcr_patient_uuid	0030A28C-81AA-44B0-8BE0-B35E1DCBF98C	0BF573AC-CD1E-42D8-90CF-B30D7B08679C	0E251C03-BF86-4ED8-B45D-3CBC97160502	0e9fcccc-0630-408d-a121-2c6413824cb7	1843C82E-7A35-474F-9F79-C0A9AF9AA09C	1D0DB5D7-39CA-466D-96B3-0D278C5EA768	1EA575F1-F731-408B-A629-F5F4ABAB569E	1f971af1-6772-4fe6-8d35-bbe527a037fe	25FF86AF-BEB4-480C-B706-F3FE0306F7CF	29AFF186-C321-4FF9-B81B-105E27E620FF	29E3D122-15A1-4235-A356-B1A9F94CEB39	31bbad4e-3789-42ec-9faa-1cb86970f723	33365D22-CB83-4D8E-A2D1-06B675F75F6E	3622cf29-600f-4410-84d4-a9afeb41c475	3f5a897d-1eaa-4d4c-8324-27ac07c90927	45B0CF9F-A879-417F-8F39-7770552252C0	4DD86EBD-EF16-4B2B-9EA0-5D1D7AFEF257	58E66976-4507-4552-AC53-83A49A142DDE	5EFF68FF-F6C3-40C9-9FC8-00E684A7B712	67325322-483f-443f-9ffa-2a20d108a2fb	69F23725-ADCA-48AC-9B33-80A7AAE24CFE	6a21c948-cd85-4150-8c01-83017d7dc1ed	6E9437F0-A4ED-475C-AB0E-BF1431C70A90	7a589441-11ef-4158-87e7-3951d86bc2aa	a43e5f0e-a21f-48d8-97e0-084d413680b7	a468e725-ad4b-411d-ac5c-2eacc68ec580	A5B188F0-A6D3-4D4A-B04F-36D47EC05338	A6923479-4E68-4EA8-87ED-E9642B9D43D5	a8e2df1e-4042-42af-9231-3a00e83489f0	B56BDBDB-43AF-4A03-A072-54DD22D7550C	C1C06604-5AE2-4A53-B9C0-EB210D38E3F0	c3d662ee-48d0-454a-bb0c-77d3338d3747	C85F340E-584B-4F3B-B6A5-540491FC8AD2	c8cde9ea-89e9-4ee8-8a46-417a48f6d3ab	D7DF78B5-24F1-4FF4-BD9B-F0E6BEC8289A	DC87A809-95DE-4EB7-A1C2-2650475F2D7E	e56e4d9c-052e-4ec6-a81b-dbd53e9c8ffe	E6365B38-BC44-400C-B4AA-18CE8FF5BFCE	ea54dbad-1b23-41cc-9378-d4002a8fca51	ED746CB9-0F2F-48CE-923A-3A9F9F00B331	EDA9496E-BE80-4A13-BF06-89F0CC9E937F	f0a326d2-1f3e-4a5d-bca8-32aaccc52338	F553F1A9-ECF2-4783-A609-6ADCA7C4C597	F784BC3A-751B-4025-AAB2-0AF2F6F24266	F855DAD1-6FFC-493E-BA6C-970874BC9210	f8cf647b-1447-4ac3-8c43-bef07765cabf	f978cb0f-d319-4c01-b4c5-23ae1403a106	FDECB74F-AC4E-46B1-B23A-5F7FDE96EF9F
+bcr_patient_uuid	bcr_patient_uuid	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+bcr_patient_barcode	bcr_patient_barcode	TCGA-FA-8693	TCGA-FA-A4BB	TCGA-FA-A4XK	TCGA-FA-A6HN	TCGA-FA-A6HO	TCGA-FA-A7DS	TCGA-FA-A7Q1	TCGA-FA-A82F	TCGA-FA-A86F	TCGA-FF-8041	TCGA-FF-8042	TCGA-FF-8043	TCGA-FF-8046	TCGA-FF-8047	TCGA-FF-8061	TCGA-FF-8062	TCGA-FF-A7CQ	TCGA-FF-A7CR	TCGA-FF-A7CW	TCGA-FF-A7CX	TCGA-FM-8000	TCGA-G8-6324	TCGA-G8-6325	TCGA-G8-6326	TCGA-G8-6906	TCGA-G8-6907	TCGA-G8-6909	TCGA-G8-6914	TCGA-GR-7351	TCGA-GR-7353	TCGA-GR-A4D4	TCGA-GR-A4D5	TCGA-GR-A4D6	TCGA-GR-A4D9	TCGA-GS-A9TQ	TCGA-GS-A9TT	TCGA-GS-A9TU	TCGA-GS-A9TV	TCGA-GS-A9TW	TCGA-GS-A9TX	TCGA-GS-A9TY	TCGA-GS-A9TZ	TCGA-GS-A9U3	TCGA-GS-A9U4	TCGA-RQ-A68N	TCGA-RQ-A6JB	TCGA-RQ-AAAT	TCGA-VB-A8QN
+bcr_patient_barcode	bcr_patient_barcode	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+form_completion_date	form_completion_date	2014-6-2	2011-12-14	2013-10-30	2012-1-17	2012-5-16	2012-7-3	2013-1-10	2013-1-9	2013-10-21	2012-1-5	2012-4-16	2012-4-18	2012-4-20	2012-4-4	2012-4-5	2012-5-17	2012-9-12	2013-11-13	2013-12-12	2013-2-11	2013-3-22	2014-1-13	2014-1-3	2014-1-7	2014-11-14	2014-7-28	2015-2-15
+form_completion_date	form_completion_date	10	 4	 4	 2	 2	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+histologic_diagnosis	histological_type	Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal)	Primary mediastinal (thymic) DLBCL	Primary DLBCL of the CNS
+histologic_diagnosis	histological_type	41	 4	 3
+lymph_node_involvement_site	lymph_node_involvement_site	cervical	mesenteric	other	NA	Axillary	Inguinal	mediastinal	Axillary|cervical|hilar|Iliac-common|Iliac-external|Inguinal|mediastinal|retroperitoneal|supraclavicular	Axillary|cervical|hilar|Iliac-common|Iliac-external|mediastinal|mesenteric|para-aortic|retroperitoneal|Splenic	Axillary|cervical|Inguinal|mesenteric|supraclavicular	Axillary|cervical|Inguinal|retroperitoneal	Axillary|cervical|mediastinal|para-aortic	Axillary|Inguinal	Axillary|para-aortic|Splenic|supraclavicular	cervical|Inguinal	cervical|mediastinal|para-aortic|supraclavicular	cervical|mediastinal|supraclavicular	cervical|Submandibular	cervical|supraclavicular	Femoral|Inguinal	hilar|Iliac-common|Inguinal|para-aortic|Splenic	para-aortic|retroperitoneal	retroperitoneal	supraclavicular|Submandibular
+lymph_node_involvement_site	lymph_node_involvement_site	8	6	6	5	2	2	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+extranodal_involvment_other	extranodal_involvment_site_other	NA	Spleen	bladder	Omentum
+extranodal_involvment_other	extranodal_involvment_site_other	44	 2	 1	 1
+extranodal_site_involvement	extranodal_sites_involvement_number	0	1	NA	2	3	4	6
+extranodal_site_involvement	extranodal_sites_involvement_number	13	12	11	 6	 4	 1	 1
+follicular_component_percent	follicular_percent	< or = 10%	NA
+follicular_component_percent	follicular_percent	40	 8
+hiv_status	hiv_status	Negative	NA
+hiv_status	hiv_status	42	 6
+history_other_malignancy	other_dx	No
+history_other_malignancy	other_dx	48
+history_neoadjuvant_treatment	history_of_neoadjuvant_treatment	No	Yes
+history_neoadjuvant_treatment	history_of_neoadjuvant_treatment	47	 1
+prospective_collection	tissue_prospective_collection_indicator	NO	YES
+prospective_collection	tissue_prospective_collection_indicator	33	15
+retrospective_collection	tissue_retrospective_collection_indicator	YES	NO
+retrospective_collection	tissue_retrospective_collection_indicator	33	15
+gender	gender	FEMALE	MALE
+gender	gender	26	22
+birth_days_to	days_to_birth	-10075	-10466	-13317	-13708	-13996	-14723	-14838	-15358	-15750	-16720	-16924	-17023	-17819	-18691	-18853	-19238	-19838	-20087	-20270	-20812	-20888	-21005	-21021	-21272	-21330	-21959	-22454	-22471	-22859	-23127	-23178	-23641	-24405	-24569	-24590	-24661	-25256	-25292	-25612	-25724	-25794	-26520	-27025	-27255	-27468	-28474	-30256	-8493
+birth_days_to	days_to_birth	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+race	race	WHITE	ASIAN	BLACK OR AFRICAN AMERICAN
+race	race	29	18	 1
+ethnicity	ethnicity	NOT HISPANIC OR LATINO	HISPANIC OR LATINO
+ethnicity	ethnicity	36	12
+weight_kg_at_diagnosis	weight	58	60	85	50	68	105.7	117.1	127.7	41.5	43.9	48.1	51	52.5	54	54.5	58.9	59.2	60.1	61	65	66	67	68.0	68.2	69.5	72	72.5	73	75	76.1	77	77.5	80	81.9	82	89.9	90	90.5	91.8	96.8
+weight_kg_at_diagnosis	weight	3	3	3	2	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+height_cm_at_diagnosis	height	157	162	171	178	155	155.0	165	169	146	153	154	154.2	156	158	159.5	160	162.5	163	164.3	164.7	165.5	166.5	167	168	168.0	170	171.5	172	173	174	180	183	185	187
+height_cm_at_diagnosis	height	5	3	3	3	2	2	2	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+tumor_resected_max_dimension	maximum_tumor_dimension	NA	3	1.5	10	12	2	2.0	4	.42	0.4	1	1.8	15	17	2.1	2.4	2.7	3.4	3.5	4.4	4.5	4.8	5	5.4	5.5	6	7.0
+tumor_resected_max_dimension	maximum_tumor_dimension	10	 6	 3	 2	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+initial_pathologic_dx_year	year_of_initial_pathologic_diagnosis	2010	2011	2013	2012	2005	2009	1987	1996	2000	2001	2002	2004	2006	2008
+initial_pathologic_dx_year	year_of_initial_pathologic_diagnosis	9	9	9	8	3	2	1	1	1	1	1	1	1	1
+ajcc_staging_edition	system_version	7th	NA	6th	5th	4th
+ajcc_staging_edition	system_version	32	 7	 6	 2	 1
+ajcc_pathologic_tumor_stage	pathologic_stage	NA
+ajcc_pathologic_tumor_stage	pathologic_stage	48
+extranodal_lymphomatous_involvement	extranodal_involvement	NO	YES	NA
+extranodal_lymphomatous_involvement	extranodal_involvement	25	21	 2
+ecog_score	eastern_cancer_oncology_group	NA	0	1	2	3
+ecog_score	eastern_cancer_oncology_group	17	16	12	 2	 1
+ldh_level	ldh_level	NA	498	120	143	164	252	257	288	321	325	337	364	385	391	414	420	426	446	461	499	536	623	628	667	682	714	756	851	964	978
+ldh_level	ldh_level	18	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+ldh_norm_range_upper	ldh_norm_range_upper	NA	380	450	618	192	185	250	260
+ldh_norm_range_upper	ldh_norm_range_upper	15	11	10	 7	 2	 1	 1	 1
+vital_status	vital_status	Alive	Dead
+vital_status	vital_status	43	 5
+last_contact_days_to	days_to_last_followup	NA	0	6	-10	1	11	1162	1245	126	1266	139	1408	17	22	2254	25	259	2717	2829	298	32	3227	3414	35	377	380	385	3872	402	415	433	5616	576	580	608	62	626	751	812	844	887	911
+last_contact_days_to	days_to_last_followup	5	2	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+death_days_to	days_to_death	NA	1252	313	391	595	6425
+death_days_to	days_to_death	43	 1	 1	 1	 1	 1
+tumor_status	person_neoplasm_cancer_status	TUMOR FREE	WITH TUMOR	NA
+tumor_status	person_neoplasm_cancer_status	37	 7	 4
+bone_marrow_biopsy_performed	bone_marrow_biopsy_done	NA	YES	NO
+bone_marrow_biopsy_performed	bone_marrow_biopsy_done	19	19	10
+bone_marrow_involvement	bone_marrow_involvement	NO	NA	YES
+bone_marrow_involvement	bone_marrow_involvement	32	13	 3
+bone_marrow_sample_histology	bone_marrow_sample_histology	NA	Concordant Histology	Discordant Histology
+bone_marrow_sample_histology	bone_marrow_sample_histology	44	 2	 2
+immunopheotypic_analysis_tested	immunophenotypic_analysis_tested	CD20	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|Cyclin D1	NA	CD10 > 30%|BCL2|CD20	CD10 > 30%|BCL2|CD20|BCL6 > 30%|CD23|CD5|CD30	CD10 > 30%|BCL2|CD20|BCL6 > 30%|CD5|Cyclin D1	CD10 > 30%|BCL2|CD20|BCL6 > 30%|CD79a|CD30|CD15|EBER|CD5|Cytoplasmic Ig|Surface Ig	CD10 > 30%|BCL2|CD20|CD138|CD22|BCL6 > 30%|CD23|CD79a|CD5|CD19|P53 >20%|MUM1 > 30%|Cytoplasmic Ig|Surface Ig	CD10 > 30%|BCL2|CD20|CD23|CD5	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD22|CD5|CD30|Cytoplasmic Ig|Surface Ig	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD23|CD30|Cyclin D1	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD23|CD79a|CD5|CD19|CD22|Cytoplasmic Ig|Surface Ig|EBER	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD23|CD79a|CD5|Cyclin D1	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD30	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD30|NA	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD5	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD5|CD30|CD15	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD5|Cyclin D1	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD5|Cytoplasmic Ig|EBER|Cyclin D1	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD79a|CD5|CD30|CD15|EBER|ALK|Cytoplasmic Ig	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|PAX5	CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|PAX5|CD5|CD30|EBER|ALK	CD10 > 30%|BCL2|CD20|MUM1 > 30%|CD138|BCL6 > 30%|CD23|CD5|CD30|EBER|Cyclin D1	CD10 > 30%|BCL2|CD20|MUM1 > 30%|CD138|BCL6 > 30%|CD30|EBER|Cyclin D1	CD10 > 30%|BCL2|CD20|MUM1 > 30%|CD138|CD15|Cyclin D1	CD10 > 30%|BCL2|CD20|MUM1 > 30%|Cyclin D1	CD10 > 30%|BCL2|P53 >20%|CD20|MUM1 > 30%|BCL6 > 30%|CD5|Cytoplasmic Ig	CD10 > 30%|CD20	CD10 > 30%|CD20|BCL6 > 30%	CD10 > 30%|CD20|BCL6 > 30%|MUM1 > 30%|CD23|CD79a|PAX5|CD5|CD30|CD15|ALK	CD10 > 30%|CD20|CD5|Cyclin D1	CD19|CD10 > 30%|BCL2	CD19|CD10 > 30%|BCL2|CD20|CD20|MUM1 > 30%|BCL6 > 30%|CD23|CD23|PAX5|CD5|CD5	CD19|CD10 > 30%|BCL2|CD20|MUM1 > 30%|BCL6 > 30%|CD23|CD5|EBER	CD19|CD10 > 30%|BCL2|CD20|MUM1 > 30%|CD22|BCL6 > 30%|CD23|CD79a|CD5|CD15|EBER|CD30|Cytoplasmic Ig|Surface Ig	CD19|CD10 > 30%|BCL2|P53 >20%|CD20|CD22|BCL6 > 30%|CD23|CD79a|CD5|CD30|Cytoplasmic Ig|Surface Ig	CD19|CD10 > 30%|BCL2|P53 >20%|CD20|MUM1 > 30%|CD22|BCL6 > 30%|CD23|CD79a|CD5|Cytoplasmic Ig	CD19|CD10 > 30%|CD20|MUM1 > 30%|BCL6 > 30%|CD23|PAX5|CD5|Cyclin D1	CD19|CD20|CD22	CD20|CD23|PAX5|CD30|CD15|EBER|CD5|Cytoplasmic Ig|Surface Ig	CD20|CD30	CD20|PAX5
+immunopheotypic_analysis_tested	immunophenotypic_analysis_tested	5	2	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+immunophenotypic_analysis_method	immunophenotypic_analysis_method	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Immunohistochemistry	Immunohistochemistry|Immunohistochemistry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	NA	Flow cytometry|Flow cytometry|Flow cytometry	Flow cytometry|Flow cytometry|Immunohistochemistry	Flow cytometry|Flow cytometry|Immunohistochemistry|Immunohistochemistry|Flow cytometry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry|Immunohistochemistry|Immunohistochemistry|Flow cytometry	Flow cytometry|Immunohistochemistry|Flow cytometry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Flow cytometry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry|Immunohistochemistry|Immunohistochemistry	Flow cytometry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Flow cytometry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry|Flow cytometry|Immunohistochemistry|Flow cytometry|Immunohistochemistry|Flow cytometry|Flow cytometry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry|Immunohistochemistry|Flow cytometry|Flow cytometry|Flow cytometry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry|Immunohistochemistry|Flow cytometry|Immunohistochemistry|Flow cytometry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Flow cytometry|Immunohistochemistry|Flow cytometry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry	Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|Immunohistochemistry|NA
+immunophenotypic_analysis_method	immunophenotypic_analysis_method	6	5	3	3	3	3	2	2	2	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+immunopheotypic_analysis_results	immunophenotypic_analysis_results	Positive	NA	Negative|Positive|Positive|Positive|Positive|Negative	Negative|Positive|Positive|Positive|Positive|Negative|Positive|Negative	Negative|Positive|Positive|Positive|Positive|Negative|Positive|Negative|Negative	Positive|Positive	Positive|Positive|Positive	Negative|Negative|Positive|Negative|Negative|Negative|Negative	Negative|Negative|Positive|Positive|Negative|Positive|Negative|Indeterminate	Negative|Positive	Negative|Positive|Negative|Negative	Negative|Positive|Positive	Negative|Positive|Positive|Negative|Negative|Positive|Negative|Negative|Positive|Positive	Negative|Positive|Positive|Negative|Negative|Positive|Positive|Negative|Negative|Negative|Negative	Negative|Positive|Positive|Positive|Negative|Negative|Negative	Negative|Positive|Positive|Positive|Negative|Positive|Negative|Negative|Negative	Negative|Positive|Positive|Positive|Negative|Positive|Negative|Positive|Negative|Positive|Negative|Indeterminate	Negative|Positive|Positive|Positive|Negative|Positive|Positive|Negative|Positive|Positive|Positive|Positive|Negative	Negative|Positive|Positive|Positive|Positive|Negative|Negative	Negative|Positive|Positive|Positive|Positive|Positive|Negative|Negative|Negative|Indeterminate|Indeterminate	Negative|Positive|Positive|Positive|Positive|Positive|Positive|Positive|Negative|Negative|Negative	Positive|Negative|Negative|Positive|Positive|Positive|Negative|Negative|Negative	Positive|Negative|Positive	Positive|Negative|Positive|Negative|Negative	Positive|Negative|Positive|Negative|Positive|Positive|Positive|Positive|Negative	Positive|Negative|Positive|Negative|Positive|Positive|Positive|Positive|Negative|Positive|Negative|Positive	Positive|Negative|Positive|Positive|Negative|Negative	Positive|Negative|Positive|Positive|Positive|Negative	Positive|Negative|Positive|Positive|Positive|Negative|NA	Positive|Negative|Positive|Positive|Positive|Positive|Positive|Positive|Positive|Negative|Negative|Negative|Positive|Indeterminate|Indeterminate	Positive|Negative|Positive|Positive|Positive|Positive|Positive|Positive|Positive|Positive|Negative|Negative	Positive|Positive|Negative|Negative|Positive|Positive|Positive|Positive|Positive|Negative|Negative|Positive|Positive	Positive|Positive|Positive|Negative|Negative	Positive|Positive|Positive|Negative|Positive|Positive|Negative|Negative|Negative|Negative	Positive|Positive|Positive|Negative|Positive|Positive|Positive|Positive|Negative|Positive|Negative|Negative|Indeterminate|Positive	Positive|Positive|Positive|Positive|Negative|Negative|Negative|Indeterminate|Indeterminate	Positive|Positive|Positive|Positive|Positive|Negative	Positive|Positive|Positive|Positive|Positive|Positive
+immunopheotypic_analysis_results	immunophenotypic_analysis_results	5	2	2	2	2	2	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+mib_1_positive_percent_range	mib1_positive_percentage_range	NA	51 - 75%	76 - 100%	26 - 50%	0 - 25%
+mib_1_positive_percent_range	mib1_positive_percentage_range	21	12	11	 3	 1
+b_cell_genotype_method	b_lymphocyte_genotyping_method	NA	IgH PCR	IgH Southern Blot
+b_cell_genotype_method	b_lymphocyte_genotyping_method	41	 5	 2
+igh_genotype_result	igh_genotype_results	NA	Clonal	Non-Clonal
+igh_genotype_result	igh_genotype_results	41	 4	 3
+igk_genotype_result	igk_genotype_results	NA
+igk_genotype_result	igk_genotype_results	48
+genetic_abnormality_tested	genetic_abnormality_tested	NA	C-MYC|BCL2|BCL6|CCND1|MALT1	BCL2	C-MYC	C-MYC|BCL2|BCL6|MALT1	BCL2|BCL6	BCL2|BCL6|CCND1
+genetic_abnormality_tested	genetic_abnormality_tested	29	 9	 4	 2	 2	 1	 1
+genetic_abnormality_tested_other	genetic_abnormality_tested_other	NA	PAX5|IGH|NA|NA|NA	PAX5|IGH|IGK|IGL|NA	1p36|NA	G Band Karyotype	IGH|PAX5|NA|NA|NA	NA|NA|NA	PAX 5|IGH|BCL10|NA|NA	PAX 5|IGH|NA|NA	PAX5|IGH|FoxP1|BCL10|NA	PAX5|IGH|NA|NA
+genetic_abnormality_tested_other	genetic_abnormality_tested_other	34	 4	 2	 1	 1	 1	 1	 1	 1	 1	 1
+genetic_abnormality_method_other	genetic_abnormality_method	NA	FISH|FISH|FISH|FISH|FISH	PCR	FISH	FISH|FISH|FISH|FISH	FISH|FISH	FISH|FISH|FISH
+genetic_abnormality_method_other	genetic_abnormality_method	29	 9	 4	 2	 2	 1	 1
+genetic_abnormality_results	genetic_abnormality_results	NA	Normal|Normal|Normal|Normal|Normal	Normal	Gain	Loss	Normal|Amplification|Normal|Normal	Normal|Gain	Normal|Normal|Normal	Normal|Normal|Normal|Normal	Normal|Translocation|Normal|Normal|Normal	Translocation	Translocation|Normal|Normal|Normal|Normal	Translocation|Normal|Translocation|Normal|Normal
+genetic_abnormality_results	genetic_abnormality_results	29	 6	 3	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+history_immunological_disease	history_immunological_disease	NA	Other	Hashimoto's Thyroiditis	Rheumatoid Arthritis|Other
+history_immunological_disease	history_immunological_disease	43	 3	 1	 1
+history_immunological_disease_other	history_immunological_disease_other	NA	Behget's disease	Common variable immunodeficiency	Diverticulitis requiring colectomy	Non-insulin dependent diabetes mellitus
+history_immunological_disease_other	history_immunological_disease_other	44	 1	 1	 1	 1
+history_immunosuppresive_dx	history_immunosuppresive_rx	None	NA	Azathioprine|Other	Methotrexate	Other
+history_immunosuppresive_dx	history_immunosuppresive_rx	30	15	 1	 1	 1
+history_immunosuppressive_tx_other	history_immunosuppressive_rx_other	NA	Immunoglobulin	Prednisone
+history_immunosuppressive_tx_other	history_immunosuppressive_rx_other	46	 1	 1
+history_relevant_infectious_dx	history_relevant_infectious_dx	NA	Hepatitis B Virus	Hepatitis C
+history_relevant_infectious_dx	history_relevant_infectious_dx	43	 4	 1
+history_immunosuppresive_dx_other	history_relevant_infectious_dx_other	NA
+history_immunosuppresive_dx_other	history_relevant_infectious_dx_other	48
+epstein_barr_viral_status	epstein_barr_viral_status	NA	negative	positive
+epstein_barr_viral_status	epstein_barr_viral_status	41	 6	 1
+ebv_positive_malignant_cells_percent	ebv_positive_malignant_cells_percent	NA	80
+ebv_positive_malignant_cells_percent	ebv_positive_malignant_cells_percent	47	 1
+ebv_status_malignan_cells_method	ebv_status_malignant_cells_method	NA	EBER in situ hybridization
+ebv_status_malignan_cells_method	ebv_status_malignant_cells_method	41	 7
+radiation_treatment_adjuvant	radiation_therapy	NO	NA	YES
+radiation_treatment_adjuvant	radiation_therapy	28	19	 1
+pharmaceutical_tx_adjuvant	postoperative_rx_tx	NA
+pharmaceutical_tx_adjuvant	postoperative_rx_tx	48
+treatment_outcome_first_course	primary_therapy_outcome_success	NA	Complete Remission/Response	Partial Remission/Response	Progressive Disease	Stable Disease
+treatment_outcome_first_course	primary_therapy_outcome_success	23	18	 3	 2	 2
+pet_scan_after_treatment_results	pet_scan_results	NA
+pet_scan_after_treatment_results	pet_scan_results	48
+new_tumor_event_dx_indicator	new_tumor_event_after_initial_treatment	NO	NA	YES
+new_tumor_event_dx_indicator	new_tumor_event_after_initial_treatment	27	16	 5
+age_at_initial_pathologic_diagnosis	age_at_initial_pathologic_diagnosis	57	67	70	40	46	51	54	58	61	63	69	23	27	28	36	37	38	42	43	45	48	52	55	56	60	62	64	66	72	73	74	75	77	82
+age_at_initial_pathologic_diagnosis	age_at_initial_pathologic_diagnosis	3	3	3	2	2	2	2	2	2	2	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+age_began_smoking_in_years	age_began_smoking_in_years	NA
+age_began_smoking_in_years	age_began_smoking_in_years	48
+cd4_counts_at_diagnosis	cd4_counts_at_diagnosis	NA
+cd4_counts_at_diagnosis	cd4_counts_at_diagnosis	48
+cdc_hiv_risk_group	cdc_hiv_risk_group	NA
+cdc_hiv_risk_group	cdc_hiv_risk_group	48
+clinical_M	clinical_M	NA
+clinical_M	clinical_M	48
+clinical_N	clinical_N	NA
+clinical_N	clinical_N	48
+clinical_T	clinical_T	NA
+clinical_T	clinical_T	48
+clinical_stage	clinical_stage	Stage II	Stage IV	Stage I	NA	Stage III
+clinical_stage	clinical_stage	17	12	 8	 6	 5
+days_to_hiv_diagnosis	days_to_hiv_diagnosis	NA
+days_to_hiv_diagnosis	days_to_hiv_diagnosis	48
+days_to_initial_pathologic_diagnosis	days_to_initial_pathologic_diagnosis	0
+days_to_initial_pathologic_diagnosis	days_to_initial_pathologic_diagnosis	48
+days_to_sample_procurement	days_to_sample_procurement	NA
+days_to_sample_procurement	days_to_sample_procurement	48
+death_cause_text	death_cause_text	NA
+death_cause_text	death_cause_text	48
+disease_code	disease_code	NA
+disease_code	disease_code	48
+genetic_abnormality_method_other.1	genetic_abnormality_method_other	NA	FISH|FISH|NA|NA|NA	FISH|FISH|FISH|FISH|NA	FISH|FISH|NA|NA	Cytogenetics	FISH|FISH|FISH|NA|NA	FISH|NA	NA|NA|NA
+genetic_abnormality_method_other.1	genetic_abnormality_method_other	34	 5	 3	 2	 1	 1	 1	 1
+genetic_abnormality_results_other	genetic_abnormality_results_other	NA	Normal|Normal|NA|NA|NA	Normal|Normal|NA|NA	Normal|Translocation|NA|NA|NA	Normal|Translocation|Normal|Normal|NA	Loss|NA	NA|NA|NA	Normal	Normal|Normal|Normal|NA|NA	Normal|Normal|Normal|Normal|NA
+genetic_abnormality_results_other	genetic_abnormality_results_other	34	 3	 2	 2	 2	 1	 1	 1	 1	 1
+hbv_test	hbv_test	NA
+hbv_test	hbv_test	48
+hcv_test	hcv_test	NA
+hcv_test	hcv_test	48
+history_of_other_malignancy	history_of_other_malignancy	NA
+history_of_other_malignancy	history_of_other_malignancy	48
+hiv_rna_load_at_diagnosis	hiv_rna_load_at_diagnosis	NA
+hiv_rna_load_at_diagnosis	hiv_rna_load_at_diagnosis	48
+hpv_test	hpv_test	NA
+hpv_test	hpv_test	48
+icd_10	icd_10	C83.3	C48.1	C08.0	C38.1	C49.0	C50.9	C62.90	C71.6	C71.7	C77.1
+icd_10	icd_10	38	 2	 1	 1	 1	 1	 1	 1	 1	 1
+icd_o_3_histology	icd_o_3_histology	9680/3
+icd_o_3_histology	icd_o_3_histology	48
+icd_o_3_site	icd_o_3_site	C77.0	C77.3	C77.4	C77.2	C16.9	C17.9	C18.9	C48.1	C73.9	C08.0	C17.1	C38.1	C41.0	C49.0	C49.9	C50.9	C62.9	C71.6	C71.7	C77.1
+icd_o_3_site	icd_o_3_site	16	 4	 4	 3	 2	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+informed_consent_verified	informed_consent_verified	YES
+informed_consent_verified	informed_consent_verified	48
+init_pathology_dx_method_other	init_pathology_dx_method_other	NA
+init_pathology_dx_method_other	init_pathology_dx_method_other	48
+initial_pathologic_diagnosis_method	initial_pathologic_diagnosis_method	NA
+initial_pathologic_diagnosis_method	initial_pathologic_diagnosis_method	48
+karnofsky_performance_score	karnofsky_performance_score	NA
+karnofsky_performance_score	karnofsky_performance_score	48
+kshv_hhv8_test	kshv_hhv8_test	NA
+kshv_hhv8_test	kshv_hhv8_test	48
+lymph_node_examined_count	lymph_node_examined_count	NA
+lymph_node_examined_count	lymph_node_examined_count	48
+maximum_tumor_bulk_anatomic_site	maximum_tumor_bulk_anatomic_site	NA	Cervical lymph nodes	mediastinal	Small Intestine	Thyroid	Cervical	Colon	Supraclavicular lymph nodes	Axillary lymph nodes	Breast	Inguinal	Lung	Mesenteric lymph nodes	Paratracheal/Mediastinal	Posterior Fossa	Soft Tissue (muscle, ligaments, subcutaneous)
+maximum_tumor_bulk_anatomic_site	maximum_tumor_bulk_anatomic_site	18	 6	 4	 3	 3	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1
+nadir_cd4_counts	nadir_cd4_counts	NA
+nadir_cd4_counts	nadir_cd4_counts	48
+number_of_lymphnodes_positive_by_he	number_of_lymphnodes_positive_by_he	NA
+number_of_lymphnodes_positive_by_he	number_of_lymphnodes_positive_by_he	48
+number_of_lymphnodes_positive_by_ihc	number_of_lymphnodes_positive_by_ihc	NA
+number_of_lymphnodes_positive_by_ihc	number_of_lymphnodes_positive_by_ihc	48
+number_pack_years_smoked	number_pack_years_smoked	NA
+number_pack_years_smoked	number_pack_years_smoked	48
+on_haart_therapy_at_cancer_diagnosis	on_haart_therapy_at_cancer_diagnosis	NA
+on_haart_therapy_at_cancer_diagnosis	on_haart_therapy_at_cancer_diagnosis	48
+on_haart_therapy_prior_to_cancer_diagnosis	on_haart_therapy_prior_to_cancer_diagnosis	NA
+on_haart_therapy_prior_to_cancer_diagnosis	on_haart_therapy_prior_to_cancer_diagnosis	48
+pathologic_M	pathologic_M	NA
+pathologic_M	pathologic_M	48
+pathologic_N	pathologic_N	NA
+pathologic_N	pathologic_N	48
+pathologic_T	pathologic_T	NA
+pathologic_T	pathologic_T	48
+patient_death_reason	patient_death_reason	NA
+patient_death_reason	patient_death_reason	48
+patient_id	patient_id	6324	6325	6326	6906	6907	6909	6914	7351	7353	8000	8041	8042	8043	8046	8047	8061	8062	8693	A4BB	A4D4	A4D5	A4D6	A4D9	A4XK	A68N	A6HN	A6HO	A6JB	A7CQ	A7CR	A7CW	A7CX	A7DS	A7Q1	A82F	A86F	A8QN	A9TQ	A9TT	A9TU	A9TV	A9TW	A9TX	A9TY	A9TZ	A9U3	A9U4	AAAT
+patient_id	patient_id	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+pos_lymph_node_location	pos_lymph_node_location	NA
+pos_lymph_node_location	pos_lymph_node_location	48
+pos_lymph_node_location_other	pos_lymph_node_location_other	NA
+pos_lymph_node_location_other	pos_lymph_node_location_other	48
+primary_lymph_node_presentation_assessment	primary_lymph_node_presentation_assessment	NA
+primary_lymph_node_presentation_assessment	primary_lymph_node_presentation_assessment	48
+prior_aids_conditions	prior_aids_conditions	NA
+prior_aids_conditions	prior_aids_conditions	48
+project_code	project_code	NA
+project_code	project_code	48
+stage_other	stage_other	NA
+stage_other	stage_other	48
+stopped_smoking_year	stopped_smoking_year	NA
+stopped_smoking_year	stopped_smoking_year	48
+targeted_molecular_therapy	targeted_molecular_therapy	NA	YES	NO
+targeted_molecular_therapy	targeted_molecular_therapy	23	22	 3
+tissue_source_site	tissue_source_site	FF	GS	FA	G8	GR	RQ	FM	VB
+tissue_source_site	tissue_source_site	11	10	 9	 7	 6	 3	 1	 1
+tobacco_smoking_history	tobacco_smoking_history	NA
+tobacco_smoking_history	tobacco_smoking_history	48
+tumor_tissue_site	tumor_tissue_site	NA	Small intestine	Bone|Skin|Soft Tissue (muscle  ligaments  subcutaneous)	Brain	Stomach	Thyroid	Adrenal|Bone|Bone Marrow|Liver|Pleura/Pleural Effusion|Other Extranodal Site	Adrenal|Soft Tissue (muscle  ligaments  subcutaneous)|Brain|Thyroid|Lung	Ascites/Peritoneum	Ascites/Peritoneum|Other Extranodal Site	Bone|Soft Tissue (muscle  ligaments  subcutaneous)	Bone|Testes	Brain|Sinus	Breast	Colon	Colon|Small intestine	Liver|Other Extranodal Site	Other Extranodal Site	Parotid Gland	Soft Tissue (muscle  ligaments  subcutaneous)|Lung|Pleura/Pleural Effusion
+tumor_tissue_site	tumor_tissue_site	23	 3	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1

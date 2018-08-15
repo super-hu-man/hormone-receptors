@@ -1,0 +1,2275 @@
+Cancer	Characteristic	Type	Total	Percent	Events	
+ACC			92		34	
+	weiss_score_overall	Median(Range)	6(2-9)		28	
+		Mean(SD)	5.49275362318841(¡À2.03370994234239)			
+	mitoses_per_50_hpf	Median(Range)	7(0-129)		24	
+		Mean(SD)	19.0327868852459(¡À27.7830687128658)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	48.5(14-83)		34	
+		Mean(SD)	47.1630434782609(¡À16.3029540732523)			
+	gender					
+		FEMALE	60	65.22%	23	
+		MALE	32	34.78%	11	
+	pathologic_stage_v2					
+		StageI/II	53	57.61%	9	
+		StageIII/IV	37	40.22%	24	
+	nuclear_grade_III_IV					
+		Present	56	60.87%	21	
+		Absent	15	16.30%	7	
+	laterality					
+		Left	52	56.52%	19	
+		Right	40	43.48%	15	
+	tumor_status					
+		TUMOR_FREE	45	48.91%	2	
+		WITH_TUMOR	45	48.91%	30	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	54	58.70%	7	
+		Uncomplete_Remission/Response	25	27.17%	17	
+	residual_tumor					
+		R0	64	69.57%	14	1
+		R2	12	13.04%	11	3
+		R1	7	7.61%	5	2
+		RX	6	6.52%	3	4
+	new_tumor_event					
+		No	48	52.17%	9	
+		Yes	44	47.83%	25	
+	radiation_therapy					
+		NO	75	81.52%	27	
+		YES	17	18.48%	7	
+	postoperative_rx_tx					
+		YES	55	59.78%	22	
+		NO	37	40.22%	12	
+	number_of_lymphnodes_positive_by_he					
+		No	84	91.30%	29	
+		Yes	8	8.70%	5	
+	pharm_tx_mitotane_indicator					
+		YES	55	59.78%	22	
+		NO	37	40.22%	12	
+	clinical_status_within_3_mths_surgery					
+		No_evidence	72	78.26%	16	
+		Disease	20	21.74%	18	
+	ct_scan_preop_results.1					
+		Normal	53	57.61%	13	
+		Involvement	24	26.09%	15	
+	history_adrenal_hormone_excess					
+		Yes	54	58.70%	25	
+		None	38	41.30%	9	
+	atypical_mitotic_figures					
+		Absent	35	38.04%	10	
+		Present	33	35.87%	17	
+	cytoplasm_presence_less_than_equal_25_percent					
+		Present	57	61.96%	22	
+		Absent	12	13.04%	5	
+	diffuse_architecture					
+		Present	50	54.35%	20	
+		Absent	20	21.74%	7	
+	invasion_of_tumor_capsule					
+		Present	48	52.17%	22	
+		Absent	35	38.04%	9	
+	Mitotic_Rate_._5.50_HPF					
+		Present	48	52.17%	24	
+		Absent	32	34.78%	8	
+	necrosis					
+		Present	67	72.83%	29	
+		Absent	20	21.74%	4	
+	sinusoid_invasion					
+		Absent	39	42.39%	11	
+		Present	29	31.52%	15	
+	weiss_venous_invasion					
+		Absent	43	46.74%	12	
+		Present	36	39.13%	19	
+BLCA			412		181	
+	BMI	Median(Range)	25.99841066(14.95844875-68.31944516)		154	
+		Mean(SD)	27.0897833667127(¡À6.22711106076303)			
+	tobacco_smoking_history	Median(Range)	2(1-5)		176	
+		Mean(SD)	2.45864661654135(¡À1.16164377250659)			
+	eastern_cancer_oncology_group	Median(Range)	1(0-4)		41	
+		Mean(SD)	0.871287128712871(¡À0.770238486919911)			
+	karnofsky_performance_score	Median(Range)	90(30-100)		64	
+		Mean(SD)	83.0882352941177(¡À13.6904782202735)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	69(34-90)		181	
+		Mean(SD)	68.0970873786408(¡À10.5827887291938)			
+	race					
+		WHITE	327	79.37%	152	
+		ASIAN	44	10.68%	9	
+		BLACK_OR_AFRICAN_AMERICAN	23	5.58%	13	
+	gender					
+		MALE	304	73.79%	130	
+		FEMALE	108	26.21%	51	
+	BMI_category					
+		Normal	150	36.41%	56	
+		Over	125	30.34%	63	
+		Obesity	87	21.12%	35	
+	tobacco_smoking_history_v2					
+		Yes	399	96.84%	176	
+		No	13	3.16%	5	
+	pathologic_stage_v2					
+		StageIII/IV	277	67.23%	145	
+		StageI/II	133	32.28%	35	
+	histological_grade					
+		High_Grade	388	94.17%	179	
+		Low_Grade	21	5.10%	2	
+	tumor_status					
+		TUMOR_FREE	222	53.88%	43	
+		WITH_TUMOR	165	40.05%	124	
+	treatment_outcome_first_course					
+		Complete_Remission/Response	234	56.80%	57	1
+		Progressive_Disease	68	16.50%	54	4
+		Stable_Disease	30	7.28%	18	3
+		Partial_Remission/Response	23	5.58%	17	2
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	234	56.80%	57	
+		Uncomplete_Remission/Response	121	29.37%	89	
+	new_tumor_event					
+		No	268	65.05%	88	
+		Yes	144	34.95%	93	
+	history_other_malignancy					
+		No	303	73.54%	130	
+		Yes	109	26.46%	51	
+	pharmaceutical_tx_adjuvant					
+		NO	335	81.31%	149	
+		YES	77	18.69%	32	
+	number_of_lymphnodes_positive_by_he					
+		None	292	70.87%	103	
+		Yes	120	29.13%	78	
+	noninvasive_bladder_history					
+		NO	346	83.98%	152	
+		YES	66	16.02%	29	
+	tobacco_smoking_age_started					
+		NO	237	57.52%	103	
+		YES	175	42.48%	78	
+	family_history_cancer_type					
+		No	269	65.29%	115	
+		Yes	143	34.71%	66	
+	histologic_subtype					
+		Non-Papillary	274	66.50%	135	
+		Papillary	133	32.28%	42	
+	lymphovascular_invasion					
+		NO	259	62.86%	99	
+		YES	153	37.14%	82	
+	extracapsular_extension					
+		NO	339	82.28%	140	
+		YES	73	17.72%	41	
+	incidental_prostate_cancer_indicator					
+		NO	326	79.13%	139	
+		YES	86	20.87%	42	
+BRCA			1097		151	
+	age_at_initial_pathologic_diagnosis	Median(Range)	58(26-90)		151	
+		Mean(SD)	58.4489051094891(¡À13.2142561277647)			
+	race					
+		WHITE	757	69.01%	111	
+		BLACK_OR_AFRICAN_AMERICAN	183	16.68%	30	
+		ASIAN	61	5.56%	3	
+		AMERICAN_INDIAN_OR_ALASKA_NATIVE	1	0.09%	0	
+	gender					
+		FEMALE	1085	98.91%	150	
+		MALE	12	1.09%	1	
+	ajcc_pathologic_tumor_stage					
+		Stage_II	621	56.61%	65	2
+		Stage_III	249	22.70%	44	3
+		Stage_I	183	16.68%	16	1
+		Stage_IV	20	1.82%	15	4
+		Stage_X	13	1.19%	7	5
+	pathologic_stage_v2					
+		StageI/II	804	73.29%	81	
+		StageIII/IV	269	24.52%	59	
+		Stage_X	13	1.19%	7	
+	histological_type					
+		Infiltrating_Ductal_Carcinoma	784	71.47%	106	
+		Infiltrating_Lobular_Carcinoma	203	18.51%	23	
+		Other_specify	46	4.19%	10	
+		Mixed_Histology_(please_specify)	30	2.73%	6	
+		Mucinous_Carcinoma	17	1.55%	3	
+		Metaplastic_Carcinoma	9	0.82%	1	
+		Medullary_Carcinoma	6	0.55%	2	
+		Infiltrating_Carcinoma_NOS	1	0.09%	0	
+	menopause_status					
+		Post	705	64.27%	91	
+		Pre	229	20.88%	18	
+		Peri	39	3.56%	1	
+		Indeterminate	34	3.10%	15	
+	tumor_status					
+		TUMOR_FREE	935	85.23%	49	
+		WITH_TUMOR	126	11.49%	83	
+	margin_status					
+		Negative	920	83.87%	89	
+		Positive	79	7.20%	19	
+		Close	31	2.83%	6	
+	new_tumor_event_type					
+		No	995	90.70%	95	
+		Distant_Metastasis	64	5.83%	46	
+		New_Primary_Tumor	19	1.73%	4	
+		Locoregional_Disease	10	0.91%	5	
+		Locoregional_Recurrence	9	0.82%	1	
+	new_tumor_event_dx_days_to					
+		No	984	89.70%	91	
+		Yes	113	10.30%	60	
+	history_other_malignancy					
+		No	1029	93.80%	142	
+		Yes	68	6.20%	9	
+	radiation_therapy					
+		NO	1024	93.35%	142	
+		YES	73	6.65%	9	
+	postoperative_rx_tx					
+		NO	970	88.42%	140	
+		YES	127	11.58%	11	
+	number_of_lymphnodes_positive_by_he					
+		None	624	56.88%	65	
+		Yes	473	43.12%	86	
+	number_of_lymphnodes_positive_by_ihc					
+		No	1036	94.44%	144	
+		Yes	61	5.56%	7	
+	surgical_procedure_first					
+		Modified_Radical_Mastectomy	322	29.35%	58	
+		Other	272	24.79%	39	
+		Lumpectomy	247	22.52%	24	
+		Simple_Mastectomy	200	18.23%	18	
+	micromet_detection_by_ihc					
+		NO	467	42.57%	66	
+		YES	263	23.97%	18	
+	er_status_by_ihc					
+		Positive	808	73.66%	100	
+		Negative	238	21.70%	41	
+	pr_status_by_ihc					
+		Positive	699	63.72%	86	
+		Negative	344	31.36%	56	
+	her2_status_by_ihc					
+		Negative	564	51.41%	57	
+		Positive	164	14.95%	23	
+CESC			307		71	
+	BMI	Median(Range)	26.676500165(13.41759003-70.492303)		52	
+		Mean(SD)	28.0693572083206(¡À7.6706821184388)			
+	pregnancies_count_total	Median(Range)	3(0-15)		64	
+		Mean(SD)	3.61048689138577(¡À2.57189161003626)			
+	tobacco_smoking_history	Median(Range)	1(1-5)		65	
+		Mean(SD)	1.82889733840304(¡À1.14468633029485)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	46(20-88)		71	
+		Mean(SD)	48.2736156351792(¡À13.7905689435361)			
+	race					
+		WHITE	211	68.73%	51	
+		BLACK_OR_AFRICAN_AMERICAN	30	9.77%	8	
+		ASIAN	20	6.51%	2	
+		AMERICAN_INDIAN_OR_ALASKA_NATIVE	8	2.61%	2	
+		NATIVE_HAWAIIAN_OR_OTHER_PACIFIC_ISLANDER	2	0.65%	1	
+	tobacco_smoking_history_v2					
+		Yes	263	85.67%	65	
+		No	44	14.33%	6	
+	BMI_category					
+		Normal	99	32.25%	26	1
+		Obesity	88	28.66%	16	3
+		Over	75	24.43%	10	2
+	clinical_stage					
+		Stage_I	163	53.09%	36	
+		Stage_II	70	22.80%	11	
+		Stage_III	46	14.98%	10	
+		Stage_IV	21	6.84%	14	
+	clinical_stage_v2					
+		StageI/II	233	75.90%	47	
+		StageIII/IV	67	21.82%	24	
+	histological_grade					
+		G2	136	44.30%	37	2
+		G3	120	39.09%	22	3
+		GX	24	7.82%	9	5
+		G1	18	5.86%	2	1
+		G4	1	0.33%	0	4
+	histological_grade_v2					
+		G_1/2/Low	154	50.16%	39	
+		G_3/4/High	121	39.41%	22	
+		GX	24	7.82%	9	
+	histological_type					
+		Cervical_Squamous_Cell_Carcinoma	254	82.74%	60	
+		Adenocarcinoma	47	15.31%	10	
+		Adenosquamous	6	1.95%	1	
+	menopause_status					
+		Pre	125	40.72%	26	
+		Post	84	27.36%	24	
+		Peri	25	8.14%	4	
+		Indeterminate	3	0.98%	1	
+	tumor_status					
+		TUMOR_FREE	200	65.15%	14	
+		WITH_TUMOR	80	26.06%	53	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	183	59.61%	22	
+		Uncomplete_Remission/Response	36	11.73%	26	
+	new_tumor_event_type					
+		No	260	84.69%	40	
+		Distant_Metastasis	31	10.10%	20	
+		Locoregional_Recurrence	13	4.23%	8	
+		New_Primary_Tumor	3	0.98%	3	
+	new_tumor_event_dx_days_to					
+		No	259	74.36%	39	
+		Yes	48	15.64%	32	
+	other_dx					
+		No	299	97.39%	69	
+		Yes	8	2.61%	2	
+	targeted_molecular_therapy					
+		No	221	71.91%	47	
+		YES	86	28.01%	24	
+	number_of_lymphnodes_positive_by_he					
+		No	255	83.06%	54	
+		Yes	52	16.94%	17	
+	performance_status_scale_timing					
+		Preoperative	96	31.27%	14	
+		Pre-Adjuvant_Therapy	52	16.94%	18	
+		Post-Adjuvant_Therapy	15	4.89%	1	
+		Other	9	2.93%	3	
+	history_hormonal_contraceptives_use					
+		Never_Used	90	29.32%	21	
+		Former_User	54	17.59%	8	
+		Current_User	15	4.89%	3	
+	keratinization_squamous_cell					
+		Non-keratinizing	120	39.09%	18	
+		Keratinizing	55	17.92%	20	
+	lymphovascular_involvement					
+		PRESENT	80	26.06%	23	
+		ABSENT	72	23.45%	2	
+	corpus_involvement					
+		ABSENT	99	32.25%	11	
+		PRESENT	19	6.19%	7	
+	radiation_treatment_adjuvant.1					
+		NO	197	64.17%	39	
+		YES	110	35.83%	32	
+	pharmaceutical_tx_adjuvant.1					
+		NO	218	71.01%	45	
+		YES	89	28.99%	26	
+CHOL			45		22	
+	BMI	Median(Range)	26.27728508(18.20664543-41.13761323)		20	
+		Mean(SD)	27.6195016331707(¡À5.03212589551381)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	66(29-82)		22	
+		Mean(SD)	63.6444444444444(¡À12.1695513392228)			
+	race					
+		WHITE	38	84.44%	17	
+		ASIAN	3	6.67%	2	
+		BLACK_OR_AFRICAN_AMERICAN	3	6.67%	2	
+	BMI_category					
+		Over	20	44.44%	9	2
+		Normal	12	26.67%	7	1
+		Obesity	9	20%	4	3
+	gender					
+		FEMALE	25	55.56%	12	
+		MALE	20	44.44%	10	
+	ajcc_pathologic_tumor_stage					
+		Stage_I	20	44.44%	9	1
+		Stage_II	11	24.44%	7	2
+		Stage_IV	10	22.22%	6	4
+		Stage_III	4	8.89%	0	3
+	pathologic_stage_v2					
+		StageI/II	31	68.89%	16	
+		StageIII/IV	14	31.11%	6	
+	histological_grade_v2					
+		G_1/2/Low	23	51.11%	11	
+		G_3/4/High	22	48.89%	11	
+	histological_type					
+		intrahepatic	36	80%	17	
+		hilar/perihilar	7	15.56%	5	
+		distal	2	4.44%	0	
+	tumor_status					
+		WITH_TUMOR	22	48.89%	18	
+		TUMOR_FREE	19	42.22%	1	
+	new_tumor_event_type					
+		No	24	53.33%	6	
+		Yes	21	46.67%	16	
+	other_dx					
+		No	36	80%	18	
+		Yes	9	20%	4	
+	new_tumor_event_after_initial_treatment					
+		NO	26	57.78%	7	
+		YES	19	42.22%	15	
+	postoperative_rx_tx					
+		NO	33	73.33%	16	
+		YES	12	26.67%	6	
+	perineural_invasion_present					
+		NO	36	80%	17	
+		YES	9	20%	5	
+	relative_family_cancer_history					
+		YES	23	51.11%	10	
+		NO	22	48.89%	12	
+	family_history_cancer_number_relatives					
+		No	24	53.33%	14	
+		Yes	21	46.67%	8	
+	Smoking					
+		No	31	68.89%	14	
+		Yes	14	31.11%	8	
+	vascular_invasion					
+		None	38	84.44%	18	
+		Micro	7	15.56%	4	
+	ca_19_9_level_lower					
+		UP	22	48.89%	11	
+		No	17	37.78%	8	
+	ishak_fibrosis_score					
+		0-No_Fibrosis	20	44.44%	13	
+		1/2-Portal_Fibrosis	11	24.44%	2	
+		3/4-Fibrous_Speta	3	6.67%	1	
+		6-Established_Cirrhosis	1	2.22%	0	
+COAD			459		102	
+	BMI	Median(Range)	27.10204082(14.71606648-271.863451)		47	
+		Mean(SD)	29.4185017050215(¡À17.1524466473362)			
+	cea_level_pretreatment	Median(Range)	3(0-2614)		52	
+		Mean(SD)	37.3180902777778(¡À197.869095195845)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	68(31-90)		102	
+		Mean(SD)	66.9193899782135(¡À13.079536454434)			
+	race					
+		WHITE	214	46.62%	56	
+		BLACK_OR_AFRICAN_AMERICAN	59	12.85%	13	
+		ASIAN	11	2.40%	2	
+		AMERICAN_INDIAN_OR_ALASKA_NATIVE	1	0.22%	0	
+	gender					
+		MALE	243	52.94%	56	
+		FEMALE	216	47.06%	46	
+	BMI_category					
+		Over	81	17.65%	19	2
+		Normal	78	16.99%	23	1
+		Obesity	74	16.12%	5	3
+	ajcc_pathologic_tumor_stage					
+		Stage_II	178	38.78%	29	2
+		Stage_III	129	28.10%	32	3
+		Stage_I	76	16.56%	5	1
+		Stage_IV	65	14.16%	31	4
+	pathologic_stage_v2					
+		StageI/II	254	55.34%	34	
+		StageIII/IV	194	42.27%	63	
+	histological_type					
+		Colon_Adenocarcinoma	392	85.40%	82	
+		Colon_Mucinous_Adenocarcinoma	62	13.51%	17	
+	tumor_status					
+		TUMOR_FREE	285	62.09%	22	
+		WITH_TUMOR	145	31.59%	64	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	197	42.92%	17	
+		Uncomplete_Remission/Response	41	8.93%	20	
+	residual_tumor					
+		R0	331	72.11%	50	1
+		R2	26	5.66%	12	3
+		RX	25	5.45%	5	4
+		R1	4	0.87%	2	2
+	new_tumor_event_dx_days_to					
+		No	371	80.83%	62	
+		Yes	88	19.17%	40	
+	other_dx					
+		No	397	86.49%	85	
+		Yes	62	13.51%	17	
+	number_of_lymphnodes_positive_by_he					
+		No	277	60.35%	42	
+		Yes	182	39.65%	60	
+	kras_gene_analysis_performed					
+		NO	411	89.54%	77	
+		YES	48	10.46%	25	
+	perineural_invasion_present					
+		NO	413	89.98%	89	
+		YES	46	10.02%	13	
+	specimen_non_node_tumor_deposits					
+		NO	420	91.50%	92	
+		YES	39	8.50%	10	
+	vascular_invasion_indicator					
+		NO	363	79.08%	67	
+		YES	96	20.92%	35	
+	lymphovascular_invasion_indicator					
+		NO	295	64.27%	54	
+		YES	164	35.73%	48	
+	mismatch_rep_proteins_tested_by_ihc					
+		NO	287	62.53%	53	
+		YES	56	12.20%	2	
+	history_other_maligNOncy.1					
+		NO	434	94.55%	97	
+		YES	25	5.45%	5	
+	history_colon_polyps					
+		NO	320	69.72%	82	
+		YES	139	30.28%	20	
+	colon_polyps_at_procurement_indicator					
+		NO	379	82.57%	80	
+		YES	80	17.43%	22	
+	family_history_colorectal_cancer					
+		No	401	87.36%	94	
+		Yes	58	12.64%	8	
+DLBC			48		9	
+	BMI	Median(Range)	24.47083833(16.44950583-46.02942188)		9	
+		Mean(SD)	25.908067904375(¡À5.86933057219807)			
+	eastern_cancer_oncology_group	Median(Range)	0(0-3)		4	
+		Mean(SD)	0.612903225806452(¡À0.760588340468031)			
+	extranodal_site_involvement	Median(Range)	1(0-6)		7	
+		Mean(SD)	1.24324324324324(¡À1.36229800552444)			
+	tumor_resected_max_dimension	Median(Range)	3(0.4-17)		5	
+		Mean(SD)	4.60052631578947(¡À3.97421550808385)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	57.5(23-82)		9	
+		Mean(SD)	56.2708333333333(¡À13.9478353133767)			
+	race					
+		WHITE	29	60.42%	4	
+		ASIAN	18	37.50%	4	
+		BLACK_OR_AFRICAN_AMERICAN	1	2.08%	1	
+	extranodal_site_involvement_v2					
+		NO	24	50%	5	
+		Yes	24	50%	4	
+	gender					
+		FEMALE	26	54.17%	4	
+		MALE	22	45.83%	5	
+	BMI_category					
+		Normal	25	52.08%	5	
+		Over	15	31.25%	3	
+		Obesity	8	16.67%	1	
+	clinical_stage_v2					
+		StageI/II	25	52.08%	3	
+		StageIII/IV	17	35.42%	4	
+	tumor_status					
+		TUMOR_FREE	37	77.08%	5	
+		WITH_TUMOR	9	18.75%	4	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	35	72.92%	5	
+		Uncomplete_Remission/Response	11	22.92%	4	
+	new_tumor_event_dx_days_to					
+		No	36	75%	4	
+		Yes	12	25%	5	
+	targeted_molecular_therapy					
+		NO	26	54.17%	6	
+		YES	22	45.83%	3	
+	ldh_up					
+		UP	17	35.42%	3	
+		FALSE	13	27.08%	2	
+	extranodal_lymphomatous_involvement					
+		NO	27	56.25%	5	
+		YES	21	43.75%	4	
+ESCA			185		77	
+	BMI	Median(Range)	24.25867407(13.39895385-60.23532349)		70	
+		Mean(SD)	25.3103725606857(¡À5.88653308923967)			
+	eastern_cancer_oncology_group	Median(Range)	1(0-3)		23	
+		Mean(SD)	1.03076923076923(¡À0.728209078176358)			
+	karnofsky_performance_score	Median(Range)	80(20-100)		19	
+		Mean(SD)	73.8235294117647(¡À16.2103165754631)			
+	tobacco_smoking_history	Median(Range)	2(1-4)		61	
+		Mean(SD)	2.32530120481928(¡À1.16106986958544)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	61(27-90)		77	
+		Mean(SD)	62.4540540540541(¡À11.8935174751562)			
+	BMI_category					
+		Normal	97	52.43%	35	
+		Over	49	26.49%	19	
+		Obesity	29	15.68%	16	
+	race					
+		WHITE	114	61.62%	48	
+		ASIAN	46	24.86%	9	
+		BLACK_OR_AFRICAN_AMERICAN	5	2.70%	3	
+	tobacco_smoking_history_v2					
+		Yes	166	89.73%	61	
+		No	19	10.27%	16	
+	gender					
+		MALE	158	85.41%	71	
+		FEMALE	27	14.59%	6	
+	ajcc_pathologic_tumor_stage					
+		Stage_II	79	42.70%	25	2
+		Stage_III	56	30.27%	27	3
+		Stage_I	18	9.73%	4	1
+		Stage_IV	9	4.86%	8	4
+	pathologic_stage_v2					
+		StageI/II	97	52.43%	29	
+		StageIII/IV	65	35.14%	35	
+	clinical_stage_v2					
+		StageI/II	33	17.84%	10	
+		StageIII/IV	31	16.76%	15	
+	histological_grade					
+		G2	77	41.62%	30	2
+		G3	49	26.49%	26	3
+		GX	40	21.62%	17	4
+		G1	19	10.27%	4	1
+	histological_grade_v2					
+		G_1/2/Low	96	51.89%	34	
+		G_3/4/High	49	26.49%	26	
+		GX	40	21.62%	17	
+	histological_type					
+		Esophagus_Squamous_Cell_Carcinoma	96	51.89%	32	
+		Esophagus_Adenocarcinoma_NOS	89	48.11%	45	
+	tumor_status					
+		TUMOR_FREE	100	54.05%	24	
+		WITH_TUMOR	78	42.16%	51	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	91	49.19%	20	
+		Uncomplete_Remission/Response	19	10.27%	9	
+	new_tumor_event_type					
+		NO	114	61.62%	42	
+		Distant_Metastasis	36	19.46%	23	
+		Locoregional_Recurrence	33	17.84%	12	
+		New_Primary_Tumor	2	1.08%	0	
+	new_tumor_event_dx_days_to					
+		NO	114	61.62%	42	
+		Yes	71	38.38%	35	
+	radiation_therapy					
+		NO	167	90.27%	67	
+		YES	18	9.73%	10	
+	postoperative_rx_tx					
+		NO	169	91.35%	67	
+		YES	16	8.65%	10	
+	number_of_lymphnodes_positive_by_he					
+		NO	95	51.35%	30	
+		Yes	90	48.65%	47	
+	tobacco_smoking_age_started					
+		NO	106	57.30%	44	
+		Yes	79	42.70%	33	
+	alcohol_history_documented					
+		YES	129	69.73%	50	
+		NO	53	28.65%	27	
+	history_reflux_disease_indicator					
+		NO	128	69.19%	50	
+		YES	57	30.81%	27	
+	history_barretts_esophageal_indicator					
+		No	118	63.78%	49	
+		Yes	28	15.14%	18	
+	esophageal_tumor_location_centered					
+		Distal	128	69.19%	61	
+		Mid	50	27.03%	16	
+		Proximal	6	3.24%	0	
+	esoph_columnar_metaplasia_indicator					
+		NO	78	42.16%	37	
+		YES	32	17.30%	20	
+	esoph_non_ca_degree_of_dysplasia					
+		Negative/no_dysplasia	42	22.70%	18	1
+		High_grade_dysplasia	30	16.22%	18	3
+		Low_grade_dysplasia	6	3.24%	5	2
+	patient_to_undergo_surgery					
+		No	128	69.19%	56	
+		Yes	57	30.81%	21	
+GBM			596		491	
+	karnofsky_performance_score	Median(Range)	80(0-100)		359	
+		Mean(SD)	77.1070615034169(¡À15.4554868350691)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	59(10-89)		491	
+		Mean(SD)	57.8288590604027(¡À14.4071961258488)			
+	race					
+		WHITE	507	85.07%	431	
+		BLACK_OR_AFRICAN_AMERICAN	51	8.56%	33	
+		ASIAN	13	2.18%	7	
+	gender					
+		MALE	366	61.41%	307	
+		FEMALE	230	38.59%	184	
+	histological_type					
+		Untreated_primary_(de_novo)_GBM	545	91.44%	450	
+		Glioblastoma_Multiforme_(GBM)	31	5.20%	22	
+		Treated_primary_GBM	20	3.36%	19	
+	tumor_status					
+		WITH_TUMOR	514	86.24%	445	
+		TUMOR_FREE	27	4.53%	7	
+	new_tumor_event_type					
+		Progression_of_Disease	256	42.95%	227	2
+		No	230	38.59%	166	1
+		Recurrence	107	17.95%	95	3
+		Locoregional_Disease	3	0.50%	3	4
+	new_tumor_event_dx_days_to					
+		Yes	381	63.93%	331	
+		No	215	36.07%	160	
+	history_of_neoadjuvant_treatment					
+		No	575	96.48%	471	
+		Yes	21	3.52%	20	
+	performance_status_scale_timing					
+		Pre-Adjuvant_Therapy	135	22.65%	107	
+		Preoperative	132	22.15%	112	
+		Post-Adjuvant_Therapy	76	12.75%	52	
+		Other	27	4.53%	25	
+HNSC			528		223	
+	tobacco_smoking_history	Median(Range)	2(1-5)		214	
+		Mean(SD)	2.46019417475728(¡À1.13652996059403)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	61(19-90)		223	
+		Mean(SD)	60.9127134724858(¡À11.9265802788471)			
+	race					
+		WHITE	452	85.61%	189	
+		BLACK_OR_AFRICAN_AMERICAN	48	9.09%	23	
+		ASIAN	11	2.08%	4	
+		AMERICAN_INDIAN_OR_ALASKA_NATIVE	2	0.38%	1	
+	tobacco_smoking_history_v2					
+		Yes	515	97.54%	214	
+		No	13	2.46%	9	
+	gender					
+		MALE	386	73.11%	151	
+		FEMALE	142	26.89%	72	
+	ajcc_pathologic_tumor_stage					
+		Stage_IV	270	51.14%	133	4
+		Stage_III	82	15.53%	29	3
+		Stage_II	74	14.02%	26	2
+		Stage_I	27	5.11%	4	1
+	pathologic_stage_v2					
+		StageIII/IV	352	66.67%	162	2
+		StageI/II	101	19.13%	30	1
+	clinical_stage					
+		Stage_IV	287	54.36%	128	4
+		Stage_III	107	20.27%	44	3
+		Stage_II	99	18.75%	42	2
+		Stage_I	21	3.98%	7	1
+	clinical_stage_v2					
+		StageIII/IV	394	74.62%	172	2
+		StageI/II	120	22.73%	49	1
+	histological_grade					
+		G2	311	58.90%	136	2
+		G3	125	23.67%	56	3
+		G1	63	11.93%	23	1
+		GX	18	3.41%	7	5
+		G4	7	1.33%	0	4
+	histological_grade_v2					
+		G_1/2/Low	374	70.83%	159	
+		G_3/4/High	132	25%	56	
+		GX	18	3.41%	7	
+	laterality					
+		Right	168	31.82%	52	
+		Left	146	27.65%	56	
+		Midline	34	6.44%	13	
+	tumor_status					
+		TUMOR_FREE	335	63.45%	67	
+		WITH_TUMOR	163	30.87%	130	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	386	73.11%	121	
+		Uncomplete_Remission/Response	55	10.42%	38	
+	margin_status					
+		Negative	357	67.61%	148	
+		Positive	60	11.36%	38	
+		Close	50	9.47%	20	
+	new_tumor_event_after_initial_treatment					
+		NO	150	28.41%	36	
+		YES	49	9.28%	31	
+	new_tumor_event_type					
+		No	458	86.74%	188	
+		Locoregional_Recurrence	29	5.49%	18	
+		Distant_Metastasis	20	3.79%	12	
+		Locoregional_Disease	11	2.08%	3	
+		New_Primary_Tumor	10	1.89%	2	
+	new_tumor_event_dx_days_to					
+		No	383	72.54%	130	
+		Yes	145	27.46%	93	
+	other_dx					
+		No	495	93.75%	211	
+		Yes	33	6.25%	12	
+	history_of_neoadjuvant_treatment					
+		No	518	98.11%	213	
+		Yes	10	1.89%	10	
+	radiation_therapy					
+		NO	402	76.14%	177	
+		YES	126	23.86%	46	
+	postoperative_rx_tx					
+		NO	462	87.50%	195	
+		YES	66	12.50%	28	
+	number_of_lymphnodes_positive_by_he					
+		No	287	54.36%	105	
+		Yes	241	45.64%	118	
+	perineural_invasion_present					
+		NO	356	67.42%	129	
+		YES	172	32.58%	94	
+	extracapsular_spread_pathologic					
+		No_Extranodal_Extension	248	46.97%	82	
+		Microscopic_Extension	77	14.58%	47	
+		Gross_Extension	38	7.20%	24	
+	lymphovascular_invasion					
+		NO	232	43.94%	78	
+		YES	124	23.48%	63	
+	hpv_status_p16					
+		Negative	74	14.02%	24	
+		Positive	41	7.77%	6	
+	hpv_status_ish					
+		Negative	67	12.69%	22	
+		Positive	22	4.17%	1	
+	alcohol_history_documented					
+		YES	352	66.67%	142	
+		NO	176	33.33%	81	
+KICH			113		13	
+	tobacco_smoking_history	Median(Range)	1(1-5)		12	
+		Mean(SD)	1.51(¡À1.01000050004988)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	50(17-86)		13	
+		Mean(SD)	51.2035398230088(¡À13.8623071235039)			
+	race					
+		WHITE	95	84.07%	12	
+		BLACK_OR_AFRICAN_AMERICAN	12	10.62%	0	
+		ASIAN	4	3.54%	1	
+	tobacco_smoking_history_v2					
+		Yes	100	88.50%	12	
+		No	13	11.50%	1	
+	gender					
+		MALE	62	54.87%	8	
+		FEMALE	51	45.13%	5	
+	ajcc_pathologic_tumor_stage					
+		Stage_I	54	47.79%	3	
+		Stage_II	33	29.20%	2	
+		Stage_III	19	16.81%	4	
+		Stage_IV	7	6.19%	4	
+	pathologic_stage_v2					
+		StageI/II	87	76.99%	5	
+		StageIII/IV	26	23.01%	8	
+	laterality					
+		Left	57	50.44%	8	
+		Right	56	49.56%	5	
+	tumor_status					
+		TUMOR_FREE	96	84.96%	3	
+		WITH_TUMOR	16	14.16%	10	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	72	63.72%	1	
+		Uncomplete_Remission/Response	8	7.08%	4	
+	serum_calcium_level					
+		Low	37	32.74%	8	
+		Normal	35	30.97%	1	
+		Elevated	3	2.65%	0	
+	hemoglobin_level					
+		Normal	38	33.63%	3	
+		Low	33	29.20%	6	
+	white_cell_count					
+		Normal	39	34.51%	4	
+		Elevated	31	27.43%	5	
+		Low	1	0.88%	0	
+KIRC			537		177	
+	age_at_initial_pathologic_diagnosis	Median(Range)	61(26-90)		177	
+		Mean(SD)	60.5940409683426(¡À12.1527514336781)			
+	race					
+		WHITE	466	86.78%	163	
+		BLACK_OR_AFRICAN_AMERICAN	56	10.43%	11	
+		ASIAN	8	1.49%	1	
+	tobacco_smoking_history_v2					
+		No	450	83.80%	164	
+		Yes	87	16.20%	13	
+	gender					
+		MALE	346	64.43%	112	
+		FEMALE	191	35.57%	65	
+	ajcc_pathologic_tumor_stage					
+		Stage_I	269	50.09%	45	1
+		Stage_III	125	23.28%	51	3
+		Stage_IV	83	15.46%	67	4
+		Stage_II	57	10.61%	13	2
+	pathologic_stage_v2					
+		StageI/II	326	60.71%	58	
+		StageIII/IV	208	38.73%	118	
+	histological_grade_v2					
+		G_3/4/High	285	53.07%	131	2
+		G_1/2/Low	244	45.44%	45	1
+		GX	5	0.93%	1	3
+	laterality					
+		Right	283	52.70%	79	
+		Left	253	47.11%	98	
+		Bilateral	1	0.19%	0	
+	tumor_status					
+		TUMOR_FREE	353	65.74%	55	
+		WITH_TUMOR	159	29.61%	110	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	120	22.35%	6	
+		Uncomplete_Remission/Response	19	3.54%	6	
+	new_tumor_event_dx_days_to					
+		NO	410	76.35%	99	
+		Yes	127	23.65%	78	
+	other_dx					
+		No	459	85.47%	153	
+		Yes	78	14.53%	24	
+	history_of_neoadjuvant_treatment					
+		No	519	96.65%	167	
+		Yes	18	3.35%	10	
+	lymph_nodes_examined_positive					
+		NO	519	96.65%	165	
+		Yes	18	3.35%	12	
+	serum_calcium_level					
+		Low	204	37.99%	66	2
+		Normal	151	28.12%	62	1
+		Elevated	10	1.86%	9	3
+	hemoglobin_level					
+		Low	263	48.98%	118	2
+		Normal	186	34.64%	43	1
+		Elevated	5	0.93%	3	3
+	platelet_count					
+		Normal	360	67.04%	108	1
+		Low	46	8.57%	20	2
+		Elevated	38	7.08%	30	3
+	white_cell_count					
+		Normal	268	49.91%	104	1
+		Elevated	164	30.54%	46	3
+		Low	9	1.68%	6	2
+KIRP			291		44	
+	BMI	Median(Range)	28.05570579(11.73500744-414.8942369)		30	
+		Mean(SD)	31.8225416616901(¡À31.5143141802345)			
+	tobacco_smoking_history	Median(Range)	2(1-5)		39	
+		Mean(SD)	2.16532258064516(¡À1.28872685219523)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	61(28-88)		44	
+		Mean(SD)	61.4895833333333(¡À12.0683259161376)			
+	race					
+		WHITE	207	71.13%	35	
+		BLACK_OR_AFRICAN_AMERICAN	61	20.96%	7	
+		ASIAN	6	2.06%	1	
+		AMERICAN_INDIAN_OR_ALASKA_NATIVE	2	0.69%	0	
+	BMI_category					
+		Over	86	29.55%	13	2
+		Obesity	76	26.12%	8	3
+		Normal	51	17.53%	9	1
+	tobacco_smoking_history_v2					
+		Yes	248	85.22%	39	
+		No	43	14.78%	5	
+	gender					
+		MALE	214	73.54%	31	
+		FEMALE	77	26.46%	13	
+	ajcc_pathologic_tumor_stage					
+		Stage_I	173	59.45%	12	1
+		Stage_III	52	17.87%	16	3
+		Stage_II	21	7.22%	2	2
+		Stage_IV	15	5.15%	9	4
+	pathologic_stage_v2					
+		StageI/II	194	66.67%	14	
+		StageIII/IV	67	23.02%	25	
+	clinical_stage					
+		Stage_I	139	47.77%	11	1
+		Stage_III	29	9.97%	12	3
+		Stage_II	21	7.22%	1	2
+		Stage_IV	11	3.78%	7	4
+	clinical_stage_v2					
+		StageI/II	160	54.98%	12	
+		StageIII/IV	40	13.75%	19	
+	laterality					
+		Left	160	54.98%	29	
+		Right	128	43.99%	15	
+		Bilateral	2	0.69%	0	
+	tumor_status					
+		TUMOR_FREE	229	78.69%	12	
+		WITH_TUMOR	47	16.15%	28	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	185	63.57%	17	
+		Uncomplete_Remission/Response	14	4.81%	8	
+	new_tumor_event_dx_days_to					
+		No	238	81.79%	20	
+		Yes	53	18.21%	24	
+	other_dx					
+		No	235	80.76%	37	
+		Yes	56	19.24%	7	
+	primary_lymph_node_presentation_assessment					
+		NO	232	79.73%	22	
+		YES	55	18.90%	22	
+	ldh_level					
+		Normal	34	11.68%	5	
+		Elevated	8	2.75%	2	
+		Low	1	0.34%	0	
+	lymph_nodes_examined_positive					
+		NO	262	90.03%	25	
+		Yes	29	9.97%	19	
+	serum_calcium_level					
+		Normal	134	46.05%	15	
+		Low	41	14.09%	10	
+		Elevated	6	2.06%	1	
+	hemoglobin_level					
+		Normal	112	38.49%	7	
+		Low	97	33.33%	23	
+		Elevated	1	0.34%	0	
+	platelet_count					
+		Normal	183	62.89%	24	
+		Low	16	5.50%	2	
+		Elevated	7	2.41%	4	
+	white_cell_count					
+		Normal	152	52.23%	20	
+		Elevated	44	15.12%	7	
+		Low	11	3.78%	3	
+LAML			200		133	
+	percent_cellularity	Median(Range)	90(10-100)		125	
+		Mean(SD)	79.8412698412698(¡À20.1846842737257)			
+	wbc_24hr_of_banking	Median(Range)	17(1-298)		133	
+		Mean(SD)	37.2462311557789(¡À48.833821213478)			
+	hemoglobin_24hr_of_banking	Median(Range)	9(6-14)		132	
+		Mean(SD)	9.54773869346734(¡À1.41652669970248)			
+	platelet_count_preresection	Median(Range)	52(8-351)		133	
+		Mean(SD)	65.98(¡À52.0786957667319)			
+	blast_count	Median(Range)	32(0-98)		133	
+		Mean(SD)	36.28(¡À32.0577619384528)			
+	promyelocytes_count	Median(Range)	0(0-71)		133	
+		Mean(SD)	2.185(¡À8.76383471974311)			
+	myelocytes_24hr_of_banking	Median(Range)	0(0-22)		133	
+		Mean(SD)	1.05(¡À2.35269544977606)			
+	metamyelocytes_24hr_of_banking	Median(Range)	0(0-6)		133	
+		Mean(SD)	0.45(¡À1.10162055136784)			
+	bands_24hr_of_banking	Median(Range)	0(0-22)		133	
+		Mean(SD)	1.715(¡À3.51218625094207)			
+	segs_24hr_of_banking	Median(Range)	6(0-94)		133	
+		Mean(SD)	12.165(¡À15.2959999040706)			
+	basophils_count	Median(Range)	0(0-12)		133	
+		Mean(SD)	0.7165(¡À1.63260674195268)			
+	basophils_count.1	Median(Range)	0(0-10)		133	
+		Mean(SD)	0.352(¡À1.24686380440434)			
+	lymphocytes_count	Median(Range)	20(0-94)		133	
+		Mean(SD)	27.505(¡À23.2774390957053)			
+	monocytes_count	Median(Range)	5(0-76)		133	
+		Mean(SD)	12.34(¡À16.4079402276021)			
+	prolymphocytes_24hr_of_banking	Median(Range)	0(0-4)		133	
+		Mean(SD)	0.055(¡À0.364195264871434)			
+	promonocytes_24hr_of_banking	Median(Range)	0(0-41)		133	
+		Mean(SD)	1.645(¡À4.71168492944635)			
+	abnormal_lymphocyte_percent	Median(Range)	0(0-48)		132	
+		Mean(SD)	2.34170854271357(¡À6.30085925641647)			
+	percent_blasts_peripheral_blood	Median(Range)	72(0-100)		133	
+		Mean(SD)	66.44(¡À23.0410688613041)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	57.5(18-88)		133	
+		Mean(SD)	55.03(¡À16.0720457088179)			
+	race					
+		WHITE	181	90.50%	122	
+		BLACK_OR_AFRICAN_AMERICAN	15	7.50%	9	
+		ASIAN	2	1%	1	
+	gender					
+		MALE	109	54.50%	70	
+		FEMALE	91	45.50%	63	
+	other_dx					
+		No	186	93%	124	
+		Yes	14	7%	9	
+	history_of_neoadjuvant_treatment					
+		No	151	75.50%	98	
+		Yes	49	24.50%	35	
+	history_neoadjuvant_hydroxyurea_tx					
+		NO	151	75.50%	98	
+		YES	49	24.50%	35	
+	fab_category					
+		M1	44	22%	31	2
+		M2	44	22%	29	3
+		M4	42	21%	30	5
+		M5	22	11%	15	6
+		M3	21	10.50%	7	4
+		M0_Undifferentiated	19	9.50%	14	1
+		M6	3	1.50%	3	7
+		M7	3	1.50%	3	8
+	cyto_risk_group					
+		Intermediate/Normal	116	58%	82	
+		Poor	43	21.50%	34	
+		Favorable	38	19%	14	
+	fish_abnormality_detected					
+		NO	78	39%	53	
+		YES	78	39%	46	
+	molecular_abnormality_detected					
+		NO	50	25%	31	
+		YES	38	19%	22	
+LGG			515		125	
+	eastern_cancer_oncology_group	Median(Range)	0.5(0-4)		30	
+		Mean(SD)	0.566666666666667(¡À0.669735665242295)			
+	karnofsky_performance_score	Median(Range)	90(40-100)		87	
+		Mean(SD)	87.4662162162162(¡À11.9035192292543)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	41(14-87)		125	
+		Mean(SD)	42.9417475728155(¡À13.3556741484473)			
+	race					
+		WHITE	475	92.23%	117	
+		BLACK_OR_AFRICAN_AMERICAN	21	4.08%	7	
+		ASIAN	8	1.55%	0	
+		AMERICAN_INDIAN_OR_ALASKA_NATIVE	1	0.19%	0	
+	gender					
+		MALE	285	55.34%	71	
+		FEMALE	230	44.66%	54	
+	histological_grade_v2					
+		G_3/4/High	265	51.46%	88	
+		G_1/2/Low	249	48.35%	37	
+	histological_type					
+		Astrocytoma	194	37.67%	58	
+		Oligodendroglioma	191	37.09%	42	
+		Oligoastrocytoma	130	25.24%	25	
+	laterality					
+		Right	253	49.13%	62	
+		Left	250	48.54%	59	
+		Midline	7	1.36%	3	
+	tumor_status					
+		WITH_TUMOR	269	52.23%	113	
+		TUMOR_FREE	212	41.17%	4	
+	treatment_outcome_first_course					
+		Stable_Disease	146	28.35%	31	3
+		Complete_Remission/Response	135	26.21%	7	1
+		Progressive_Disease	101	19.61%	68	4
+		Partial_Remission/Response	63	12.23%	5	2
+	treatment_outcome_first_course_v2					
+		Uncomplete_Remission/Response	310	60.19%	104	
+		Complete_Remission/Response	135	26.21%	7	
+	new_tumor_event_dx_days_to					
+		NO	350	67.96%	36	
+		Yes	165	32.04%	89	
+	radiation_therapy					
+		NO	373	72.43%	87	
+		YES	142	27.57%	38	
+	targeted_molecular_therapy					
+		NO	377	73.20%	92	
+		YES	138	26.80%	33	
+	relative_family_cancer_history					
+		NO	383	74.37%	90	
+		YES	132	25.63%	35	
+	supratentorial_localization					
+		Not_listed_in_Medical_Record	222	43.11%	69	4
+		Cerebral_Cortex	142	27.57%	26	1
+		White_Matter	119	23.11%	26	2
+		"Deep_Gray_(e.g.basal_ganglia,_thalamus)"	3	0.58%	1	3
+	history_seizures					
+		YES	303	58.83%	69	
+		NO	212	41.17%	56	
+	history_headaches					
+		NO	345	66.99%	86	
+		YES	170	33.01%	39	
+	symp_changes_mental_status					
+		NO	401	77.86%	96	
+		YES	114	22.14%	29	
+	symp_changes_visual					
+		NO	450	87.38%	109	
+		YES	65	12.62%	16	
+	symp_changes_sensory					
+		NO	443	86.02%	104	
+		YES	72	13.98%	21	
+	symp_changes_motor_movement					
+		NO	405	78.64%	100	
+		YES	110	21.36%	25	
+	firstsymptomlongestduration					
+		0-30Days	219	42.52%	56	1
+		>181Days	111	21.55%	23	4
+		31-90Days	77	14.95%	21	2
+		91-180Days	37	7.18%	12	3
+	histor_hay_fever					
+		NO	478	92.82%	121	
+		YES	37	7.18%	4	
+	history_neoadjuvant_steroid_tx					
+		NO	364	70.68%	77	
+		YES	151	29.32%	48	
+	history_neoadjuvant_medication					
+		YES	265	51.46%	69	
+		NO	250	48.54%	56	
+	idh1_mutation_found					
+		YES	91	17.67%	7	
+		NO	38	7.38%	14	
+LIHC			377		132	
+	BMI	Median(Range)	24.44727891(14.52664399-131.8359375)		114	
+		Mean(SD)	26.1215382659531(¡À8.39077107579059)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	61(16-90)		132	
+		Mean(SD)	59.4547872340426(¡À13.5104138977288)			
+	race					
+		WHITE	187	49.60%	77	
+		ASIAN	161	42.71%	44	
+		BLACK_OR_AFRICAN_AMERICAN	17	4.51%	6	
+		AMERICAN_INDIAN_OR_ALASKA_NATIVE	2	0.53%	0	
+	BMI_category					
+		Normal	180	47.75%	61	
+		Over	92	24.40%	29	
+		Obesity	69	18.30%	24	
+	gender					
+		MALE	255	67.64%	81	
+		FEMALE	122	32.36%	51	
+	ajcc_pathologic_tumor_stage					
+		Stage_I	175	46.42%	44	
+		Stage_II	87	23.08%	26	
+		Stage_III	86	22.81%	45	
+		Stage_IV	5	1.33%	3	
+	pathologic_stage_v2					
+		StageI/II	262	69.50%	70	
+		StageIII/IV	91	24.14%	48	
+	histological_grade					
+		G2	180	47.75%	62	2
+		G3	124	32.89%	43	3
+		G1	55	14.59%	18	1
+		G4	13	3.45%	5	4
+	histological_grade_v2					
+		G_1/2/Low	235	62.33%	80	
+		G_3/4/High	137	36.34%	48	
+	tumor_status					
+		TUMOR_FREE	202	53.58%	43	
+		WITH_TUMOR	154	40.85%	80	
+	residual_tumor					
+		R0	330	87.53%	112	1
+		RX	22	5.84%	8	4
+		R1	17	4.51%	8	2
+		R2	1	0.27%	1	3
+	new_tumor_event_type					
+		NO	199	52.79%	51	
+		Intrahepatic_Recurrence	76	20.16%	28	
+		Locoregional_Recurrence	62	16.45%	32	
+		Extrahepatic_Recurrence	29	7.69%	15	
+		New_Primary_Tumor	11	2.92%	6	
+	new_tumor_event_dx_days_to					
+		NO	198	52.52%	51	
+		YES	179	47.48%	81	
+	other_dx					
+		No	340	90.19%	119	
+		Yes	37	9.81%	13	
+	postoperative_rx_tx					
+		NO	362	96.02%	125	
+		YES	15	3.98%	7	
+	relative_family_cancer_history					
+		NO	263	69.76%	82	
+		YES	114	30.24%	50	
+	eastern_cancer_oncology_group					
+		0	166	44.03%	36	
+		1	86	22.81%	33	
+		2	26	6.90%	14	
+		3	12	3.18%	8	
+		4	3	0.80%	2	
+	risk_factors_Non.Alcoholic_Fatty_Liver_Disease					
+		NO	357	94.69%	128	
+		Yes	20	5.31%	4	
+	risk_factors_Hepatitis_C_risk					
+		NO	321	85.15%	113	
+		Hepatitis_C	56	14.85%	19	
+	risk_factors_Hepatitis_B					
+		NO	270	71.62%	112	
+		Hepatitis_B	107	28.38%	20	
+	alcohol					
+		NO	259	68.70%	91	
+		Yes	118	31.30%	41	
+	viral_hepatitis_serology					
+		NO	211	55.97%	59	
+		Yes	166	44.03%	73	
+	viral_hepatitis_serology_HC					
+		NO	230	61.01%	65	
+		Yes	147	38.99%	67	
+	viral_hepatitis_serology_HB					
+		NO	273	72.41%	84	
+		Yes	104	27.59%	48	
+	vascular_invasion					
+		None	210	55.70%	62	
+		Micro	94	24.93%	28	
+		Macro	17	4.51%	8	
+	child_pugh_classification					
+		A	223	59.15%	61	
+		B	21	5.57%	8	
+		C	1	0.27%	1	
+	alpha_fetoprotien_norm_range_lower					
+		Yes	150	39.79%	53	
+		NO	119	31.56%	25	
+	platelet_count_preresection					
+		Normal	221	58.62%	64	
+		Low	69	18.30%	22	
+		High	20	5.31%	12	
+	prothrombin_time_INR_at_procurement					
+		Normal	201	53.32%	62	
+		H	46	12.20%	11	
+		L	21	5.57%	4	
+	serum_albumin_preresection					
+		Normal	222	58.89%	68	
+		L	68	18.04%	22	
+		H	8	2.12%	1	
+	bilirubin_total					
+		Normal	252	66.84%	73	
+		H	49	13%	17	
+		L	1	0.27%	1	
+	creatinine_level_preresection					
+		Normal	238	63.13%	73	
+		L	44	11.67%	13	
+		H	19	5.04%	8	
+	ishak_fibrosis_score					
+		0_No_Fibrosis	76	20.16%	31	1
+		6_Established_Cirrhosis	72	19.10%	18	5
+		1/2_Portal_Fibrosis	31	8.22%	9	2
+		3/4_Fibrous_Speta	30	7.96%	6	3
+		5_Nodular_Formation_and_Incomplete_Cirrhosis	9	2.39%	2	4
+	hepatic_inflammation_adj_tissue					
+		None	119	31.56%	37	
+		Mild	101	26.79%	27	
+		Severe	19	5.04%	6	
+LUAD			522		188	
+	tobacco_smoking_history	Median(Range)	3(1-5)		178	
+		Mean(SD)	2.81496062992126(¡À1.07930715888486)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	66(33-88)		181	
+		Mean(SD)	65.3320079522863(¡À10.0186633282289)			
+	race					
+		WHITE	393	75.29%	145	
+		BLACK_OR_AFRICAN_AMERICAN	53	10.15%	17	
+		ASIAN	8	1.53%	1	
+		AMERICAN_INDIAN_OR_ALASKA_NATIVE	1	0.19%	0	
+	tobacco_smoking_history_v2					
+		Yes	508	97.32%	178	
+		No	14	2.68%	10	
+	gender					
+		FEMALE	280	53.64%	98	
+		MALE	242	46.36%	90	
+	ajcc_pathologic_tumor_stage					
+		Stage_I	279	53.45%	69	
+		Stage_II	124	23.75%	54	
+		Stage_III	85	16.28%	47	
+		Stage_IV	26	4.98%	16	
+	pathologic_stage_v2					
+		StageI/II	403	77.20%	123	
+		StageIII/IV	111	21.26%	63	
+	tumor_status					
+		TUMOR_FREE	294	56.32%	36	
+		WITH_TUMOR	171	32.76%	116	
+	treatment_outcome_first_course					
+		Complete_Remission/Response	320	61.30%	89	1
+		Progressive_Disease	68	13.03%	46	4
+		Stable_Disease	37	7.09%	9	3
+		Partial_Remission/Response	6	1.15%	2	2
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	320	61.30%	89	
+		Uncomplete_Remission/Response	111	21.26%	57	
+	residual_tumor					
+		R0	348	66.67%	134	1
+		RX	26	4.98%	7	4
+		R1	13	2.49%	10	2
+		R2	5	0.96%	3	3
+	new_tumor_event_type					
+		NO	391	74.90%	118	
+		Distant_Metastasis	63	12.07%	38	
+		Locoregional_Recurrence	48	9.20%	23	
+		New_Primary_Tumor	11	2.11%	1	
+		Locoregional_Recurrence|Distant_Metastasis	8	1.53%	7	
+		Distant_Metastasis|New_Primary_Tumor	1	0.19%	1	
+	new_tumor_event					
+		NO	335	64.18%	80	
+		Yes	187	35.82%	108	
+	other_dx					
+		No	429	82.18%	155	
+		Yes	93	17.82%	33	
+	targeted_molecular_therapy					
+		No	484	82.11%	174	
+		YES	38	7.28%	14	
+	eastern_cancer_oncology_group					
+		1	100	19.16%	42	2
+		0	95	18.20%	31	1
+		2	21	4.02%	7	3
+		3	3	0.57%	2	4
+	location_lung_parenchyma					
+		Peripheral_Lung	127	24.33%	52	
+		Central_Lung	64	12.26%	27	
+	egfr_mutation_status					
+		NO	197	37.74%	84	
+		YES	80	15.33%	26	
+	eml4_alk_translocation_status					
+		NO	213	40.80%	87	
+		YES	34	6.51%	14	
+LUSC			504		219	
+	tobacco_smoking_history	Median(Range)	4(1-5)		216	
+		Mean(SD)	3.1869918699187(¡À0.968754999164532)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	68(39-90)		217	
+		Mean(SD)	67.2767676767677(¡À8.6088038484436)			
+	race					
+		WHITE	351	69.64%	149	
+		BLACK_OR_AFRICAN_AMERICAN	31	6.15%	21	
+		ASIAN	9	1.79%	4	
+	tobacco_smoking_history_v2					
+		Yes	492	97.62%	216	
+		No	12	2.38%	3	
+	gender					
+		MALE	373	74.01%	168	
+		FEMALE	131	25.99%	51	
+	ajcc_pathologic_tumor_stage					
+		Stage_I	245	48.61%	102	
+		Stage_II	163	32.34%	65	
+		Stage_III	85	16.87%	45	
+		Stage_IV	7	1.39%	5	
+	pathologic_stage_v2					
+		StageI/II	408	80.95%	167	
+		StageIII/IV	92	18.25%	50	
+	tumor_status					
+		TUMOR_FREE	319	63.29%	76	
+		WITH_TUMOR	114	22.62%	91	
+	treatment_outcome_first_course					
+		Complete_Remission/Response	311	61.71%	102	1
+		Progressive_Disease	31	6.15%	24	4
+		Stable_Disease	17	3.37%	8	3
+		Partial_Remission/Response	4	0.79%	3	2
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	311	61.71%	102	
+		Uncomplete_Remission/Response	52	10.32%	35	
+	residual_tumor					
+		R0	401	79.56%	177	1
+		RX	23	4.56%	11	4
+		R1	12	2.38%	6	2
+		R2	4	0.79%	0	3
+	new_tumor_event_type					
+		NO	423	83.93%	170	
+		Distant_Metastasis	35	6.94%	25	
+		Locoregional_Recurrence	29	5.75%	18	
+		New_Primary_Tumor	12	2.38%	3	
+		Locoregional_Recurrence|Distant_Metastasis	3	0.60%	2	
+		Distant_Metastasis|New_Primary_Tumor	2	0.40%	1	
+	new_tumor_event_dx_days_to					
+		NO	371	73.61%	125	
+		Yes	133	26.39%	94	
+	other_dx					
+		No	433	85.91%	182	
+		Yes	70	13.89%	37	
+	targeted_molecular_therapy					
+		NO	453	89.88%	203	
+		YES	51	10.12%	16	
+	eastern_cancer_oncology_group					
+		1	93	18.45%	46	2
+		0	70	13.89%	30	1
+		2	26	5.16%	7	3
+		3	5	0.99%	4	4
+	location_lung_parenchyma					
+		Central_Lung	147	29.17%	57	
+		Peripheral_Lung	93	18.45%	43	
+MESO			87		74	
+	age_at_initial_pathologic_diagnosis	Median(Range)	64(28-81)		74	
+		Mean(SD)	62.9885057471264(¡À9.75692270977389)			
+	race					
+		WHITE	85	97.70%	72	
+		ASIAN	1	1.15%	1	
+		BLACK_OR_AFRICAN_AMERICAN	1	1.15%	1	
+	gender					
+		MALE	71	81.61%	60	
+		FEMALE	16	18.39%	14	
+	pathologic_stage_v2					
+		StageIII/IV	61	70.11%	52	2
+		StageI/II	26	29.89%	22	1
+	histological_type					
+		Epithelioid_mesothelioma	57	65.52%	46	
+		Biphasic_mesothelioma	23	26.44%	21	
+		Diffuse_malignant_mesothelioma_-_NOS	5	5.75%	5	
+		Sarcomatoid_mesothelioma	2	2.30%	2	
+	laterality					
+		Right	54	62.07%	46	
+		Left	30	34.48%	25	
+		Bilateral	3	3.45%	3	
+	tumor_status					
+		WITH_TUMOR	50	57.47%	43	
+		TUMOR_FREE	16	18.39%	10	
+	new_tumor_event_type					
+		NO	43	49.43%	36	
+		Intrapleural_Progression	25	28.74%	20	
+		Distant_Metastasis	10	11.49%	9	
+		Locoregional_Recurrence	9	10.34%	9	
+	new_tumor_event_dx_days_to					
+		Yes	47	54.02%	41	
+		NO	40	45.98%	33	
+	radiation_therapy					
+		NO	63	72.41%	55	
+		YES	24	27.59%	19	
+	postoperative_rx_tx					
+		YES	51	58.62%	42	
+		NO	36	41.38%	32	
+	history_asbestos_exposure					
+		Yes	56	64.37%	49	
+		No	31	35.64%	25	
+	family_history_cancer_type					
+		NO	57	65.52%	49	
+		Yes	30	34.48%	25	
+OV			587		NA	
+	age_at_initial_pathologic_diagnosis	Median(Range)	59(26-89)		NA	
+		Mean(SD)	59.7359454855196(¡À11.5310880842434)			
+	race					
+		WHITE	498	84.84%	311	
+		BLACK_OR_AFRICAN_AMERICAN	34	5.79%	22	
+		ASIAN	20	3.41%	6	
+		AMERICAN_INDIAN_OR_ALASKA_NATIVE	3	0.51%	3	
+		NATIVE_HAWAIIAN_OR_OTHER_PACIFIC_ISLANDER	1	0.17%	1	
+	clinical_stage					
+		Stage_III	446	75.98%	266	3
+		Stage_IV	89	15.16%	69	4
+		Stage_II	30	5.11%	8	2
+		Stage_I	17	2.90%	4	1
+	clinical_stage_v2					
+		StageIII/IV	535	91.14%	335	2
+		StageI/II	47	8.01%	12	1
+	histological_grade_v2					
+		G_3/4/High	496	84.50%	295	
+		G_1/2/Low	75	12.78%	45	
+		GX	10	1.70%	6	
+		GB	2	0.34%	2	
+	tumor_status					
+		WITH_TUMOR	398	67.80%	302	
+		TUMOR_FREE	120	20.44%	10	
+	treatment_outcome_first_course					
+		Complete_Remission/Response	331	56.39%	168	1
+		Partial_Remission/Response	65	11.07%	57	2
+		Progressive_Disease	42	7.16%	36	4
+		Stable_Disease	31	5.28%	19	3
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	331	56.39%	168	
+		Uncomplete_Remission/Response	138	23.51%	112	
+	new_tumor_event_type					
+		Recurrence	294	50.09%	219	3
+		NO	259	44.12%	102	1
+		Progression_of_Disease	34	5.79%	28	2
+	new_tumor_event_dx_days_to					
+		Yes	362	61.67%	263	
+		NO	225	38.33%	86	
+	anatomic_neoplasm_subdivision					
+		Bilateral	400	68.14%	247	
+		Left	82	13.97%	42	
+		Right	71	12.10%	40	
+	vascular_invasion_indicator					
+		NO	496	84.50%	310	
+		YES	91	15.50%	39	
+	lymphovascular_invasion_indicator					
+		NO	449	76.49%	282	
+		YES	138	23.51%	67	
+PAAD			185		100	
+	tobacco_smoking_history	Median(Range)	2(1-5)		80	
+		Mean(SD)	2.20134228187919(¡À1.3150884554147)			
+	tumor_resected_max_dimension	Median(Range)	3.5(0.3-14)		94	
+		Mean(SD)	3.84(¡À1.70566060706955)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	65(35-88)		100	
+		Mean(SD)	64.8648648648649(¡À11.0546128532346)			
+	race					
+		WHITE	162	87.57%	86	
+		ASIAN	11	5.95%	5	
+		BLACK_OR_AFRICAN_AMERICAN	7	3.78%	5	
+	tobacco_smoking_history_v2					
+		Yes	149	80.54%	80	
+		No	36	19.46%	20	
+	gender					
+		MALE	102	55.14%	51	
+		FEMALE	83	44.86%	49	
+	ajcc_pathologic_tumor_stage					
+		Stage_II	152	82.16%	88	2
+		Stage_I	21	11.35%	7	1
+		Stage_IV	5	2.70%	3	4
+		Stage_III	4	2.16%	2	3
+	pathologic_stage_v2					
+		StageI/II	173	93.51%	95	
+		StageIII/IV	9	4.86%	5	
+	histological_grade					
+		G2	97	52.43%	52	2
+		G3	51	27.57%	33	3
+		G1	32	17.30%	12	1
+		GX	3	1.62%	2	5
+		G4	2	1.08%	1	4
+	histological_grade_v2					
+		G_1/2/Low	129	69.73%	64	
+		G_3/4/High	53	28.65%	34	
+		GX	3	1.62%	2	
+	histological_type					
+		Pancreas-Adenocarcinoma_Ductal_Type	154	83.24%	92	
+		Pancreas-Adenocarcinoma-Other_Subtype	25	13.51%	6	
+		Pancreas-Colloid_(mucinous_non-cystic)_Carcinoma	4	2.16%	2	
+		Pancreas-Undifferentiated_Carcinoma	1	0.54%	0	
+	tumor_status					
+		WITH_TUMOR	105	56.76%	77	
+		TUMOR_FREE	58	31.35%	13	
+	treatment_outcome_first_course					
+		Complete_Remission/Response	70	37.84%	26	1
+		Progressive_Disease	56	30.27%	46	4
+		Partial_Remission/Response	10	5.41%	5	2
+		Stable_Disease	8	4.32%	5	3
+	treatment_outcome_first_course_v2					
+		Uncomplete_Remission/Response	74	40%	56	
+		Complete_Remission/Response	70	37.84%	26	
+	residual_tumor					
+		R0	111	60%	56	
+		R1	53	28.65%	32	
+		R2	5	2.70%	2	
+		RX	4	2.16%	3	
+	new_tumor_event_type					
+		NO	101	54.59%	44	
+		Distant_Metastasis	59	31.89%	38	
+		Locoregional_Recurrence	21	11.35%	16	
+		Locoregional_Recurrence|Distant_Metastasis	2	1.08%	1	
+		New_Primary_Tumor	2	1.08%	1	
+	new_tumor_event_dx_days_to					
+		NO	101	54.59%	44	
+		Yes	84	45.41%	56	
+	other_dx					
+		No	166	89.73%	91	
+		Yes	19	10.27%	9	
+	radiation_therapy					
+		NO	152	82.16%	89	
+		YES	33	17.84%	11	
+	targeted_molecular_therapy					
+		YES	94	50.81%	44	
+		NO	91	49.19%	56	
+	number_of_lymphnodes_positive_by_he					
+		Yes	132	71.35%	80	
+		NO	53	28.65%	20	
+	relative_family_cancer_history					
+		NO	119	64.32%	64	
+		YES	66	35.68%	36	
+	grade_tier_system					
+		Four_Tier	74	40%	34	
+		Three_Tier	31	16.76%	16	
+	alcohol_history_documented					
+		YES	102	55.14%	53	
+		NO	83	44.86%	47	
+	diabetes_diagnosis_indicator					
+		NO	147	79.46%	84	
+		YES	38	20.54%	16	
+PCPG			179		6	
+	age_at_initial_pathologic_diagnosis	Median(Range)	46(19-83)		6	
+		Mean(SD)	47.3296089385475(¡À15.1233789311665)			
+	gender					
+		FEMALE	101	56.42%	2	
+		MALE	78	43.58%	4	
+	histological_type					
+		Pheochromocytoma	148	82.68%	4	
+		Paraganglioma	18	10.06%	2	
+		Paraganglioma;_Extra-adrenal_Pheochromocytoma	13	7.26%	0	
+	laterality					
+		Right	76	42.46%	2	
+		Left	73	40.78%	2	
+		Bilateral	2	1.12%	0	
+	tumor_status					
+		TUMOR_FREE	166	92.74%	2	
+		WITH_TUMOR	13	7.26%	4	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	160	89.39%	1	
+		Uncomplete_Remission/Response	12	6.70%	4	
+	new_tumor_event_type					
+		NO	161	89.94%	5	
+		Yes	18	10.06%	1	
+	other_dx					
+		No	152	84.92%	3	
+		Yes	27	15.08%	3	
+	history_pheo_or_para_include_benign					
+		NO	157	87.71%	4	
+		YES	22	12.29%	2	
+	submitted_tumor_site					
+		Adrenal_gland	147	82.12%	4	
+		Extra-adrenal_Site	32	17.88%	2	
+PRAD			500		10	
+	gleason_pattern_primary	Median(Range)	4(2-5)		10	
+		Mean(SD)	3.694(¡À0.642798864934843)			
+	gleason_pattern_secondary	Median(Range)	4(3-5)		10	
+		Mean(SD)	3.916(¡À0.71970824638866)			
+	gleason_score	Median(Range)	7(6-10)		10	
+		Mean(SD)	7.61(¡À1.00793445408293)			
+	psa_most_recent_results	Median(Range)	0.1(0-323)		10	
+		Mean(SD)	1.74210158013544(¡À15.8067998161016)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	61(41-78)		10	
+		Mean(SD)	61.006(¡À6.82283417153492)			
+	histological_type					
+		Prostate_Adenocarcinoma_Acinar_Type	485	97%	9	
+		"Prostate_Adenocarcinoma,_Other_Subtype"	15	3%	1	
+	tumor_status					
+		TUMOR_FREE	347	69.40%	3	
+		WITH_TUMOR	89	17.80%	5	
+	treatment_outcome_first_course					
+		Complete_Remission/Response	340	68%	3	
+		Partial_Remission/Response	39	7.80%	1	
+		Stable_Disease	30	6%	1	
+		Progressive_Disease	29	5.80%	4	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	340	68%	3	
+		Uncomplete_Remission/Response	98	19.60%	6	
+	residual_tumor					
+		R0	318	63.60%	4	
+		R1	147	29.40%	5	
+		RX	15	3%	0	
+		R2	5	1%	0	
+	new_tumor_event_type					
+		NO	409	81.80%	6	
+		Biochemical_evidence_of_disease	70	14%	1	
+		Locoregional_Recurrence	8	1.60%	1	
+		New_Primary_Tumor	7	1.40%	0	
+		Distant_Metastasis	6	1.20%	2	
+	new_tumor_event_dx_days_to					
+		NO	409	81.80%	6	
+		Yes	91	18.20%	4	
+	other_dx					
+		No	471	94.20%	10	
+		Yes	29	5.80%	0	
+	radiation_therapy					
+		NO	460	92%	8	
+		YES	40	8%	2	
+	targeted_molecular_therapy					
+		NO	457	91.40%	8	
+		YES	43	8.60%	2	
+	number_of_lymphnodes_positive_by_he					
+		NO	420	84%	7	
+		Yes	80	16%	3	
+	zone_of_origin					
+		Peripheral_Zone	138	27.60%	4	
+		Overlapping_/_Multiple_Zones	127	25.40%	5	
+		Transition_Zone	8	1.60%	0	
+		Central_Zone	4	0.80%	0	
+	biochemical_recurrence_indicator					
+		NO	373	74.60%	5	
+		YES	58	11.60%	5	
+READ			170		26	
+	BMI	Median(Range)	26.50532086(15.625-50.92155009)		15	
+		Mean(SD)	26.9576760539189(¡À5.80663638715575)			
+	cea_level_pretreatment	Median(Range)	3.555(0.33-7868)		15	
+		Mean(SD)	135.193947368421(¡À820.784195935003)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	66(31-90)		26	
+		Mean(SD)	64.4588235294118(¡À11.91344816283)			
+	BMI_category					
+		Over	37	21.76%	7	
+		Normal	22	12.94%	4	
+		Obesity	15	8.82%	4	
+	gender					
+		MALE	92	54.12%	13	
+		FEMALE	78	45.88%	13	
+	ajcc_pathologic_tumor_stage					
+		Stage_III	52	30.59%	8	3
+		Stage_II	51	30%	4	2
+		Stage_I	33	19.41%	2	1
+		Stage_IV	25	14.71%	9	4
+	pathologic_stage_v2					
+		StageI/II	84	49.41%	6	
+		StageIII/IV	77	45.29%	17	
+	histological_type					
+		Rectal_Adenocarcinoma	151	88.82%	24	
+		Rectal_Mucinous_Adenocarcinoma	13	7.65%	2	
+	tumor_status					
+		TUMOR_FREE	103	60.59%	5	
+		WITH_TUMOR	55	32.35%	15	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	51	30%	2	
+		Uncomplete_Remission/Response	12	7.06%	2	
+	residual_tumor					
+		R0	127	74.71%	12	1
+		R2	12	7.06%	6	3
+		RX	5	2.94%	0	4
+		R1	2	1.18%	1	2
+	new_tumor_event_dx_days_to					
+		NO	138	81.18%	16	
+		Yes	32	18.82%	10	
+	number_of_lymphnodes_positive_by_he					
+		NO	95	55.88%	8	
+		Yes	75	44.12%	18	
+	vascular_invasion_indicator					
+		NO	132	77.65%	18	
+		YES	38	22.35%	8	
+	lymphovascular_invasion_indicator					
+		NO	102	60%	16	
+		YES	68	40%	10	
+	history_colon_polyps					
+		NO	136	80%	22	
+		YES	34	20%	4	
+SARC			261		99	
+	age_at_initial_pathologic_diagnosis	Median(Range)	61(20-90)		99	
+		Mean(SD)	60.8697318007663(¡À14.6518010026106)			
+	race					
+		WHITE	228	87.36%	86	
+		BLACK_OR_AFRICAN_AMERICAN	18	6.90%	7	
+		ASIAN	6	2.30%	1	
+	gender					
+		FEMALE	142	54.41%	58	
+		MALE	119	45.59%	41	
+	histological_type					
+		Leiomyosarcoma_(LMS)	105	40.23%	41	
+		Dedifferentiated_liposarcoma	59	22.61%	26	
+		Pleomorphic_'MFH'_/_Undifferentiated_pleomorphic_sarcoma	29	11.11%	11	
+		Myxofibrosarcoma	25	9.58%	9	
+		Undifferentiated_Pleomorphic_Sarcoma_(UPS)	21	8.05%	5	
+		Malignant_Peripheral_Nerve_Sheath_Tumors_(MPNST)	9	3.45%	3	
+		Synovial_Sarcoma_-_Monophasic	6	2.30%	3	
+		Desmoid_Tumor	2	0.77%	0	
+		Sarcoma;_synovial;_poorly_differentiated	2	0.77%	1	
+		Synovial_Sarcoma_-_Biphasic	2	0.77%	0	
+		Giant_cell_'MFH'_/_Undifferentiated_pleomorphic_sarcoma_with_giant_cells	1	0.38%	0	
+	tumor_status					
+		TUMOR_FREE	129	49.43%	12	
+		WITH_TUMOR	123	47.13%	81	
+	margin_status					
+		Negative	137	52.49%	38	
+		Positive	74	28.35%	31	
+	residual_tumor					
+		R0	155	59.39%	44	
+		R1	70	26.82%	35	
+		RX	26	9.96%	12	
+		R2	9	3.45%	8	
+	new_tumor_event_type					
+		NO	136	52.11%	29	
+		Distant_Metastasis	68	26.05%	41	
+		Locoregional_Recurrence	48	18.39%	28	
+		New_Primary_Tumor	8	3.07%	1	
+		Locoregional_Disease	1	0.38%	0	
+	new_tumor_event_dx_days_to					
+		NO	135	51.72%	29	
+		Yes	126	48.28%	70	
+	other_dx					
+		No	219	83.91%	83	
+		Yes	42	16.09%	16	
+	radiation_therapy					
+		NO	188	72.03%	72	
+		YES	73	27.97%	27	
+	postoperative_rx_tx					
+		NO	224	85.82%	81	
+		YES	37	14.18%	18	
+	histologic_subtype					
+		Conventional_leiomyosarcoma	66	25.29%	22	
+		Poorly_differentiated_or_pleomorphic_or_epithelioid_leiomyosarcoma	34	13.03%	18	
+		Well-differentiated_leiomyosarcoma_(resembling_leiomyoma)	4	1.53%	1	
+	leiomyosarcoma_uterine_involvement					
+		NO	231	88.51%	85	
+		YES	30	11.49%	14	
+	tumor_total_depth					
+		Deep	187	71.65%	74	
+		Superficial	21	8.05%	3	
+	disease_multifocal_indicator					
+		NO	199	76.25%	66	
+		YES	40	15.33%	24	
+	locoregional_recurrence_indicator					
+		NO	144	55.17%	43	
+		YES	29	11.11%	21	
+	metastatic_disease_confirmed					
+		NO	121	46.36%	28	
+		YES	56	21.46%	37	
+SKCM			470		NA	
+	BMI	Median(Range)	26.609744605(17.63085399-55.47337278)		NA	
+		Mean(SD)	27.94186199316(¡À6.10420131960602)			
+	breslow_thickness_at_diagnosis	Median(Range)	3(0-75)		NA	
+		Mean(SD)	5.58490250696379(¡À8.44431430340643)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	58(15-90)		NA	
+		Mean(SD)	58.2164502164502(¡À15.7330189406098)			
+	race					
+		WHITE	447	95.11%	207	
+		ASIAN	12	2.55%	7	
+		BLACK_OR_AFRICAN_AMERICAN	1	0.21%	0	
+	BMI_category					
+		Over	89	18.94%	31	2
+		Normal	83	17.66%	25	1
+		Obesity	78	16.60%	30	3
+	gender					
+		MALE	290	61.70%	145	
+		FEMALE	180	38.30%	71	
+	ajcc_pathologic_tumor_stage					
+		Stage_III	171	36.38%	83	3
+		Stage_II	140	29.79%	59	2
+		Stage_I	77	16.38%	39	1
+		Stage_IV	23	4.89%	10	4
+		I/II_NOS	14	2.98%	6	5
+		Stage_0	7	1.49%	0	6
+	pathologic_stage_v2					
+		StageI/II	224	47.66%	98	
+		StageIII/IV	194	41.28%	93	
+		I/II_NOS	14	2.98%	6	
+	tumor_status					
+		WITH_TUMOR	247	52.55%	190	
+		TUMOR_FREE	214	45.53%	20	
+	new_tumor_event_dx_days_to					
+		Yes	280	59.57%	167	
+		NO	190	40.43%	49	
+	other_dx					
+		No	448	95.32%	203	
+		Yes	22	4.68%	13	
+	history_of_neoadjuvant_treatment					
+		No	445	94.68%	203	
+		Yes	25	5.32%	13	
+	radiation_therapy					
+		NO	447	95.11%	207	
+		YES	23	4.89%	9	
+	new_tumor_event_after_initial_treatment					
+		YES	338	71.91%	178	
+		NO	132	28.09%	38	
+	postoperative_rx_tx					
+		NO	378	80.43%	170	
+		YES	92	19.57%	46	
+	primary_melanoma_known_dx					
+		YES	423	90%	200	
+		NO	47	10%	16	
+	clark_level_at_diagnosis					
+		IV	168	35.74%	90	2
+		III	77	16.38%	36	3
+		V	52	11.06%	30	1
+		II	18	3.83%	6	4
+		I	6	1.28%	0	5
+	primary_melanoma_tumor_ulceration					
+		NO	303	64.47%	138	
+		YES	167	35.53%	78	
+	submitted_tumor_site.1					
+		Regional_Lymph_Node	222	47.23%	107	2
+		Primary_Tumor	103	21.91%	30	1
+		Regional_Cutaneous_or_Subcutaneous_Tissue_(includes_satellite_and_in-transit_metastasis)	74	15.74%	40	3
+		Distant_Metastasis	68	14.47%	38	4
+STAD			443		172	
+	age_at_initial_pathologic_diagnosis	Median(Range)	67(30-90)		172	
+		Mean(SD)	65.6780821917808(¡À10.7566816645557)			
+	race					
+		WHITE	278	62.75%	113	
+		ASIAN	89	20.09%	25	
+		BLACK_OR_AFRICAN_AMERICAN	13	2.93%	8	
+		NATIVE_HAWAIIAN_OR_OTHER_PACIFIC_ISLANDER	1	0.23%	1	
+	gender					
+		MALE	285	64.33%	114	
+		FEMALE	158	35.67%	58	
+	ajcc_pathologic_tumor_stage					
+		Stage_III	183	41.31%	85	3
+		Stage_II	130	29.35%	37	2
+		Stage_I	59	13.32%	13	1
+		Stage_IV	44	9.93%	26	4
+	pathologic_stage_v2					
+		StageIII/IV	227	51.24%	111	2
+		StageI/II	189	42.66%	50	1
+	histological_grade					
+		G3	263	59.37%	109	
+		G2	159	35.89%	56	
+		G1	12	2.71%	3	
+		GX	9	2.03%	4	
+	histological_grade_v2					
+		G_3/4/High	263	59.37%	109	2
+		G_1/2/Low	171	38.60%	59	1
+		GX	9	2.03%	4	3
+	histological_type					
+		Stomach_Adenocarcinoma_Not_Otherwise_Specified_(NOS)	164	37.02%	61	
+		Stomach_Intestinal_Adenocarcinoma_Not_Otherwise_Specified_(NOS)	82	18.51%	37	
+		Stomach_Intestinal_Adenocarcinoma_Tubular_Type	79	17.83%	31	
+		Stomach_Adenocarcinoma_Diffuse_Type	72	16.25%	28	
+		Stomach_Intestinal_Adenocarcinoma_Mucinous_Type	22	4.97%	3	
+		Stomach_Adenocarcinoma_Signet_Ring_Type	13	2.93%	9	
+		Stomach_Intestinal_Adenocarcinoma_Papillary_Type	8	1.81%	3	
+	tumor_status					
+		TUMOR_FREE	251	56.66%	44	
+		WITH_TUMOR	144	32.51%	99	
+	treatment_outcome_first_course					
+		Complete_Remission/Response	274	61.85%	68	1
+		Progressive_Disease	72	16.25%	55	4
+		Stable_Disease	18	4.06%	8	3
+		Partial_Remission/Response	7	1.58%	4	2
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	274	61.85%	68	
+		Uncomplete_Remission/Response	97	21.90%	67	
+	residual_tumor					
+		R0	350	79.01%	119	1
+		RX	25	5.64%	13	4
+		R2	19	4.29%	14	3
+		R1	18	4.06%	9	2
+	new_tumor_event_type					
+		NO	339	76.52%	103	
+		Distant_Metastasis	60	13.54%	40	
+		Locoregional_Recurrence	36	8.13%	26	
+		Locoregional_Recurrence|Distant_Metastasis	4	0.90%	3	
+		New_Primary_Tumor	3	0.68%	0	
+		Locoregional_Recurrence|New_Primary_Tumor	1	0.23%	0	
+	new_tumor_event_dx_days_to					
+		NO	328	74.04%	97	
+		Yes	115	25.96%	75	
+	radiation_therapy					
+		NO	392	88.49%	152	
+		YES	51	11.51%	20	
+	targeted_molecular_therapy					
+		NO	341	76.98%	134	
+		YES	102	23.02%	38	
+	anatomic_neoplasm_subdivision					
+		Antrum/Distal	161	36.34%	65	
+		Fundus/Body	152	34.31%	54	
+		Cardia/Proximal	62	14%	28	
+		Gastroesophageal_Junction	46	10.38%	14	
+		Stomach_(NOS)	8	1.81%	4	
+		Other_(please_specify)	5	1.13%	1	
+	number_of_lymphnodes_positive_by_he					
+		Yes	278	62.75%	124	
+		NO	165	37.25%	48	
+	history_reflux_disease_indicator					
+		NO	397	89.62%	161	
+		YES	46	10.38%	11	
+	h_pylori_infection					
+		No	423	95.56%	166	
+		Yes	20	4.51%	6	
+TGCT			134		4	
+	age_at_initial_pathologic_diagnosis	Median(Range)	31(14-67)		4	
+		Mean(SD)	31.9850746268657(¡À9.31163479071167)			
+	race					
+		WHITE	119	88.81%	3	
+		BLACK_OR_AFRICAN_AMERICAN	6	4.48%	1	
+		ASIAN	4	2.99%	0	
+	pathologic_stage_v2					
+		StageI/II	67	50%	1	
+		IS	46	34.33%	2	
+		StageIII/IV	14	10.45%	1	
+	clinical_stage_v2					
+		StageI/II	68	50.75%	1	
+		Stage_IS	42	31.34%	2	
+		StageIII/IV	15	11.19%	1	
+	laterality					
+		Left	72	53.73%	1	
+		Right	57	42.54%	3	
+		Bilateral	5	3.73%	0	
+	tumor_status					
+		TUMOR_FREE	126	94.03%	1	
+		WITH_TUMOR	7	5.22%	3	
+	new_tumor_event_type					
+		NO	101	75.37%	2	
+		Yes	33	24.63%	2	
+	postoperative_rx_tx					
+		NO	92	68.66%	3	
+		YES	42	31.34%	1	
+	history_of_undescended_testis					
+		No	111	82.84%	3	
+		Yes	23	17.16%	1	
+	first_treatment_success					
+		No_Measureable_Tumor_or_Tumor_Markers	96	71.64%	1	
+		"Normalization_of_Tumor_Markers,_but_Residual_Tumor_Mass"	15	11.19%	1	
+		Progressive_Tumor_Mass_and_Tumor_Markers	3	2.24%	2	
+	lymphovascular_invasion_present					
+		NO	79	58.96%	1	
+		YES	55	41.04%	3	
+THCA			507		16	
+	tumor_size_width	Median(Range)	2.5(0.1-12)		15	
+		Mean(SD)	2.90313807531381(¡À1.66822901167753)			
+	tumor_size_width.1	Median(Range)	2(0.2-9)		12	
+		Mean(SD)	2.25990675990676(¡À1.24535623048937)			
+	tumor_size_width.2	Median(Range)	1.5(0-5.5)		12	
+		Mean(SD)	1.73341523341523(¡À0.912104631704191)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	46(15-89)		16	
+		Mean(SD)	47.2642998027613(¡À15.7972944990897)			
+	race					
+		WHITE	334	65.88%	14	
+		ASIAN	52	10.26%	0	
+		BLACK_OR_AFRICAN_AMERICAN	27	5.33%	2	
+		AMERICAN_INDIAN_OR_ALASKA_NATIVE	1	0.20%	0	
+	gender					
+		FEMALE	371	73.18%	10	
+		MALE	136	26.82%	6	
+	ajcc_pathologic_tumor_stage					
+		Stage_I	285	56.21%	2	1
+		Stage_III	113	22.29%	7	3
+		Stage_IV	55	10.85%	5	4
+		Stage_II	52	10.26%	2	2
+	pathologic_stage_v2					
+		StageI/II	337	66.47%	4	
+		StageIII/IV	168	33.14%	12	
+	histological_type					
+		Thyroid_Papillary_Carcinoma_-_Classical/usual	359	70.81%	15	
+		Thyroid_Papillary_Carcinoma_-_Follicular_(>=_99%_follicular_patterned)	102	20.12%	1	
+		Thyroid_Papillary_Carcinoma_-_Tall_Cell_(>=_50%_tall_cell_features)	37	7.30%	0	
+		"Other,_specify"	9	1.78%	0	
+	laterality					
+		Right_lobe	215	42.41%	6	
+		Left_lobe	178	35.11%	6	
+		Bilateral	86	16.96%	2	
+		Isthmus	22	4.34%	1	
+	tumor_status					
+		TUMOR_FREE	451	88.95%	3	
+		WITH_TUMOR	44	8.68%	7	
+	residual_tumor					
+		R0	389	76.73%	8	
+		R1	52	10.26%	4	
+		RX	30	5.92%	3	
+		R2	4	0.79%	0	
+	new_tumor_event_dx_days_to					
+		NO	460	90.73%	14	
+		Yes	47	9.27%	2	
+	other_dx					
+		No	473	93.29%	12	
+		Yes	34	6.71%	4	
+	radiation_therapy					
+		YES	157	30.97%	9	
+		NO	78	15.38%	4	
+	postoperative_rx_tx					
+		NO	219	43.20%	13	
+		YES	17	3.35%	0	
+	number_of_lymphnodes_positive_by_he					
+		NO	288	56.80%	10	
+		Yes	219	43.20%	6	
+	history_thyroid_disease					
+		Normal	281	55.42%	14	
+		Nodular_Hyperplasia	69	13.61%	1	
+		Lymphocytic_Thyroiditis	43	8.48%	0	
+		"Other,_specify"	26	5.13%	0	
+		Lymphocytic_Thyroiditis|Nodular_Hyperplasia	23	4.54%	0	
+		"Lymphocytic_Thyroiditis|Other,_specify"	5	0.99%	0	
+		"Lymphocytic_Thyroiditis|Nodular_Hyperplasia|Other,_specify"	1	0.20%	0	
+		"Normal|Other,_specify"	1	0.20%	0	
+	tumor_focality					
+		Unifocal	269	53.06%	14	
+		Multifocal	228	44.97%	2	
+	extrathyroidal_extension					
+		None	354	69.82%	7	
+		Minimal_(T3)	134	26.43%	4	
+		Moderate/Advanced_(T4a)	18	3.55%	4	
+		Very_Advanced_(T4b)	1	0.20%	1	
+THYM			124		9	
+	BMI	Median(Range)	26.278075795(17.50638983-50.6122449)		9	
+		Mean(SD)	27.3499703379(¡À6.11297809932607)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	60(17-84)		9	
+		Mean(SD)	58.1626016260163(¡À13.0090598844691)			
+	race					
+		WHITE	103	83.06%	8	
+		ASIAN	13	10.48%	1	
+		BLACK_OR_AFRICAN_AMERICAN	6	4.84%	0	
+	BMI_category					
+		Normal	38	30.65%	4	
+		Over	37	29.84%	3	
+		Obesity	25	20.16%	2	
+	gender					
+		MALE	64	51.61%	4	
+		FEMALE	60	48.39%	5	
+	clinical_stage					
+		Stage_II	61	49.19%	7	
+		Stage_I	38	30.65%	0	
+		Stage_III	15	12.10%	1	
+		Stage_IV	8	6.45%	1	
+	clinical_stage_v2					
+		StageI/II	99	79.84%	7	
+		StageIII/IV	23	18.55%	2	
+	histological_type					
+		Type_B	58	46.77%	4	3
+		Type_AB	38	30.65%	1	2
+		Type_A	17	13.71%	2	1
+		Type_C	11	8.87%	2	4
+	tumor_status					
+		TUMOR_FREE	113	91.13%	5	
+		WITH_TUMOR	10	8.06%	4	
+	new_tumor_event_type					
+		NO	103	83.06%	4	
+		Yes	21	16.94%	5	
+	other_dx					
+		No	114	91.94%	8	
+		Yes	10	8.06%	1	
+	radiation_therapy					
+		NO	81	65.32%	4	
+		YES	42	33.87%	5	
+	submitted_tumor_site					
+		Thymus	97	78.23%	7	
+		Anterior_Mediastinum	27	21.77%	2	
+	history_myasthenia_gravis					
+		NO	90	72.58%	5	
+		YES	34	27.42%	4	
+UCEC			548		91	
+	BMI	Median(Range)	32.32653061(17.36111111-213.4986226)		87	
+		Mean(SD)	33.8661327794584(¡À12.1035591113066)			
+	tumor_invasion_percent	Median(Range)	40(0-280)		79	
+		Mean(SD)	41.8647368421053(¡À32.292667997828)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	64(31-90)		91	
+		Mean(SD)	63.9302752293578(¡À11.1443858243535)			
+	race					
+		WHITE	374	68.25%	65	
+		BLACK_OR_AFRICAN_AMERICAN	109	19.89%	19	
+		ASIAN	20	3.65%	2	
+		NATIVE_HAWAIIAN_OR_OTHER_PACIFIC_ISLANDER	9	1.64%	2	
+		AMERICAN_INDIAN_OR_ALASKA_NATIVE	4	0.73%	1	
+	BMI_category					
+		Obesity	308	56.20%	49	3
+		Over	114	20.80%	20	2
+		Normal	95	17.34%	18	1
+	clinical_stage					
+		Stage_I	342	62.41%	32	1
+		Stage_III	124	22.63%	33	3
+		Stage_II	52	9.49%	9	2
+		Stage_IV	30	5.47%	17	4
+	clinical_stage_v2					
+		StageI/II	394	71.90%	41	
+		StageIII/IV	154	28.10%	50	
+	histological_grade					
+		G3	316	57.66%	69	3
+		G2	122	22.26%	14	2
+		G1	99	18.07%	2	1
+		High_Grade	11	2.01%	6	4
+	histological_grade_v2					
+		G_3/4/High	327	59.67%	75	2
+		G_1/2/Low	221	40.33%	16	1
+	histological_type					
+		Endometrioid_endometrial_adenocarcinoma	411	75%	49	
+		Serous_endometrial_adenocarcinoma	115	20.99%	36	
+		Mixed_serous_and_endometrioid	22	4.01%	6	
+	menopause_status					
+		Post	448	81.75%	81	
+		Pre	35	6.39%	7	
+		Indeterminate	17	3.10%	1	
+		Peri	17	3.10%	1	
+	tumor_status					
+		TUMOR_FREE	427	77.92%	29	
+		WITH_TUMOR	101	18.43%	60	
+	treatment_outcome_first_course					
+		Complete_Remission/Response	441	80.47%	53	1
+		Progressive_Disease	20	3.65%	13	4
+		Partial_Remission/Response	12	2.19%	6	2
+		Stable_Disease	6	1.09%	3	3
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	441	80.47%	53	
+		Uncomplete_Remission/Response	38	6.93%	22	
+	residual_tumor					
+		R0	376	68.61%	51	
+		RX	41	7.48%	10	
+		R1	22	4.01%	5	
+		R2	16	2.92%	11	
+	new_tumor_event_type					
+		NO	463	84.49%	54	
+		Metastatic	27	4.93%	11	
+		Locoregional_Recurrence	25	4.56%	13	
+		Locoregional_Disease	12	2.19%	4	
+		New_Primary_Tumor	11	2.01%	3	
+		Distant_Metastasis	10	1.82%	6	
+	new_tumor_event_dx_days_to					
+		NO	439	80.11%	41	
+		Yes	109	19.89%	50	
+	other_dx					
+		No	501	91.42%	84	
+		Yes	47	8.58%	7	
+	peritoneal_washing					
+		negative	353	64.42%	46	
+		positive	58	10.58%	25	
+	lymph_nodes_pelvic_pos_by_he					
+		NO	492	89.78%	69	
+		Yes	56	10.22%	22	
+	lymph_nodes_pelvic_pos_total					
+		NO	474	86.50%	64	
+		Yes	74	13.50%	27	
+	lymph_nodes_aortic_pos_by_he					
+		NO	519	94.71%	82	
+		Yes	29	5.29%	9	
+	lymph_nodes_aortic_pos_total					
+		NO	510	93.07%	78	
+		Yes	38	6.93%	13	
+UCS			57		35	
+	tumor_invasion_percent	Median(Range)	40(0-100)		27	
+		Mean(SD)	45.006(¡À32.9233996919019)			
+	BMI	Median(Range)	28.21549753(18.92915089-67.75122723)		30	
+		Mean(SD)	29.6331203555769(¡À8.96708603338345)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	68(51-90)		35	
+		Mean(SD)	69.7368421052632(¡À9.29962809507815)			
+	race					
+		WHITE	44	77.19%	29	
+		BLACK_OR_AFRICAN_AMERICAN	9	15.79%	5	
+		ASIAN	3	5.26%	1	
+	BMI_category					
+		Obesity	20	35.09%	8	3
+		Normal	17	29.82%	13	1
+		Over	15	26.32%	9	2
+	clinical_stage					
+		Stage_I	22	38.60%	10	1
+		Stage_III	20	35.09%	16	3
+		Stage_IV	10	17.54%	7	4
+		Stage_II	5	8.77%	2	2
+	clinical_stage_v2					
+		StageIII/IV	30	52.63%	23	2
+		StageI/II	27	47.37%	12	1
+	histological_type					
+		Uterine_Carcinosarcoma/_Malignant_Mixed_Mullerian_Tumor_(MMMT)_NOS	24	42.11%	14	
+		Uterine_Carcinosarcoma/_MMMT_Heterologous_Type	20	35.09%	16	
+		Uterine_Carcinosarcoma/MMMT_Homologous_Type	13	22.81%	5	
+	tumor_status					
+		WITH_TUMOR	37	64.91%	31	
+		TUMOR_FREE	17	29.82%	2	
+	treatment_outcome_first_course_v2					
+		Complete_Remission/Response	31	54.39%	12	
+		Uncomplete_Remission/Response	18	31.58%	16	
+	residual_tumor					
+		R0	28	49.12%	12	
+		RX	12	21.05%	9	
+		R2	10	17.54%	9	
+		R1	2	3.51%	1	
+	new_tumor_event_type					
+		Yes	31	54.39%	25	
+		NO	26	45.61%	10	
+	other_dx					
+		No	49	85.96%	32	
+		Yes	8	14.04%	3	
+	radiation_therapy					
+		NO	32	56.14%	21	
+		YES	25	43.86%	14	
+	postoperative_rx_tx					
+		YES	36	63.16%	20	
+		NO	21	36.84%	15	
+	hypertension_diagnosis					
+		NO	29	50.88%	16	
+		YES	28	49.12%	19	
+	pregnancies_full_term_count					
+		2	19	33.33%	12	3
+		3	15	26.32%	10	4
+		4+	7	12.28%	3	5
+		0	5	8.77%	3	1
+		1	4	7.02%	2	2
+	lymph_nodes_pelvic_pos_by_he					
+		NO	44	77.19%	27	
+		Yes	13	22.81%	8	
+	lymph_nodes_aortic_pos_by_he					
+		NO	48	84.21%	27	
+		Yes	9	15.79%	8	
+UVM			80		23	
+	mitotic_count	Median(Range)	7(0-40)		12	
+		Mean(SD)	11.2075471698113(¡À11.1084834015859)			
+	tumor_basal_diameter	Median(Range)	17(7.79-25)		22	
+		Mean(SD)	16.9269620253165(¡À3.47015160920199)			
+	tumor_thickness	Median(Range)	10.5(4-16)		23	
+		Mean(SD)	10.421125(¡À2.80899278932971)			
+	BMI	Median(Range)	27.734375(18.22222222-75.00015)		17	
+		Mean(SD)	28.6781263979245(¡À8.88792880904697)			
+	age_at_initial_pathologic_diagnosis	Median(Range)	61.5(22-86)		23	
+		Mean(SD)	61.65(¡À13.9457357032104)			
+	BMI_category					
+		Over	22	27.50%	7	2
+		Normal	17	21.25%	4	1
+		Obesity	14	17.50%	6	3
+	gender					
+		MALE	45	56.25%	15	
+		FEMALE	35	43.75%	8	
+	ajcc_pathologic_tumor_stage					
+		Stage_II	39	48.75%	8	
+		Stage_III	36	45%	11	
+		Stage_IV	4	5%	3	
+	pathologic_stage_v2					
+		StageIII/IV	40	50%	14	2
+		StageI/II	39	48.75%	8	1
+	clinical_stage					
+		Stage_III	40	50%	13	2
+		Stage_II	36	45%	7	1
+		Stage_IV	4	5%	3	3
+	clinical_stage_v2					
+		StageIII/IV	44	55%	16	2
+		StageI/II	36	45%	7	1
+	histological_type					
+		Epithelioid_Cell|Spindle_Cell	37	46.25%	14	3
+		Spindle_Cell	30	37.50%	3	1
+		Epithelioid_Cell	13	16.25%	6	2
+	tumor_status					
+		TUMOR_FREE	55	68.75%	4	
+		WITH_TUMOR	25	31.25%	19	
+	new_tumor_event_type					
+		NO	58	72.50%	12	
+		Yes	22	27.50%	11	
+	tumor_tissue_site					
+		Choroid	56	70%	16	
+		Choroid|Ciliary_body	22	27.50%	7	
+		Choroid|Ciliary_body|Iris	2	2.50%	0	

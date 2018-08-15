@@ -1,0 +1,3 @@
+Tag	Tag2	number_NA	other	
+submitted_tumor_site	tumor_tissue_site	0[0%] | N/A	97[78.23%] | Thymus	27[21.77%] | Anterior Mediastinum
+history_myasthenia_gravis	history_myasthenia_gravis	3[2.42%] | N/A	87[70.16%] | NO	34[27.42%] | YES

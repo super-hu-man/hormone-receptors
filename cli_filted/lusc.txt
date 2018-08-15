@@ -1,0 +1,3 @@
+Tag	Tag2	number_NA	other						
+anatomic_organ_subdivision	anatomic_neoplasm_subdivision	8[1.59%] | N/A	137[27.18%] | L-Upper	134[26.59%] | R-Upper	109[21.63%] | R-Lower	 77[15.28%] | L-Lower	 18[3.57%] | R-Middle	 11[2.18%] | Other (please specify)	 10[1.98%] | Bronchial
+location_lung_parenchyma	location_in_lung_parenchyma	264[52.38%] | N/A	147[29.17%] | Central Lung	 93[18.45%] | Peripheral Lung					

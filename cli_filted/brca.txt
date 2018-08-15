@@ -1,0 +1,7 @@
+Tag	Tag2	number_NA	other				
+surgical_procedure_first	breast_carcinoma_surgical_procedure_name	56[5.1%] | N/A	322[29.35%] | Modified Radical Mastectomy	272[24.79%] | Other	247[22.52%] | Lumpectomy	200[18.23%] | Simple Mastectomy	
+axillary_staging_method	axillary_lymph_node_stage_method_type	216[19.69%] | N/A	320[29.17%] | Axillary lymph node dissection alone	265[24.16%] | Sentinel node biopsy alone	239[21.79%] | Sentinel lymph node biopsy plus axillary dissection	 37[3.37%] | No axillary staging	 20[1.82%] | Other (specify)
+micromet_detection_by_ihc	cytokeratin_immunohistochemistry_staining_method_micrometastasis_indicator	367[33.45%] | N/A	467[42.57%] | NO	263[23.97%] | YES			
+er_status_by_ihc	breast_carcinoma_estrogen_receptor_status	49[4.47%] | N/A	808[73.66%] | Positive	238[21.7%] | Negative	  2[0.18%] | Indeterminate		
+pr_status_by_ihc	breast_carcinoma_progesterone_receptor_status	50[4.56%] | N/A	699[63.72%] | Positive	344[31.36%] | Negative	  4[0.36%] | Indeterminate		
+her2_status_by_ihc	lab_proc_her2_neu_immunohistochemistry_receptor_status	178[16.23%] | N/A	564[51.41%] | Negative	179[16.32%] | Equivocal	164[14.95%] | Positive	 12[1.09%] | Indeterminate	

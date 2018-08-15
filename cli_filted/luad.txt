@@ -1,0 +1,5 @@
+Tag	Tag2	number_NA	other					
+anatomic_organ_subdivision	anatomic_neoplasm_subdivision	11[2.11%] | N/A	183[35.06%] | R-Upper	125[23.95%] | L-Upper	 99[18.97%] | R-Lower	 79[15.13%] | L-Lower	 21[4.02%] | R-Middle	  4[0.77%] | Other (please specify)
+location_lung_parenchyma	location_in_lung_parenchyma	331[63.41%] | N/A	127[24.33%] | Peripheral Lung	 64[12.26%] | Central Lung				
+egfr_mutation_status	egfr_mutation_performed	245[46.93%] | N/A	197[37.74%] | NO	 80[15.33%] | YES				
+eml4_alk_translocation_status	eml4_alk_translocation_performed	275[52.68%] | N/A	213[40.8%] | NO	 34[6.51%] | YES				

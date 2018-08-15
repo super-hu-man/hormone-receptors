@@ -1,0 +1,15 @@
+Tag	Tag2	number_NA	other																											
+pharm_tx_mitotane_indicator	mitotane_therapy	5[5.43%] | N/A	55[59.78%] | YES	32[34.78%] | NO																										
+clinical_status_within_3_mths_surgery	post_surgical_procedure_assessment_thyroid_gland_carcinoma_status	9[9.78%] | N/A	63[68.48%] | No imaging evidence of disease	17[18.48%] | Persistent distant metastases	 2[2.17%] | Persistent locoregional disease	 1[1.09%] | Biochemical Evidence of Disease																								
+ct_scan_preop_results.1	ct_scan_findings	15[16.3%] | N/A	53[57.61%] | Normal	11[11.96%] | Lung Involvement	 5[5.43%] | Retroperitoneal Lymph Node Involvement	 5[5.43%] | Vena Cava Involvement/thrombus	 3[3.26%] | Liver Involvement																							
+weiss_score_overall	weiss_score	23[25%] | N/A	12[13.04%] | 3	11[11.96%] | 4	11[11.96%] | 6	10[10.87%] | 7	 9[9.78%] | 8	 8[8.7%] | 5	 5[5.43%] | 9	 3[3.26%] | 2																				
+mitoses_per_50_hpf	mitoses_count	31[33.7%] | N/A	7[7.61%] | 5	5[5.43%] | 6	4[4.35%] | 1	4[4.35%] | 10	4[4.35%] | 15	4[4.35%] | 7	3[3.26%] | 0	3[3.26%] | 2	3[3.26%] | 3	3[3.26%] | 4	2[2.17%] | 60	2[2.17%] | 8	2[2.17%] | 90	1[1.09%] | 100	1[1.09%] | 12	1[1.09%] | 129	1[1.09%] | 13	1[1.09%] | 18	1[1.09%] | 19	1[1.09%] | 23	1[1.09%] | 24	1[1.09%] | 30	1[1.09%] | 31	1[1.09%] | 35	1[1.09%] | 50	1[1.09%] | 51	1[1.09%] | 77	1[1.09%] | 9
+history_adrenal_hormone_excess	excess_adrenal_hormone_history_type	7[7.61%] | N/A	31[33.7%] | None	20[21.74%] | Androgen|Cortisol	17[18.48%] | Cortisol	 8[8.7%] | Androgen	 3[3.26%] | Mineralocorticoids	 2[2.17%] | Androgen|Estrogen	 2[2.17%] | Estrogen	 1[1.09%] | Androgen|Mineralocorticoids	 1[1.09%] | Mineralocorticoids|Cortisol																			
+atypical_mitotic_figures	atypical_mitotic_figures	24[26.09%] | N/A	35[38.04%] | Atypical Mitotic Figures Absent	33[35.87%] | Atypical Mitotic Figures Present																										
+cytoplasm_presence_less_than_equal_25_percent	cytoplasm_presence_less_than_equal_25_percent	23[25%] | N/A	57[61.96%] | Cytoplasm presence <= 25% Present	12[13.04%] | Cytoplasm presence <= 25% Absent																										
+diffuse_architecture	diffuse_architecture	22[23.91%] | N/A	50[54.35%] | Diffuse Architecture Present	20[21.74%] | Diffuse Architecture Absent																										
+invasion_of_tumor_capsule	invasion_of_tumor_capsule	9[9.78%] | N/A	48[52.17%] | Invasion of Tumor Capsule Present	35[38.04%] | Invasion of Tumor Capsule Absent																										
+mitotic_rate	mitotic_rate	12[13.04%] | N/A	48[52.17%] | Mitotic Rate > 5/50 HPF Present	32[34.78%] | Mitotic Rate > 5/50 HPF Absent																										
+necrosis	necrosis	5[5.43%] | N/A	67[72.83%] | Necrosis Present	20[21.74%] | Necrosis Absent																										
+sinusoid_invasion	sinusoid_invasion	24[26.09%] | N/A	39[42.39%] | Sinusoid Invasion Absent	29[31.52%] | Sinusoid Invasion Present																										
+weiss_venous_invasion	weiss_venous_invasion	13[14.13%] | N/A	43[46.74%] | Venous Invasion Absent	36[39.13%] | Venous Invasion Present																										

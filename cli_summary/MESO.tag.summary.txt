@@ -1,0 +1,139 @@
+Factor1	Factor2	Tags...
+bcr_patient_uuid	bcr_patient_uuid	00397CE0-A931-46DD-9407-C1C6A14C39F1	04A1F2DC-1B1A-4328-B35D-CDC1B99E7B5B	0AB19AE8-C095-48D6-B1AA-0F5AE75C6E68	0AC27BC8-346E-4006-A701-D9676FB91CB7	0C5AE0F7-B2AC-4B1B-AABB-83994EBB9326	0C7B4B9C-D497-41FC-A2B9-014BB5E07985	0C8BD0EB-9C26-4FB0-A365-26354129F0DA	10981CF9-C8E6-48C0-BC34-F06DB6E1AC28	1C848577-C3A4-4830-ABFA-549992172396	1F91F13C-BC22-4A5B-9C8F-54782D3909A0	24EA3CD5-C2E6-44F7-9658-78AF7BEFEEF7	28C6D24E-BE1E-484D-948D-55EA51BD8EC0	2B3B0CA8-14C6-493E-921A-CD43BA7D080A	2B715EB2-055E-4BC5-BC98-128E8BF6954F	2B740646-7CD4-4C7F-890A-7B3DB6EBC1B8	2D2D8421-18A7-4822-BA37-69FBF48DA225	2DD1ECD8-A8D8-4A6A-8CF2-E847557AB04C	3210027D-A9C7-4EBB-8497-E3705BED7E40	340FEF21-55D8-433F-B00A-51276B849356	36606C1F-9A12-465A-A2D9-2491FDC54A88	3D8B4046-822A-4A00-B79E-393BD3F5F5B5	4D9F1899-4A41-4E57-BDAD-B12EB0D47629	500B86B2-3AC3-4745-AF84-3DD28F38DAEB	50921CA1-5D70-4162-8847-74E874114284	54D21956-25E4-42DF-ADBE-6907721FC4B5	554F4424-BB94-4958-A316-6D7D4EB4181B	5A197D56-E835-4F96-AD85-04AE9F6AFF32	676EA428-80EF-4371-B90B-95E46708278C	6821F2B2-1B21-4046-B7D6-8979FE36ADD6	74F63637-CC7C-4539-A57E-783C8F62FB95	77C64E5D-DA34-467A-A8D3-C79060700E4F	7A92421E-4860-41C7-AFD2-FA715357F023	7D93F1B4-3460-4917-9F33-2A9C6DF773F2	827D74A2-0331-434C-AEF6-2D15B634CCB8	83B97927-A1BE-441A-97A1-4363E1F2D530	880BEFCF-2BB1-4D37-B65B-5F2970BFB18B	894B5569-4E33-4E8D-A70C-63DD4C74C3CF	8BA34BCC-DAAD-4D69-9F02-E6A1C18DE68B	92C1F122-2F48-47A7-B3B8-C1792A1F4F32	97408569-EF36-46D6-941A-ACA9E0AB297E	98889636-E53C-44DF-951E-01A70033E754	99826DAA-EB83-40BA-950D-0BB7084D960D	9AD7575D-2AD4-4FDA-8176-55145396F04A	A20FB646-2A9E-42AC-A2CC-FF3D6A0625FA	A3C28058-D305-4F85-B42B-A221E5234EC8	A48996BE-7DAE-451A-8129-9DE8DFE7221A	A61EA4C7-2506-4D56-AEB5-EDF83199D421	AAACE369-0A47-4176-811B-61CD42BF647F	AF5BDE54-D20C-41A1-9537-69AED5562F08	B100C424-90C6-4E16-9D9E-40AD38606B5D	B106D71C-7809-4EFA-A969-EE1F93A44720	B1F27FA2-133C-42C0-B69E-815AF67E2A7E	BBABCD40-0A6C-430F-8325-EE1ED1D08AFA	C328F661-C109-4E01-B819-299A75BD4348	C5AD9AEF-27C6-4101-BEFB-6227CD1266BA	C5D4D4B4-2C9E-4865-8860-68327356D461	C61937AB-01FF-42E5-A534-3B33D6A9F582	C739FD61-22B2-412D-BCF3-89BDA45A2C0F	C9C7366B-8826-4BD2-A3DC-5883E34C1502	C9CE1F62-2DF1-4974-868B-D075781CE282	CA9031AA-87E5-4D5B-A526-3615EFAC3077	CAA9B7D9-E900-4E18-A5F0-6DD4C202B40C	CB245767-F9D2-4CCA-95F0-F3D247C05F01	CB94A8AE-2B0C-4D0B-ADA3-4C82DD765567	CCF7073E-B224-497A-A476-C67AFF5226BD	D3A6ACCC-5C45-4E70-BAF5-2188AF53E0DB	D4D2B087-B7B4-4E53-A0B6-0190380C5A48	D4D3C554-BAB2-47E7-A1C8-8890DB28ABF8	D940E476-FB0A-4CC3-8AB5-691156E7C09B	DC6720DD-5028-49D3-8508-A7936E7B3FAA	DE7C2F09-B840-4071-A1F1-558D1FB28576	E0DF1FEF-C650-4088-A974-26F712ED4F64	E23BC730-B369-4D6A-90CE-7223E234CD4D	E4469259-2504-4987-88A4-02CAE33F46F2	E611EE05-92C8-41D6-A052-18DD749F8779	E656CF38-2F5D-4306-90D9-ECB504D86351	E6633347-A907-4A6C-9343-A207FDB05169	E90BFE17-2E5B-47ED-B986-B3D4181F2BF6	E93761B9-E0A2-48D5-8B21-A6670021CAE4	E9C61BD8-8E3B-4E2D-B878-1EF285FC6292	EB5A5B41-B493-408C-902E-C625F5BA7D2F	EBE927E6-0A7E-4C97-AD73-F3C302CCA7BC	EF8B1E2C-9623-44FE-B591-8C8E6A232DA5	F15667DC-8376-40B6-84B2-8F5370C3D66A	F235C37F-CE8D-42EA-9B3F-065FC7E0C8B8	F544C652-8EE2-4BFE-A42C-41AB4B3697D1	F8970455-BFB2-4B1D-AB71-3C5D619898AD
+bcr_patient_uuid	bcr_patient_uuid	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+bcr_patient_barcode	bcr_patient_barcode	TCGA-3H-AB3K	TCGA-3H-AB3L	TCGA-3H-AB3M	TCGA-3H-AB3O	TCGA-3H-AB3S	TCGA-3H-AB3T	TCGA-3H-AB3U	TCGA-3H-AB3X	TCGA-3U-A98D	TCGA-3U-A98E	TCGA-3U-A98F	TCGA-3U-A98G	TCGA-3U-A98H	TCGA-3U-A98I	TCGA-3U-A98J	TCGA-LK-A4NW	TCGA-LK-A4NY	TCGA-LK-A4NZ	TCGA-LK-A4O0	TCGA-LK-A4O2	TCGA-LK-A4O4	TCGA-LK-A4O5	TCGA-LK-A4O6	TCGA-LK-A4O7	TCGA-MQ-A4KX	TCGA-MQ-A4LC	TCGA-MQ-A4LI	TCGA-MQ-A4LJ	TCGA-MQ-A4LM	TCGA-MQ-A4LP	TCGA-MQ-A4LV	TCGA-MQ-A6BL	TCGA-MQ-A6BN	TCGA-MQ-A6BQ	TCGA-MQ-A6BR	TCGA-MQ-A6BS	TCGA-NQ-A57I	TCGA-NQ-A638	TCGA-SC-A6LM	TCGA-SC-A6LN	TCGA-SC-A6LP	TCGA-SC-A6LQ	TCGA-SC-A6LR	TCGA-SC-AA5Z	TCGA-SH-A7BC	TCGA-SH-A7BD	TCGA-SH-A7BH	TCGA-SH-A9CT	TCGA-SH-A9CU	TCGA-TS-A7OU	TCGA-TS-A7OY	TCGA-TS-A7OZ	TCGA-TS-A7P0	TCGA-TS-A7P1	TCGA-TS-A7P3	TCGA-TS-A7P6	TCGA-TS-A7P7	TCGA-TS-A7P8	TCGA-TS-A7PB	TCGA-TS-A8AF	TCGA-TS-A8AI	TCGA-TS-A8AS	TCGA-TS-A8AV	TCGA-TS-A8AY	TCGA-UD-AABY	TCGA-UD-AABZ	TCGA-UD-AAC1	TCGA-UD-AAC4	TCGA-UD-AAC5	TCGA-UD-AAC6	TCGA-UD-AAC7	TCGA-UT-A88C	TCGA-UT-A88D	TCGA-UT-A88E	TCGA-UT-A88G	TCGA-UT-A97Y	TCGA-XT-AASU	TCGA-YS-A95B	TCGA-YS-A95C	TCGA-YS-AA4M	TCGA-ZN-A9VO	TCGA-ZN-A9VP	TCGA-ZN-A9VQ	TCGA-ZN-A9VS	TCGA-ZN-A9VU	TCGA-ZN-A9VV	TCGA-ZN-A9VW
+bcr_patient_barcode	bcr_patient_barcode	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+form_completion_date	form_completion_date	2013-8-9	2014-4-25	2014-9-26	2013-10-23	2013-2-7	2014-4-16	2014-6-6	2013-2-6	2014-6-9	2014-4-10	2014-4-2	2013-12-2	2014-10-21	2014-4-30	2014-4-8	2014-4-9	2014-6-25	2013-10-15	2013-11-20	2013-5-1	2013-5-31	2014-10-14	2014-5-29	2014-5-30	2014-6-10	2014-6-11	2014-6-13	2014-8-11	2014-8-13	2014-9-25	2014-9-5
+form_completion_date	form_completion_date	11	 9	 7	 5	 5	 5	 5	 4	 4	 3	 3	 2	 2	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+prospective_collection	tissue_prospective_collection_indicator	NO	YES
+prospective_collection	tissue_prospective_collection_indicator	76	11
+retrospective_collection	tissue_retrospective_collection_indicator	YES	NO
+retrospective_collection	tissue_retrospective_collection_indicator	76	11
+gender	gender	MALE	FEMALE
+gender	gender	71	16
+race	race	WHITE	ASIAN	BLACK OR AFRICAN AMERICAN
+race	race	85	 1	 1
+ethnicity	ethnicity	NOT HISPANIC OR LATINO	NA
+ethnicity	ethnicity	73	14
+history_other_malignancy	other_dx	No	Yes
+history_other_malignancy	other_dx	78	 9
+history_neoadjuvant_treatment	history_of_neoadjuvant_treatment	No	Yes
+history_neoadjuvant_treatment	history_of_neoadjuvant_treatment	86	 1
+pleurodesis_performed_prior	pleurodesis_performed	NO	YES	NA
+pleurodesis_performed_prior	pleurodesis_performed	78	 8	 1
+pleurodesis_performed_90_days	pleurodesis_performed_90_days	NA	Yes	No
+pleurodesis_performed_90_days	pleurodesis_performed_90_days	78	 5	 4
+tumor_status	person_neoplasm_cancer_status	WITH TUMOR	NA	TUMOR FREE
+tumor_status	person_neoplasm_cancer_status	50	21	16
+vital_status	vital_status	Dead	Alive
+vital_status	vital_status	58	29
+history_asbestos_exposure	history_asbestos_exposure	Yes	NA	No
+history_asbestos_exposure	history_asbestos_exposure	56	17	14
+asbestos_exposure_type	asbestos_exposure_type	NA	Amosite	Crocidolite
+asbestos_exposure_type	asbestos_exposure_type	85	 1	 1
+asbestos_exposure_source	asbestos_exposure_source	NA	Occupational	Secondary
+asbestos_exposure_source	asbestos_exposure_source	49	33	 5
+asbestos_exposure_age_first	asbestos_exposure_age	NA	15	16	17	14	22	24	25	27	37
+asbestos_exposure_age_first	asbestos_exposure_age	75	 2	 2	 2	 1	 1	 1	 1	 1	 1
+asbestos_exposure_years	asbestos_exposure_years	NA	1	30	05	10	11	15	16	18	23	32	34	5	6	7
+asbestos_exposure_years	asbestos_exposure_years	71	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+asbestos_exposure_age_last	asbestos_exposure_age_last	NA	21	22	25	31	32	34	35	47	58
+asbestos_exposure_age_last	asbestos_exposure_age_last	78	 1	 1	 1	 1	 1	 1	 1	 1	 1
+primary_occupation	primary_occupation	Other, please specify	NA	Construction and Extraction	Automotive	Welding
+primary_occupation	primary_occupation	49	29	 7	 1	 1
+occupation_primary	primary_occupation_other	NA	Farmer	As a child, coated outside of boiler with asbestos. As adult, cleaned boilers as a facilities manager.	Asbestos Product Manufacturing	Building Superintendent	Carpenter	carpenter/builder	Carpenter/building industry	Chef in industrial kitchens	Draughting manager	Electrical Engineer	Electrician	Engineer	Engineer working on machines lined with asbestos	Firefighter	Foreman at manufacturing plant	He grounded granite counter tops for a living for about 10 years	Helped build recreational vehicles (manufacturing). Worked at industrial plant, steam operated  with asbestos insulated pipes.	Information services	Inspector Gas	IT	Machinist in a molding company, home remodeler, and brake fixer	Maintenance supervisor	meat manager	military, trucking, environmental exposures	Naval ship work	Navy and corrections officer	Navy Personnel	Navy Shipyard	Nuclear Physicist	Office worker	oil refinery	Operations Instructor, Navy Shipyard	petrochemical industry	Pipefitter in Navy Shipyard	plumber	Police Officer	Sales person	school district secretary	sheet mill worker	Shipping department for mechanical transplater industries	Steel Mill	Submarine worker in Navy and then engineer in a nuclear power plant	Tax Collector	Teacher	UPS employee	US Navy	Window tinting	Worked in a brick yard
+occupation_primary	primary_occupation_other	38	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+occupation_primary_years_worked	person_occupation_years_number	NA	30	10	11	18	20	23	32	39	40	42	45	50	6
+occupation_primary_years_worked	person_occupation_years_number	72	 3	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+family_history_cancer_type	family_history_cancer_type	NA	Other, specify	Other, specify|Other, specify	Other, specify|Other, specify|Other, specify	Mesothelioma|Mesothelioma	Mesothelioma|Mesothelioma|Mesothelioma	Other, specify|Melanoma	Other, specify|Other, specify|Other, specify|Other, specify
+family_history_cancer_type	family_history_cancer_type	57	12	12	 2	 1	 1	 1	 1
+family_history_cancer_relationship	family_member_relationship_type	NA	Parent	Parent|Sibling	Grandparent	Parent|Parent	Sibling	Sibling|Sibling	Child|Grandparent	Child|Parent	Parent|Child	Parent|Grandparent	Parent|Parent|Grandparent|Grandparent	Parent|Parent|Sibling	Parent|Sibling|Sibling	Sibling|Sibling|Parent
+family_history_cancer_relationship	family_member_relationship_type	57	 8	 6	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1
+karnofsky_score	karnofsky_performance_score	NA	80	90	100	0
+karnofsky_score	karnofsky_performance_score	75	 4	 4	 3	 1
+ecog_score	eastern_cancer_oncology_group	NA	1	0	2	3
+ecog_score	eastern_cancer_oncology_group	53	15	12	 6	 1
+performance_status_timing	performance_status_scale_timing	NA	Preoperative	Post-Adjuvant Therapy	Other	Pre-Adjuvant Therapy
+performance_status_timing	performance_status_scale_timing	46	31	 6	 2	 2
+radiation_treatment_adjuvant	radiation_therapy	NO	YES	NA
+radiation_treatment_adjuvant	radiation_therapy	60	24	 3
+pharmaceutical_tx_adjuvant	postoperative_rx_tx	YES	NO	NA
+pharmaceutical_tx_adjuvant	postoperative_rx_tx	51	33	 3
+laterality	laterality	Right	Left	Bilateral
+laterality	laterality	54	30	 3
+histologic_diagnosis	histological_type	Epithelioid mesothelioma	Biphasic mesothelioma	Diffuse malignant mesothelioma - NOS	Sarcomatoid mesothelioma
+histologic_diagnosis	histological_type	57	23	 5	 2
+initial_pathologic_dx_year	year_of_initial_pathologic_diagnosis	2012	2011	2009	2010	2008	2013	2007	1999	2002	2005	2004	2000	2001	2006
+initial_pathologic_dx_year	year_of_initial_pathologic_diagnosis	24	11	10	 9	 7	 7	 5	 3	 3	 3	 2	 1	 1	 1
+ajcc_staging_edition	system_version	7th	6th	5th
+ajcc_staging_edition	system_version	44	38	 5
+ajcc_tumor_pathologic_pt	pathologic_T	T3	T2	T4	T1	T1b	T1a	TX
+ajcc_tumor_pathologic_pt	pathologic_T	32	26	13	 8	 4	 2	 2
+ajcc_nodes_pathologic_pn	pathologic_N	N0	N2	N1	NX	N3
+ajcc_nodes_pathologic_pn	pathologic_N	44	26	10	 4	 3
+ajcc_metastasis_pathologic_pm	pathologic_M	M0	MX	M1
+ajcc_metastasis_pathologic_pm	pathologic_M	57	27	 3
+ajcc_pathologic_tumor_stage	pathologic_stage	Stage III	Stage II	Stage IV	Stage I	Stage IA	Stage IB
+ajcc_pathologic_tumor_stage	pathologic_stage	45	16	16	 7	 2	 1
+residual_tumor	residual_tumor	NA	R0	R2	RX	R1
+residual_tumor	residual_tumor	41	17	15	11	 3
+serum_mesothelin_prior_tx	serum_mesothelin_prior_tx	NA	0.3	0.6	1.3	1.302	1.355	1.4	1.5	13.421	2.3	2.7	2.8	3.121	5.169	6.7	7.9
+serum_mesothelin_prior_tx	serum_mesothelin_prior_tx	72	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+serum_mesothelin_lower_limit	serum_mesothelin_lower_limit	NA	0.0	0.3	0
+serum_mesothelin_lower_limit	serum_mesothelin_lower_limit	71	 7	 6	 3
+serum_mesothelin_upper_limit	serum_mesothelin_upper_limit	NA	1.5	2.5
+serum_mesothelin_upper_limit	serum_mesothelin_upper_limit	71	10	 6
+creatinine_prior_tx	creatinine_prior_tx	NA	0.9	0.7	0.8	0.837	0.90	1.0	0.53	0.6	0.81	0.82	0.86	0.905	0.92	0.928	0.93	0.96	0.98	1.029	1.05	1.11	1.3	1.45	1.70	109	126	64	68	71	89
+creatinine_prior_tx	creatinine_prior_tx	42	 9	 4	 3	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+creatinine_norm_range_lower	creatinine_norm_range_lower	NA	0.5	0.6	0.7	35	0.50	0.679	0.45	0.8	0.9	0.34	0.566	0.62	0.70	0.79	0.803	15
+creatinine_norm_range_lower	creatinine_norm_range_lower	42	10	 5	 5	 5	 4	 3	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1
+creatinine_norm_range_upper	creatinine_norm_range_upper	NA	1.3	1.20	1.4	125	1.24	1.36	1.5	0.9	1.075	1.13	1.188	1.244	1.30	1.301	1.357	110
+creatinine_norm_range_upper	creatinine_norm_range_upper	42	11	 7	 7	 5	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1
+suv_of_pleura_max	suv_of_pleura_max	NA	10.2	11.5	14	14.2	16.7	2.6	3.2	3.7	4.6	5.3	5.6	6.0	6.1	6.3	7.9	8.3	8.6	8.7	8.8	9.4	9.5	9.6
+suv_of_pleura_max	suv_of_pleura_max	65	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+mesothelioma_detection_method	mesothelioma_detection_method	Biopsy	NA	Thorascopy	Cytology	Thoracentesis
+mesothelioma_detection_method	mesothelioma_detection_method	52	15	15	 4	 1
+new_tumor_event_dx_indicator	new_tumor_event_after_initial_treatment	YES	NO	NA
+new_tumor_event_dx_indicator	new_tumor_event_after_initial_treatment	53	26	 8
+age_at_initial_pathologic_diagnosis	age_at_initial_pathologic_diagnosis	66	60	67	55	62	71	58	68	73	54	61	64	69	53	56	57	65	80	81	28	36	42	46	47	48	50	51	52	63	70	74	75	76	77	78	79
+age_at_initial_pathologic_diagnosis	age_at_initial_pathologic_diagnosis	7	6	6	5	5	5	4	4	4	3	3	3	3	2	2	2	2	2	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+clinical_M	clinical_M	NA
+clinical_M	clinical_M	87
+clinical_N	clinical_N	NA
+clinical_N	clinical_N	87
+clinical_T	clinical_T	NA
+clinical_T	clinical_T	87
+clinical_stage	clinical_stage	NA
+clinical_stage	clinical_stage	87
+days_to_birth	days_to_birth	-10510	-13243	-15656	-16913	-17299	-17894	-18315	-18697	-19191	-19437	-19503	-19746	-19818	-19866	-20134	-20336	-20338	-20384	-20437	-20747	-20757	-20964	-21034	-21236	-21323	-21411	-21423	-21922	-21951	-21972	-22014	-22021	-22135	-22338	-22443	-22588	-22670	-22702	-22720	-22822	-23002	-23110	-23400	-23591	-23606	-23850	-23949	-24176	-24300	-24314	-24391	-24410	-24449	-24459	-24490	-24528	-24571	-24652	-24704	-24745	-25000	-25019	-25096	-25108	-25298	-25471	-25486	-25714	-26057	-26185	-26212	-26220	-26264	-26704	-26773	-26790	-26926	-27347	-27720	-27917	-28273	-28590	-28925	-29464	-29500	-29798	-29905
+days_to_birth	days_to_birth	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+days_to_death	days_to_death	NA	84	107	1261	1302	133	142	144	158	1675	168	1715	185	197	243	244	2459	253	255	2790	283	297	328	333	358	361	385	39	406	414	434	456	457	459	469	527	546	563	57	572	591	689	709	719	727	757	76	78	789	795	826	843	844	881	885	949	982
+days_to_death	days_to_death	30	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+days_to_initial_pathologic_diagnosis	days_to_initial_pathologic_diagnosis	0
+days_to_initial_pathologic_diagnosis	days_to_initial_pathologic_diagnosis	87
+days_to_last_followup	days_to_last_followup	NA	-8	1025	108	1150	125	1299	1316	1426	1575	200	228	256	261	285	371	414	439	444	463	484	485	49	499	501	524	577	7	739	803
+days_to_last_followup	days_to_last_followup	58	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+disease_code	disease_code	NA
+disease_code	disease_code	87
+extranodal_involvement	extranodal_involvement	NA
+extranodal_involvement	extranodal_involvement	87
+family_history_cancer_type_other	family_history_cancer_type_other	NA	Prostate	black lung	bone|ovarian	Brain	Brain cancer	Breast|Breast	Breast|Pancreas	breast|prostate and basal cell carcinoma|pancreatic cancer	Colon cancer	Colorectal|Breast Cancer|Pancreatic Cancer	Gastric|Breast	Lung	lung cancer	Lung cancer	Lung Cancer|Pancreatic Cancer	Lung|Brain	lymphoma|renal	NA|NA	NA|NA|NA	ovarian	Ovarian|Breast	pancreatice tumor|NA	Prostate and lymphoma	Prostate Cancer|Gastric Cancer	Prostate Cancer|Thyroid Cancer	Prostate|Gynecologic	skin cancer|leukemia|skin cancer|colon cancer	skin|breast	Throat
+family_history_cancer_type_other	family_history_cancer_type_other	57	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+icd_10	icd_10	C45.0	C34.90	C38.4
+icd_10	icd_10	85	 1	 1
+icd_o_3_histology	icd_o_3_histology	9052/3	9053/3	9050/3	9051/3
+icd_o_3_histology	icd_o_3_histology	58	22	 6	 1
+icd_o_3_site	icd_o_3_site	C38.4	C34.9
+icd_o_3_site	icd_o_3_site	86	 1
+informed_consent_verified	informed_consent_verified	YES
+informed_consent_verified	informed_consent_verified	87
+patient_id	patient_id	A4KX	A4LC	A4LI	A4LJ	A4LM	A4LP	A4LV	A4NW	A4NY	A4NZ	A4O0	A4O2	A4O4	A4O5	A4O6	A4O7	A57I	A638	A6BL	A6BN	A6BQ	A6BR	A6BS	A6LM	A6LN	A6LP	A6LQ	A6LR	A7BC	A7BD	A7BH	A7OU	A7OY	A7OZ	A7P0	A7P1	A7P3	A7P6	A7P7	A7P8	A7PB	A88C	A88D	A88E	A88G	A8AF	A8AI	A8AS	A8AV	A8AY	A95B	A95C	A97Y	A98D	A98E	A98F	A98G	A98H	A98I	A98J	A9CT	A9CU	A9VO	A9VP	A9VQ	A9VS	A9VU	A9VV	A9VW	AA4M	AA5Z	AABY	AABZ	AAC1	AAC4	AAC5	AAC6	AAC7	AASU	AB3K	AB3L	AB3M	AB3O	AB3S	AB3T	AB3U	AB3X
+patient_id	patient_id	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+project_code	project_code	NA
+project_code	project_code	87
+stage_other	stage_other	NA
+stage_other	stage_other	87
+tissue_source_site	tissue_source_site	TS	MQ	LK	3H	3U	UD	ZN	SC	SH	UT	YS	NQ	XT
+tissue_source_site	tissue_source_site	15	12	 9	 8	 7	 7	 7	 6	 5	 5	 3	 2	 1
+tumor_tissue_site	tumor_tissue_site	Pleura
+tumor_tissue_site	tumor_tissue_site	87

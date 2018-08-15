@@ -1,0 +1,4 @@
+Tag	Tag2	number_NA	other		
+serum_calcium_level	serum_calcium_result	38[33.63%] | N/A	37[32.74%] | Low	35[30.97%] | Normal	 3[2.65%] | Elevated
+hemoglobin_level	hemoglobin_result	42[37.17%] | N/A	38[33.63%] | Normal	33[29.2%] | Low	
+white_cell_count	white_cell_count_result	42[37.17%] | N/A	39[34.51%] | Normal	31[27.43%] | Elevated	 1[0.88%] | Low

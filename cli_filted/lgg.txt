@@ -1,0 +1,15 @@
+Tag	Tag2	number_NA	other						
+tumor_site	tumor_location	1[0.19%] | N/A	"302[58.64%] | Supratentorial, Frontal Lobe"	"146[28.35%] | Supratentorial, Temporal Lobe"	" 47[9.13%] | Supratentorial, Parietal Lobe"	"  8[1.55%] | Supratentorial, Not Otherwise Specified"	"  8[1.55%] | Supratentorial, Occipital Lobe"	"  2[0.39%] | Posterior Fossa, Cerebellum"	"  1[0.19%] | Posterior Fossa, Brain Stem"
+supratentorial_localization	supratentorial_localization	29[5.63%] | N/A	222[43.11%] | Not listed in Medical Record	142[27.57%] | Cerebral Cortex	119[23.11%] | White Matter	"  3[0.58%] | Deep Gray (e.g.basal ganglia, thalamus)"			
+history_seizures	seizure_history	35[6.8%] | N/A	303[58.83%] | YES	177[34.37%] | NO					
+history_headaches	headache_history	50[9.71%] | N/A	295[57.28%] | NO	170[33.01%] | YES					
+symp_changes_mental_status	mental_status_changes	56[10.87%] | N/A	345[66.99%] | NO	114[22.14%] | YES					
+symp_changes_visual	visual_changes	57[11.07%] | N/A	393[76.31%] | NO	 65[12.62%] | YES					
+symp_changes_sensory	sensory_changes	61[11.84%] | N/A	382[74.17%] | NO	 72[13.98%] | YES					
+symp_changes_motor_movement	motor_movement_changes	58[11.26%] | N/A	347[67.38%] | NO	110[21.36%] | YES					
+first_symptom_longest_duration	first_presenting_symptom_longest_duration	71[13.79%] | N/A	219[42.52%] | 0 - 30 Days	111[21.55%] | > 181 Days	 77[14.95%] | 31 - 90 Days	 37[7.18%] | 91 - 180 Days			
+histor_hay_fever	hay_fever_history	175[33.98%] | N/A	303[58.83%] | NO	 37[7.18%] | YES					
+history_neoadjuvant_steroid_tx	preoperative_corticosteroids	148[28.74%] | N/A	216[41.94%] | NO	151[29.32%] | YES					
+history_neoadjuvant_medication	preoperative_antiseizure_meds	139[26.99%] | N/A	265[51.46%] | YES	111[21.55%] | NO					
+idh1_mutation_test_indicator	ldh1_mutation_tested	92[17.86%] | N/A	296[57.48%] | NO	127[24.66%] | YES					
+idh1_mutation_found	ldh1_mutation_found	390[75.73%] | N/A	91[17.67%] | YES	34[6.6%] | NO					

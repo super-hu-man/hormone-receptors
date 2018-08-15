@@ -1,0 +1,8 @@
+Tag	Tag2	number_NA	other											
+anatomic_organ_subdivision	anatomic_neoplasm_subdivision	0[0%] | N/A	133[25.19%] | Oral Tongue	117[22.16%] | Larynx	 73[13.83%] | Oral Cavity	 63[11.93%] | Floor of mouth	 45[8.52%] | Tonsil	 27[5.11%] | Base of tongue	 23[4.36%] | Buccal Mucosa	 18[3.41%] | Alveolar Ridge	 10[1.89%] | Hypopharynx	  9[1.7%] | Oropharynx	  7[1.33%] | Hard Palate	  3[0.57%] | Lip
+lymph_node_neck_dissection_indicator	lymphnode_neck_dissection	3[0.57%] | N/A	428[81.06%] | YES	 97[18.37%] | NO										
+extracapsular_spread_pathologic	presence_of_pathological_nodal_extracapsular_spread	165[31.25%] | N/A	248[46.97%] | No Extranodal Extension	 77[14.58%] | Microscopic Extension	 38[7.2%] | Gross Extension									
+lymphovascular_invasion	lymphovascular_invasion_present	172[32.58%] | N/A	232[43.94%] | NO	124[23.48%] | YES										
+hpv_status_p16	hpv_status_by_p16_testing	413[78.22%] | N/A	74[14.02%] | Negative	41[7.77%] | Positive										
+hpv_status_ish	hpv_status_by_ish_testing	439[83.14%] | N/A	67[12.69%] | Negative	22[4.17%] | Positive										
+alcohol_history_documented	alcohol_history_documented	11[2.08%] | N/A	352[66.67%] | YES	165[31.25%] | NO										

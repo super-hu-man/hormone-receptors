@@ -1,0 +1,3 @@
+Tag	Tag2	number_NA	other	
+history_pheo_or_para_include_benign	history_pheo_or_para_include_benign	0[0%] | N/A	157[87.71%] | NO	 22[12.29%] | YES
+submitted_tumor_site	tumor_tissue_site	0[0%] | N/A	147[82.12%] | Adrenal gland	 32[17.88%] | Extra-adrenal Site

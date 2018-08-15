@@ -1,0 +1,155 @@
+Factor1	Factor2	Tags...
+bcr_patient_uuid	bcr_patient_uuid	01775b06-5836-469c-8537-120cb8cc94e9	02dbd5fa-e31f-4486-8df8-5b851f2e92bd	02ef2e1a-5afe-4c00-a3ea-7f4a153f1da4	05d2adb3-5c6d-4edc-ba4c-bdbf628f4eee	0944ce65-a89a-4916-b90a-f674b334281e	09FD6D9E-C715-4D57-88F9-238DD74C79A7	0A3C8161-4186-4C95-8288-9928D6DB0355	0b4443a0-087d-47e7-9e67-795eac6750c3	0B4B50C7-AA0B-4A64-807B-D3CB47EEEB6F	0FA89FBC-307A-48D5-ADCE-192556755C22	10F0D40B-C4C4-441B-9CFB-BEF5E44AA91E	13CF4E4C-8D5F-4854-A350-428FDF1FF340	1422BC35-4597-4E76-AA75-8E79613E67D5	1521ac6d-31f7-4240-9d54-4f7600e78e16	16B38977-AEA1-4C75-89EC-4FB551F652DD	17142718-742E-464A-8E0F-A6B9AC8FAD75	1756244E-13BC-4ED7-8B91-005608803D91	1782bf45-7350-4053-8dd1-45faf4ed8dd9	178e68c0-4cb8-4042-a942-5a159ec1e12b	18960EB6-2D79-4D12-886A-4CD1E8FC1E21	1B31D2E9-5B05-4FFF-88D6-3A95BF8F8D43	1C2341F3-558B-4555-90FF-C7A23EF85C0B	1DB061C0-9B28-4BF9-8AD2-0383C69B6800	1F5494C4-E26C-4512-96D9-30412B5B32CE	1fe937f7-b4e5-4cf6-be9b-215a012533c6	20094E3E-CEE3-41DD-8553-1FC393117786	2048D0F9-ED9F-46DF-BCD4-3DFD9137670F	21814c02-6aa5-4b98-8fd8-41ca0b04ccd2	232073A1-2BF3-4539-A396-BDE7836F9AEB	23908554-B98E-4FF8-98E7-DEE3E2C5FEAF	24A40289-96FD-4C1A-A953-45A46A0A0E9D	27286A38-1035-4A22-9EBC-874DF8C49026	2AAF212F-000A-4A9D-8A4A-198FA94F491E	2AD10199-1381-42B7-B54F-DA34C1B1D3C0	2be42cc2-9b97-4821-afc2-d1e42eb3932d	2C636FB4-C341-4C55-B920-27BC2D40C815	2E0701E1-E16F-457F-B939-7B1128F4A58B	2E8F90F4-AED3-43B0-985C-DFDC2581F24F	2faea98a-edf7-4e92-bfb7-f91a36259872	31ACA8A3-7107-4B9D-8B6A-C07CAA2A9339	31C23E65-1F18-4F59-8A54-31FEBEDEF8A2	31e66b80-c684-4ee8-82ae-36d00f36bc88	3264459C-ADEB-486E-AB8F-274574441593	33833131-1482-42D5-9CF5-01CADE540234	345a375c-15cc-453a-8054-e68a35178082	3559f697-8fec-4f36-962c-632272fe9c9c	382B279F-87E1-4DBC-A2CA-C1DFDE1CF254	396FF766-A383-4F42-BCE3-F2F32B7F1151	3A3A8FE1-E35C-45D0-AA0B-4FEFA9EE9183	3CBF56E6-DCCC-40FE-B06E-2621A2121E9D	3E09FD70-6464-42F6-96A6-B51D7C298FC5	3F9CC59E-9F7D-40D1-9365-28B40DFF3C59	40D9B9F7-42B7-4CFD-AF95-660777AD0529	40FC7973-91C4-4FA8-A105-7FC3D6F3817C	4387a2c2-8007-4735-a48c-34a2b476018e	459028fd-0cd8-4e6d-a668-71fd60bd0a37	45E48080-0B27-45F4-8149-1AE7E36C6933	47CB93BC-8F6B-4B2A-804C-BB4FC78DF9E1	4A60E87E-6BC1-4AE0-9CCB-4CDC3E99C608	4b37b026-1d41-4bad-8996-7cb1f0e569af	4c9e6085-41c3-4cfe-ad3d-5f94196a86e0	4F87E061-E773-48F2-84BA-32401396500E	4fcfd545-c259-4a9d-a393-7135795048a8	503D7E36-DF78-428D-9971-09FF707645C2	507A4E05-D5AB-4DBB-9B4F-76B1A21B79DD	514D12B0-6F60-406E-BDE9-A090E918EBFF	517E0F20-56CC-470E-8C5F-543EFA10CFB5	53C94A86-1B4D-4833-A169-D990C460B301	5494af7d-403a-423b-b7ff-e6db9c117e93	556BACA9-03D6-48A3-9216-4FC441E99F90	55cee1dd-15a0-4717-a281-63e08e2cfdf9	565ee830-5236-4414-aeaa-48ea7eb3b753	56A1B8FF-A71C-4E5F-9C3C-D8162FF896AA	570F9947-1CE5-49C7-9619-49439DF6C7A9	5750A6ED-2516-456D-97D4-2F6486845ED8	5898434D-CFA3-4515-A0C0-810D7E515120	58C1C391-5EA3-4432-BB1E-E7E1974954BC	5965CD7B-F384-4473-826A-8381E362D10E	5971A597-1E16-4F6D-8D7B-0E69C6BDCEAD	597A5A56-244B-4218-A55D-5D08217EA28C	5AA57FFF-4515-4076-8798-55015BB4F156	5BFE94ED-88B9-44CE-8BBD-1285AB9678A4	5C51FBFE-153C-4CD2-97BD-E444DAA0B20F	5DBB4642-6636-4D67-9E73-25C7312AEC44	5F468C25-73C3-49D5-BA12-50653DFE2C41	5f9a5aba-8db8-45cc-8784-c5058445bd6f	620e0648-ec20-4a12-a6cb-5546fe829c77	638B1A6A-C222-414C-96BC-F259F0AFB278	65e5bf5f-f22a-4ec2-8839-aeda37212b98	6788E0E5-B67F-4FE6-AABB-6D0430AE2D06	67E9ABC1-4B6F-4054-BDC4-29906C55C682	68c0bc1b-3195-4ed6-8345-3ca53dfc54fc	69285F58-9B70-4262-ACC0-8CF3D47540C3	6983FC34-9577-45E1-B246-40E18FAB953F	6A0A280D-4A30-4071-AFE7-DE6B82A6E34C	6A4E10B6-E6C4-4210-AE4D-0D8E8D0CB3EC	6C0EA771-EA86-4DB6-994A-2372B2B8F536	6f777943-ffcb-46d9-872d-514559dee00d	70797499-16E6-48CC-8AE4-1E692713DAD3	70c2c861-01de-47bc-abfd-b7d14d68e1a1	712335E1-F1E9-44B9-957C-497EA5E8FA2F	712C2F78-C736-42CE-B689-A954C5290987	7240D5DA-B54E-436B-8069-F2C9F516B75E	735dd13d-33a5-4fac-bc55-3f37e9b16e57	74AA6675-28B7-46DC-9015-F07A07C7B018	75119D1A-93E5-4AE7-9D60-69EE929A0772	758B70F6-8064-4F43-AABE-E5F968FE2955	77e49007-3e44-4157-beae-8f7e94234c78	7a1d9862-910b-403e-9eab-697dc65618c7	7e4e5633-6f83-4b46-b6eb-64b3f2866ba3	7ebe2e36-4692-4b4b-a75d-b75972f664c2	81B6B844-D760-4146-9B01-1C4B2596EB77	8475C44D-E091-4C65-B1B4-9A77AE3C0E1D	869E61D6-FBBF-4CA2-BE1A-57B82A03C7A1	886D6116-D496-444F-9B7B-7449DAD31055	88EAEBFC-D740-4CDC-88F5-DF5E08633E2D	8d9bd437-8b4b-4da5-87ba-6b5790f05022	8E7D5615-5142-4D53-A460-2CAFADE1F690	9246C642-3231-4137-A24B-3EFAE151B655	94CD2278-7C76-423B-A44B-564776211A07	953359DA-E535-48E6-97DC-1B4CCAD6A671	959E1F13-360E-4E12-ADD5-BF9A376990D2	98F1D0EB-0977-4F53-A3B1-E6875A34C27B	9924E309-5C47-42FE-B937-547F2B3D6842	9A2DB69E-D429-45D4-89CA-A2C4E0CFC116	9D449AA3-B740-4D5A-9AEA-880B6F84CFF4	9D5C5303-550F-454F-8FD4-8ABCDD311215	a1d138fb-bba7-44d2-8071-c14470634e4c	A28CFA95-5A99-40F3-928E-7A94F2492D2C	a2fd0991-cfbd-4162-8ca9-2ed096f54a14	A308A5EE-8EA1-47EE-823D-14736D74A925	A4569CE7-DDE7-4660-A24C-409D294B2B8C	a46fb053-616d-41e4-b38b-2bccf17125c0	A53C919A-4E08-46F1-AF3F-30B16B597C33	A5748656-5330-417A-8938-01F69DDB3576	A643D0B8-AA50-481C-9F12-F2E634D61D90	A8C3E333-865D-4060-8CE4-453AA6F9F0E8	A9C0F3A1-01EB-4F01-B58A-708B2960E685	AB449860-46E5-485E-ABD5-31C5ABEF2C58	ad220f0d-06b7-4dad-a87d-36dff31c8623	AFE89625-B355-454D-8C0B-B4161EDD69F8	B0CB81AD-3C20-4D56-AB7D-F64C0CAEE1CE	B2E29F26-29AF-4E2D-84DD-C513B4A07C70	B46B5A4C-59FC-4769-B05A-D15F9AAA753A	B84B58C7-95B8-4162-8E61-414F8FE422C6	B8E0F4FB-C916-43B8-AFD2-8077A7E3AEBC	BD73ED94-5F4F-4EB3-8B9B-391AF4422D0E	C24C54EA-4095-460D-BB53-E3629A56CD62	C26002E7-ABF1-42B9-BF36-0E97249D872F	C53328B4-0930-4E6A-A648-283B5565295E	C53D66D9-AD9A-417E-A441-DF5BCF1AE13F	c60a4c63-607b-4d59-8625-bc5d20207647	C6388925-C0A1-4610-A6B9-D9D9500D88C6	C70621CC-C8E1-441D-93EC-BD6922CC7F61	ca2da39a-263c-4238-9826-de7d52e63d0f	CD9DC5C5-1161-43EA-A617-1356A3B23E16	CE2BFD9E-6382-47BB-9FD1-B77AFE57E948	CE9E0431-19A1-4EA9-85B0-44A9E9792E03	CF825B86-7EC2-4E90-BCCE-3B5637B90B70	CFDA26B9-D417-425C-9A72-FA76CA4B296C	d14154a5-9c8a-4c55-8c2d-64f3cad7b7d5	d1e0f479-77dd-42cd-89cb-c1eeac60c10a	D211E0C1-7968-4343-8AAE-27FAB0039367	D47E214D-EFBC-436D-B928-303D1F5135C4	D4F66F06-9289-45C1-B9EB-AAEF991A4BB6	D8AA891C-8050-471E-AD3E-32B9C5E9DB03	DD5074B2-462D-4267-8B9B-5A4C54E5978C	DD7BCDD8-1660-4DAB-9860-9D136C4CEE77	E3A19E63-BAE5-498B-9687-41194AA5728D	e4babd46-005a-4af3-8041-131648d9c2c6	ec9ac713-08e9-4559-b606-5f58d2c4df50	ECDD0E44-0ADD-4A08-A3F8-AB2F51DF7AFD	EDE2E8A7-465E-4725-880D-519899ABA0C0	F0A4944C-D6CF-4163-A1AB-189803464B03	F2313562-C894-486D-A9B6-ED362E12A32A	F5558DC7-5BEF-426F-A6BF-B704FD5DBDA0	f73dfd7f-e054-46ff-9485-e8d05afe2da6	F852DE27-B600-44A4-AB30-D74108DFC2E9	F89D429F-4747-468B-B894-89583BD8AB02	f91eb33d-76f0-418c-9962-11a5b31ca1dc	F96AB3FE-BB11-4585-A35E-52D400E55AB7	FE01A390-F45E-4352-A253-AF8EF7EE9628	fe699c36-82ef-45dd-b636-8c18a9ef6c76	ff03311b-d20d-49ee-8de4-d4487c3f2633	FF8DAC97-42FF-4F48-81C4-50315AD8DE58
+bcr_patient_uuid	bcr_patient_uuid	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+bcr_patient_barcode	bcr_patient_barcode	TCGA-2J-AAB1	TCGA-2J-AAB4	TCGA-2J-AAB6	TCGA-2J-AAB8	TCGA-2J-AAB9	TCGA-2J-AABA	TCGA-2J-AABE	TCGA-2J-AABF	TCGA-2J-AABH	TCGA-2J-AABI	TCGA-2J-AABK	TCGA-2J-AABO	TCGA-2J-AABP	TCGA-2J-AABR	TCGA-2J-AABT	TCGA-2J-AABU	TCGA-2J-AABV	TCGA-2L-AAQA	TCGA-2L-AAQE	TCGA-2L-AAQI	TCGA-2L-AAQJ	TCGA-2L-AAQL	TCGA-2L-AAQM	TCGA-3A-A9I5	TCGA-3A-A9I7	TCGA-3A-A9I9	TCGA-3A-A9IB	TCGA-3A-A9IC	TCGA-3A-A9IH	TCGA-3A-A9IJ	TCGA-3A-A9IL	TCGA-3A-A9IN	TCGA-3A-A9IO	TCGA-3A-A9IR	TCGA-3A-A9IS	TCGA-3A-A9IU	TCGA-3A-A9IV	TCGA-3A-A9IX	TCGA-3A-A9IZ	TCGA-3A-A9J0	TCGA-3E-AAAY	TCGA-3E-AAAZ	TCGA-F2-6879	TCGA-F2-6880	TCGA-F2-7273	TCGA-F2-7276	TCGA-F2-A44G	TCGA-F2-A44H	TCGA-F2-A7TX	TCGA-F2-A8YN	TCGA-FB-A4P5	TCGA-FB-A4P6	TCGA-FB-A545	TCGA-FB-A5VM	TCGA-FB-A78T	TCGA-FB-A7DR	TCGA-FB-AAPP	TCGA-FB-AAPQ	TCGA-FB-AAPS	TCGA-FB-AAPU	TCGA-FB-AAPY	TCGA-FB-AAPZ	TCGA-FB-AAQ0	TCGA-FB-AAQ1	TCGA-FB-AAQ2	TCGA-FB-AAQ3	TCGA-FB-AAQ6	TCGA-FZ-5919	TCGA-FZ-5920	TCGA-FZ-5921	TCGA-FZ-5922	TCGA-FZ-5923	TCGA-FZ-5924	TCGA-FZ-5926	TCGA-H6-8124	TCGA-H6-A45N	TCGA-H8-A6C1	TCGA-HV-A5A3	TCGA-HV-A5A4	TCGA-HV-A5A5	TCGA-HV-A5A6	TCGA-HV-A7OL	TCGA-HV-A7OP	TCGA-HV-AA8V	TCGA-HV-AA8X	TCGA-HZ-7289	TCGA-HZ-7918	TCGA-HZ-7919	TCGA-HZ-7920	TCGA-HZ-7922	TCGA-HZ-7923	TCGA-HZ-7924	TCGA-HZ-7925	TCGA-HZ-7926	TCGA-HZ-8001	TCGA-HZ-8002	TCGA-HZ-8003	TCGA-HZ-8005	TCGA-HZ-8315	TCGA-HZ-8317	TCGA-HZ-8519	TCGA-HZ-8636	TCGA-HZ-8637	TCGA-HZ-8638	TCGA-HZ-A49G	TCGA-HZ-A49H	TCGA-HZ-A49I	TCGA-HZ-A4BH	TCGA-HZ-A4BK	TCGA-HZ-A77O	TCGA-HZ-A77P	TCGA-HZ-A77Q	TCGA-HZ-A8P0	TCGA-HZ-A8P1	TCGA-HZ-A9TJ	TCGA-IB-7644	TCGA-IB-7645	TCGA-IB-7646	TCGA-IB-7647	TCGA-IB-7649	TCGA-IB-7651	TCGA-IB-7652	TCGA-IB-7654	TCGA-IB-7885	TCGA-IB-7886	TCGA-IB-7887	TCGA-IB-7888	TCGA-IB-7889	TCGA-IB-7890	TCGA-IB-7891	TCGA-IB-7893	TCGA-IB-7897	TCGA-IB-8126	TCGA-IB-8127	TCGA-IB-A5SO	TCGA-IB-A5SP	TCGA-IB-A5SQ	TCGA-IB-A5SS	TCGA-IB-A5ST	TCGA-IB-A6UF	TCGA-IB-A6UG	TCGA-IB-A7LX	TCGA-IB-A7M4	TCGA-IB-AAUM	TCGA-IB-AAUN	TCGA-IB-AAUO	TCGA-IB-AAUP	TCGA-IB-AAUQ	TCGA-IB-AAUR	TCGA-IB-AAUS	TCGA-IB-AAUT	TCGA-IB-AAUU	TCGA-IB-AAUV	TCGA-IB-AAUW	TCGA-L1-A7W4	TCGA-LB-A7SX	TCGA-LB-A8F3	TCGA-LB-A9Q5	TCGA-M8-A5N4	TCGA-OE-A75W	TCGA-PZ-A5RE	TCGA-Q3-A5QY	TCGA-Q3-AA2A	TCGA-RB-A7B8	TCGA-RB-AA9M	TCGA-RL-AAAS	TCGA-S4-A8RM	TCGA-S4-A8RO	TCGA-S4-A8RP	TCGA-US-A774	TCGA-US-A776	TCGA-US-A779	TCGA-US-A77E	TCGA-US-A77G	TCGA-US-A77J	TCGA-XD-AAUG	TCGA-XD-AAUH	TCGA-XD-AAUI	TCGA-XD-AAUL	TCGA-XN-A8T3	TCGA-XN-A8T5	TCGA-YB-A89D	TCGA-YH-A8SY	TCGA-YY-A8LH	TCGA-Z5-AAPL
+bcr_patient_barcode	bcr_patient_barcode	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+form_completion_date	form_completion_date	2014-7-16	2013-2-11	2014-9-24	2012-12-2	2013-2-8	2014-10-8	2014-5-22	2013-5-8	2014-3-29	2014-6-24	2014-7-8	2014-9-22	2012-10-2	2012-6-11	2013-12-16	2013-2-12	2014-6-5	2014-7-22	2013-1-11	2013-1-25	2013-2-21	2014-3-3	2015-4-30	2012-11-1	2013-1-17	2013-10-3	2013-11-13	2013-12-17	2013-6-14	2013-9-5	2014-10-24	2014-2-4	2014-6-6	2015-2-9	2012-10-17	2012-10-8	2012-12-14	2012-12-3	2012-6-5	2012-9-28	2013-1-16	2013-10-29	2013-12-2	2013-12-23	2013-3-12	2013-3-22	2013-3-8	2013-4-26	2013-5-24	2013-6-21	2013-9-26	2013-9-4	2013-9-9	2014-1-3	2014-11-13	2014-11-3	2014-2-13	2014-2-28	2014-2-3	2014-3-10	2014-3-17	2014-3-27	2014-4-3	2014-5-13	2014-5-21	2014-5-23	2014-6-13	2014-7-1	2014-7-14	2015-5-1
+form_completion_date	form_completion_date	18	10	10	 7	 6	 6	 6	 5	 5	 5	 5	 5	 4	 4	 4	 4	 4	 4	 3	 3	 3	 3	 3	 2	 2	 2	 2	 2	 2	 2	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+invasive_adenocarcinoma_indicator	adenocarcinoma_invasion	YES	NO
+invasive_adenocarcinoma_indicator	adenocarcinoma_invasion	184	  1
+histologic_diagnosis	histological_type	Pancreas-Adenocarcinoma Ductal Type	Pancreas-Adenocarcinoma-Other Subtype	Pancreas-Colloid (mucinous non-cystic) Carcinoma	NA	Pancreas-Undifferentiated Carcinoma
+histologic_diagnosis	histological_type	154	 25	  4	  1	  1
+histologic_diagnosis_other	histological_type_other	NA	Adenocarcinoma, NOS	NEUROENDOCRINE CARCINOMA NOS	82463 NEUROENDOCRINE CARCINOMA NOS	Adenocarcinoma- NOS	ductal and micropapillary	Intraductal tubulopapillary neoplasm	invasive adenocarcinoma	Invasive adenocarcinoma	invasive, well-differentiated	moderately differentiated ductal adenocarcinoma 60% + neuroendocrine 40%	Neuroendocrine	NEUROENDOCRINE CARCINOMA	not specified	Poorly differentiated adenocarcinoma	Poorly differentiated pancreatic adenocarcinoma
+histologic_diagnosis_other	histological_type_other	160	  7	  5	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1
+tumor_sample_type	tumor_type	Primary
+tumor_sample_type	tumor_type	185
+prospective_collection	tissue_prospective_collection_indicator	NO	YES
+prospective_collection	tissue_prospective_collection_indicator	100	 85
+retrospective_collection	tissue_retrospective_collection_indicator	YES	NO
+retrospective_collection	tissue_retrospective_collection_indicator	100	 85
+gender	gender	MALE	FEMALE
+gender	gender	102	 83
+birth_days_to	days_to_birth	-29585	-13127	-14599	-14729	-15129	-15188	-15807	-15869	-16126	-16255	-16766	-17294	-17628	-17649	-17794	-17821	-18059	-18103	-18129	-18172	-18202	-18315	-18357	-18475	-18607	-19064	-19287	-19315	-19677	-19707	-19718	-19839	-19847	-19904	-20051	-20071	-20133	-20316	-20366	-20451	-20607	-20618	-20641	-20741	-20760	-20858	-20898	-20984	-21024	-21175	-21277	-21484	-21491	-21501	-21611	-21676	-21732	-21792	-22090	-22126	-22131	-22148	-22283	-22329	-22376	-22400	-22413	-22425	-22433	-22799	-22981	-22990	-23152	-23218	-23306	-23406	-23431	-23443	-23580	-23622	-23624	-23672	-23685	-23703	-23713	-23751	-23760	-23791	-23801	-23868	-23953	-23962	-23998	-24007	-24025	-24043	-24078	-24117	-24150	-24174	-24291	-24381	-24576	-24589	-24621	-24731	-24760	-24810	-24864	-24891	-24988	-25214	-25227	-25312	-25412	-25768	-25809	-25849	-25920	-26028	-26085	-26129	-26167	-26179	-26188	-26216	-26234	-26239	-26311	-26322	-26379	-26503	-26573	-26635	-26745	-26747	-26773	-26859	-26881	-26936	-26943	-26947	-27082	-27128	-27152	-27295	-27362	-27453	-27600	-27637	-27645	-27662	-27684	-27850	-27929	-27957	-28013	-28047	-28074	-28174	-28239	-28317	-28353	-28403	-28434	-28454	-28554	-29150	-29213	-29292	-29319	-29631	-29633	-29674	-29792	-29904	-30092	-30571	-30684	-30821	-31074	-31319	-31393	-32475
+birth_days_to	days_to_birth	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+race	race	WHITE	ASIAN	BLACK OR AFRICAN AMERICAN	NA
+race	race	162	 11	  7	  5
+ethnicity	ethnicity	NOT HISPANIC OR LATINO	NA	HISPANIC OR LATINO
+ethnicity	ethnicity	137	 43	  5
+history_other_malignancy	other_dx	No	Yes, History of Prior Malignancy
+history_other_malignancy	other_dx	166	 19
+history_neoadjuvant_treatment	history_of_neoadjuvant_treatment	No	Yes, Radiation Prior to Resection
+history_neoadjuvant_treatment	history_of_neoadjuvant_treatment	184	  1
+initial_pathologic_dx_year	year_of_initial_pathologic_diagnosis	2012	2013	2011	2008	2010	2009	2007	2001	NA
+initial_pathologic_dx_year	year_of_initial_pathologic_diagnosis	53	42	41	14	13	10	 9	 2	 1
+method_initial_path_dx	initial_pathologic_diagnosis_method	Tumor resection	Tissue Biopsy	Cytology (e.g. Peritoneal or pleural fluid)	NA	Other method, specify:
+method_initial_path_dx	initial_pathologic_diagnosis_method	108	 38	 30	  5	  4
+method_initial_path_dx_other	init_pathology_dx_method_other	NA	Fine Needle Aspiration Biopsy	endoscopic ultrasound-guided fine needle aspiration	Fine Needle Aspiration
+method_initial_path_dx_other	init_pathology_dx_method_other	181	  2	  1	  1
+surgical_procedure	surgery_performed_type	Whipple	Distal Pancreatectomy	Other Method (please specify)	Total Pancreatectomy	NA
+surgical_procedure	surgery_performed_type	143	 23	 14	  3	  2
+lymph_nodes_examined	primary_lymph_node_presentation_assessment	YES	NO	NA
+lymph_nodes_examined	primary_lymph_node_presentation_assessment	180	  4	  1
+lymph_nodes_examined_count	lymph_node_examined_count	21	9	12	18	11	13	17	22	16	19	10	8	24	14	20	28	15	23	NA	1	26	27	5	6	7	25	32	33	35	2	3	30	34	37	4	40	43	44	46	57
+lymph_nodes_examined_count	lymph_node_examined_count	14	14	11	10	 9	 9	 9	 9	 8	 8	 7	 7	 6	 5	 5	 5	 4	 4	 4	 3	 3	 3	 3	 3	 3	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+lymph_nodes_examined_he_count	number_of_lymphnodes_positive_by_he	0	2	1	3	4	5	7	6	8	9	NA	16	13	10	11	14	15
+lymph_nodes_examined_he_count	number_of_lymphnodes_positive_by_he	49	27	26	24	15	10	 9	 4	 4	 4	 4	 3	 2	 1	 1	 1	 1
+lymph_nodes_examined_ihc_count	number_of_lymphnodes_positive_by_ihc	NA	0
+lymph_nodes_examined_ihc_count	number_of_lymphnodes_positive_by_ihc	130	 55
+tumor_grade	neoplasm_histologic_grade	G2	G3	G1	GX	G4
+tumor_grade	neoplasm_histologic_grade	97	51	32	 3	 2
+grade_tier_system	histologic_grading_tier_category	NA	Four Tier	Three Tier
+grade_tier_system	histologic_grading_tier_category	80	74	31
+tumor_resected_max_dimension	maximum_tumor_dimension	3	4.5	NA	3.5	4	2.8	2.5	3.2	2	5.5	3.0	3.1	2.3	2.7	5	3.8	4.0	4.2	5.0	6.0	1.8	2.2	2.4	3.3	3.4	4.1	4.7	4.8	6	0.3	1.3	1.5	12	14	2.0	2.1	2.9	3.6	3.7	4.3	4.6	5.8	6.5	6.8	7.0	7.2	8	8.0	9	9.0
+tumor_resected_max_dimension	maximum_tumor_dimension	16	15	15	14	12	 9	 8	 8	 6	 6	 5	 5	 4	 4	 4	 3	 3	 3	 3	 3	 2	 2	 2	 2	 2	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+residual_tumor	residual_tumor	R0	R1	NA	R2	RX
+residual_tumor	residual_tumor	111	 53	 12	  5	  4
+ajcc_staging_edition	system_version	7th	6th	5th
+ajcc_staging_edition	system_version	158	 26	  1
+ajcc_tumor_pathologic_pt	pathologic_T	T3	T2	T1	T4	NA	TX
+ajcc_tumor_pathologic_pt	pathologic_T	148	 24	  7	  4	  1	  1
+ajcc_nodes_pathologic_pn	pathologic_N	N1	N0	N1b	NX	NA
+ajcc_nodes_pathologic_pn	pathologic_N	126	 50	  4	  4	  1
+ajcc_metastasis_pathologic_pm	pathologic_M	MX	M0	M1
+ajcc_metastasis_pathologic_pm	pathologic_M	95	85	 5
+ajcc_pathologic_tumor_stage	pathologic_stage	Stage IIB	Stage IIA	Stage IB	Stage IA	Stage IV	Stage III	NA	Stage I
+ajcc_pathologic_tumor_stage	pathologic_stage	122	 30	 15	  5	  5	  4	  3	  1
+vital_status	vital_status	Alive	Dead
+vital_status	vital_status	119	 66
+last_contact_days_to	days_to_last_followup	NA	0	8	1	153	164	179	181	188	194	21	28	4	7	105	11	110	1164	127	128	13	1436	155	158	16	160	161	1612	166	167	17	1834	1854	19	1953	197	20	202	2084	2172	226	228	229	23	232	233	24	240	247	248	252	2558	289	29	290	295	3	300	319	327	329	33	330	345	347	35	355	36	360	361	369	377	388	396	397	42	46	476	484	488	5	584	603	663	671	718	720	729	75	80	844	851	859	874	9	901	91	910	914	932	94	951	967
+last_contact_days_to	days_to_last_followup	66	 4	 4	 2	 2	 2	 2	 2	 2	 2	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+death_days_to	days_to_death	NA	123	103	1059	110	1101	1130	117	12	120	128	1332	143	144	145	1502	153	155	183	216	2182	219	224	239	244	250	277	292	293	308	31	334	381	394	41	430	458	460	467	473	476	480	481	485	486	511	532	541	568	598	603	607	61	619	627	634	652	66	666	684	691	695	702	738	741	95
+death_days_to	days_to_death	119	  2	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1
+tumor_status	person_neoplasm_cancer_status	WITH TUMOR	TUMOR FREE	NA
+tumor_status	person_neoplasm_cancer_status	77	55	53
+cause_of_death	patient_death_reason	NA	Pancreatic Cancer	Other, non-malignant disease	Surgical Complications	Other malignancy	Other, specify
+cause_of_death	patient_death_reason	139	 40	  2	  2	  1	  1
+cause_of_death_source	source_of_patient_death_reason	NA	Medical Record	Death Certificate	Autopsy
+cause_of_death_source	source_of_patient_death_reason	122	 41	 21	  1
+tobacco_smoking_history_indicator	tobacco_smoking_history	1	NA	3	4	2	5
+tobacco_smoking_history_indicator	tobacco_smoking_history	69	36	29	23	20	 8
+tobacco_smoking_year_started	year_of_tobacco_smoking_onset	NA	1960	1968	1980	1952	1956	1962	1971	1973	1983	1988	1989	1993	1948	1951	1953	1954	1955	1957	1963	1966	1969	1974	1975	1978	1979	1981	1982	1984	1987	1991
+tobacco_smoking_year_started	year_of_tobacco_smoking_onset	138	  5	  3	  3	  2	  2	  2	  2	  2	  2	  2	  2	  2	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1
+tobacco_smoking_year_stopped	stopped_smoking_year	NA	1984	2000	2008	1970	1976	1981	1982	1988	2002	2003	2004	2012	2013	1952	1958	1961	1965	1967	1973	1974	1979	1980	1983	1985	1987	1989	1991	1992	2001	2005	2007	2009	2010	2011
+tobacco_smoking_year_stopped	stopped_smoking_year	135	  3	  3	  3	  2	  2	  2	  2	  2	  2	  2	  2	  2	  2	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1
+tobacco_smoking_pack_years_smoked	number_pack_years_smoked	NA	30	20	25	15	40	60	7.5	0.3	1	10	15.2	2	2.2	2.3	24	26	29	3.5	33.75	35	4	4.65	42	46	5	50	51	52	57	69	75
+tobacco_smoking_pack_years_smoked	number_pack_years_smoked	128	  7	  6	  6	  5	  5	  2	  2	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1
+alcohol_history_documented	alcohol_history_documented	YES	NO	NA
+alcohol_history_documented	alcohol_history_documented	102	 65	 18
+alcohol_exposure_intensity	alcoholic_exposure_category	NA	None	Daily Drinker	Occasional Drinker	Social Drinker	Weekly Drinker
+alcohol_exposure_intensity	alcoholic_exposure_category	86	29	22	18	15	15
+alcohol_consumption_frequency	frequency_of_alcohol_consumption	NA	7	3	0.5	1	2	4	6
+alcohol_consumption_frequency	frequency_of_alcohol_consumption	153	 16	  9	  2	  2	  1	  1	  1
+alcohol_consumption_per_day	amount_of_alcohol_consumption_per_day	NA	1	2	3	0.5	2.5	4
+alcohol_consumption_per_day	amount_of_alcohol_consumption_per_day	154	 18	  6	  4	  1	  1	  1
+diabetes_diagnosis_indicator	history_of_diabetes	NO	YES	NA
+diabetes_diagnosis_indicator	history_of_diabetes	111	 38	 36
+diabetes_diagnosis_days_to	days_to_diabetes_onset	NA	-11	-139	-171	-198	-38	-49	-50	-54	-551	-79	-9	-9070	20	504
+diabetes_diagnosis_days_to	days_to_diabetes_onset	171	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1
+history_chronic_pancreatitis	history_of_chronic_pancreatitis	NO	NA	YES
+history_chronic_pancreatitis	history_of_chronic_pancreatitis	130	 42	 13
+history_chronic_pancreatitis_days_to	days_to_pancreatitis_onset	NA	-171	-18029	-292	-30	-418	-46	-50	-71	-80	0	1
+history_chronic_pancreatitis_days_to	days_to_pancreatitis_onset	174	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1
+family_history_cancer_indicator	family_history_of_cancer	NA	YES	NO
+family_history_cancer_indicator	family_history_of_cancer	72	66	47
+family_history_cancer_type	relative_cancer_type	NA	Other	Pancreas	Breast	Breast|Other	Pancreas|Other	Melanoma	Melanoma|Other
+family_history_cancer_type	relative_cancer_type	121	 40	  9	  6	  4	  3	  1	  1
+radiation_treatment_adjuvant	radiation_therapy	NO	NA	YES
+radiation_treatment_adjuvant	radiation_therapy	108	 44	 33
+treatment_outcome_first_course	primary_therapy_outcome_success	NA	Progressive Disease	Complete Remission/Response	Partial Remission/Response	Stable Disease
+treatment_outcome_first_course	primary_therapy_outcome_success	81	46	42	 8	 8
+new_tumor_event_dx_indicator	new_tumor_event_after_initial_treatment	NO	YES	NA
+new_tumor_event_dx_indicator	new_tumor_event_after_initial_treatment	110	 54	 21
+age_at_initial_pathologic_diagnosis	age_at_initial_pathologic_diagnosis	65	64	71	73	61	77	81	67	72	75	76	49	54	56	57	66	74	48	50	55	58	59	60	69	70	52	53	62	63	68	85	41	43	44	79	80	84	35	39	40	45	47	78	82	83	88
+age_at_initial_pathologic_diagnosis	age_at_initial_pathologic_diagnosis	12	10	 9	 8	 7	 7	 7	 6	 6	 6	 6	 5	 5	 5	 5	 5	 5	 4	 4	 4	 4	 4	 4	 4	 4	 3	 3	 3	 3	 3	 3	 2	 2	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1
+anatomic_neoplasm_subdivision	anatomic_neoplasm_subdivision	Head of Pancreas	Body of Pancreas	Tail of Pancreas	Other (please specify)
+anatomic_neoplasm_subdivision	anatomic_neoplasm_subdivision	146	 14	 14	 11
+anatomic_neoplasm_subdivision_other	anatomic_neoplasm_subdivision_other	NA	Body & Tail of Pancreas	Body and Tail	distal pancreas	Duct	Head & body of pancreas	Head & Body of Pancreas	Head and body	overlapping parts of pancreas	Pancreas Head and Body	Panreatic body and tail, spread to stomach	Uncinate process
+anatomic_neoplasm_subdivision_other	anatomic_neoplasm_subdivision_other	174	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1	  1
+clinical_M	clinical_M	NA
+clinical_M	clinical_M	185
+clinical_N	clinical_N	NA
+clinical_N	clinical_N	185
+clinical_T	clinical_T	NA
+clinical_T	clinical_T	185
+clinical_stage	clinical_stage	NA
+clinical_stage	clinical_stage	185
+days_to_initial_pathologic_diagnosis	days_to_initial_pathologic_diagnosis	0	NA
+days_to_initial_pathologic_diagnosis	days_to_initial_pathologic_diagnosis	184	  1
+days_to_patient_progression_free	days_to_patient_progression_free	NA
+days_to_patient_progression_free	days_to_patient_progression_free	185
+days_to_tumor_progression	days_to_tumor_progression	NA
+days_to_tumor_progression	days_to_tumor_progression	185
+disease_code	disease_code	NA
+disease_code	disease_code	185
+extranodal_involvement	extranodal_involvement	NA
+extranodal_involvement	extranodal_involvement	185
+icd_10	icd_10	C25.0	C25.9	C25.1	C25.2	C25.8
+icd_10	icd_10	141	 16	 15	 11	  2
+icd_o_3_histology	icd_o_3_histology	8500/3	8140/3	8246/3	8480/3	8020/3	8255/3
+icd_o_3_histology	icd_o_3_histology	150	 20	  8	  5	  1	  1
+icd_o_3_site	icd_o_3_site	C25.0	C25.9	C25.1	C25.2	C25.8
+icd_o_3_site	icd_o_3_site	141	 16	 15	 11	  2
+informed_consent_verified	informed_consent_verified	YES
+informed_consent_verified	informed_consent_verified	185
+patient_id	patient_id	5919	5920	5921	5922	5923	5924	5926	6879	6880	7273	7276	7289	7644	7645	7646	7647	7649	7651	7652	7654	7885	7886	7887	7888	7889	7890	7891	7893	7897	7918	7919	7920	7922	7923	7924	7925	7926	8001	8002	8003	8005	8124	8126	8127	8315	8317	8519	8636	8637	8638	A44G	A44H	A45N	A49G	A49H	A49I	A4BH	A4BK	A4P5	A4P6	A545	A5A3	A5A4	A5A5	A5A6	A5N4	A5QY	A5RE	A5SO	A5SP	A5SQ	A5SS	A5ST	A5VM	A6C1	A6UF	A6UG	A75W	A774	A776	A779	A77E	A77G	A77J	A77O	A77P	A77Q	A78T	A7B8	A7DR	A7LX	A7M4	A7OL	A7OP	A7SX	A7TX	A7W4	A89D	A8F3	A8LH	A8P0	A8P1	A8RM	A8RO	A8RP	A8SY	A8T3	A8T5	A8YN	A9I5	A9I7	A9I9	A9IB	A9IC	A9IH	A9IJ	A9IL	A9IN	A9IO	A9IR	A9IS	A9IU	A9IV	A9IX	A9IZ	A9J0	A9Q5	A9TJ	AA2A	AA8V	AA8X	AA9M	AAAS	AAAY	AAAZ	AAB1	AAB4	AAB6	AAB8	AAB9	AABA	AABE	AABF	AABH	AABI	AABK	AABO	AABP	AABR	AABT	AABU	AABV	AAPL	AAPP	AAPQ	AAPS	AAPU	AAPY	AAPZ	AAQ0	AAQ1	AAQ2	AAQ3	AAQ6	AAQA	AAQE	AAQI	AAQJ	AAQL	AAQM	AAUG	AAUH	AAUI	AAUL	AAUM	AAUN	AAUO	AAUP	AAUQ	AAUR	AAUS	AAUT	AAUU	AAUV	AAUW
+patient_id	patient_id	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+project_code	project_code	NA
+project_code	project_code	185
+stage_other	stage_other	NA
+stage_other	stage_other	185
+targeted_molecular_therapy	targeted_molecular_therapy	YES	NO	NA
+targeted_molecular_therapy	targeted_molecular_therapy	94	48	43
+tissue_source_site	tissue_source_site	IB	HZ	2J	3A	FB	F2	HV	FZ	2L	US	XD	LB	S4	3E	H6	Q3	RB	XN	H8	L1	M8	OE	PZ	RL	YB	YH	YY	Z5
+tissue_source_site	tissue_source_site	39	30	17	17	17	 8	 8	 7	 6	 6	 4	 3	 3	 2	 2	 2	 2	 2	 1	 1	 1	 1	 1	 1	 1	 1	 1	 1
+tumor_tissue_site	tumor_tissue_site	Pancreas
+tumor_tissue_site	tumor_tissue_site	185
