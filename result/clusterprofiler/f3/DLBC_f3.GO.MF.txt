@@ -1,3 +1,3 @@
-ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+IDs	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
 GO:0001637	G-protein coupled chemoattractant receptor activity	4/107	26/14335	3.86507002034239e-05	0.00637736553356495	0.00569589266155721	CX3CR1/XCR1/CCR8/CCR4	4
 GO:0004950	chemokine receptor activity	4/107	26/14335	3.86507002034239e-05	0.00637736553356495	0.00569589266155721	CX3CR1/XCR1/CCR8/CCR4	4

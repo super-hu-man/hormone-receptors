@@ -16,35 +16,37 @@ analysis = function(filted,dat,name,out.path){
   bp = enrichGO(gene = filted$ID , OrgDb = org.Hs.eg.db , universe = dat$ID , keyType = 'ENTREZID' , readable = TRUE ,
                 ont = 'BP' , pAdjustMethod = 'BH' , pvalueCutoff = 0.05 , qvalueCutoff  = 0.05 )
   bps=simplify(bp)
+  b = sum(duplicated(unlist(strsplit(as.data.frame(bps)[,8],'/',fixed=T))))
   if(nrow(as.data.frame(bps))>2){
   pdf(paste(out.path,'/',name,'.BP.dot.pdf',sep=''),width=12,height=8) ; dot=dotplot(bps,showCategory=50) ;plot(dot); dev.off()
-  pdf(paste(out.path,'/',name,'.BP.emap.pdf',sep=''),width=12,height=8) ; emap=emapplot(bps,showCategory=50) ;plot(emap); dev.off()
+  if (b >= 1){ pdf(paste(out.path,'/',name,'.BP.emap.pdf',sep=''),width=12,height=8) ; emap=emapplot(bps,showCategory=50) ;plot(emap); dev.off() }
   pdf(paste(out.path,'/',name,'.BP.cnet.pdf',sep=''),width=12,height=8) ; cnet=cnetplot(bps,showCategory=10) ;plot(cnet); dev.off()
   }
   print('CC start')
   cc = enrichGO(gene = filted$ID , OrgDb = org.Hs.eg.db , universe = dat$ID , keyType = 'ENTREZID' , readable = TRUE ,
                 ont = 'CC' , pAdjustMethod = 'BH' , pvalueCutoff = 0.05 , qvalueCutoff  = 0.05 )
-  ccs=simplify(cc)
+  ccs=simplify(cc) ; c = sum(duplicated(unlist(strsplit(as.data.frame(ccs)[,8],'/',fixed=T))))
   if(nrow(as.data.frame(ccs))>2){
   pdf(paste(out.path,'/',name,'.CC.dot.pdf',sep=''),width=12,height=8) ; dot=dotplot(ccs,showCategory=50) ; plot(dot);dev.off()
-  pdf(paste(out.path,'/',name,'.CC.emap.pdf',sep=''),width=12,height=8) ; emap=emapplot(ccs,showCategory=50) ;plot(emap); dev.off()
+  if (c >= 1){pdf(paste(out.path,'/',name,'.CC.emap.pdf',sep=''),width=12,height=8) ; emap=emapplot(ccs,showCategory=50) ;plot(emap); dev.off()}
   pdf(paste(out.path,'/',name,'.CC.cnet.pdf',sep=''),width=12,height=8) ; cnet=cnetplot(ccs,showCategory=10) ;plot(cnet); dev.off()
   }
   print('MF start')
   mf = enrichGO(gene = filted$ID , OrgDb = org.Hs.eg.db , universe = dat$ID , keyType = 'ENTREZID' , readable = TRUE ,
                 ont = 'MF' , pAdjustMethod = 'BH' , pvalueCutoff = 0.05 , qvalueCutoff  = 0.05 )
-  mfs=simplify(mf)
+  mfs=simplify(mf) ; m = sum(duplicated(unlist(strsplit(as.data.frame(mfs)[,8],'/',fixed=T))))
   if(nrow(as.data.frame(mfs))>2){
   pdf(paste(out.path,'/',name,'.MF.dot.pdf',sep=''),width=12,height=8) ; dot=dotplot(mfs,showCategory=50) ;plot(dot); dev.off()
-  pdf(paste(out.path,'/',name,'.MF.emap.pdf',sep=''),width=12,height=8) ; emap=emapplot(mfs,showCategory=50) ;plot(emap); dev.off()
+  if (m >= 1){pdf(paste(out.path,'/',name,'.MF.emap.pdf',sep=''),width=12,height=8) ; emap=emapplot(mfs,showCategory=50) ;plot(emap); dev.off()}
   pdf(paste(out.path,'/',name,'.MF.cnet.pdf',sep=''),width=12,height=8) ; cnet=cnetplot(mfs,showCategory=10) ;plot(cnet); dev.off()
   }
   print('KEGG start')
   kegg = enrichKEGG(gene = filted$ID , organism = 'hsa' , universe = dat$ID ,
                     pvalueCutoff = 0.05 , qvalueCutoff = 0.05 , use_internal_data=F )
+  k = sum(duplicated(unlist(strsplit(as.data.frame(kegg)[,8],'/',fixed=T))))
   if(nrow(as.data.frame(kegg))>2){
   pdf(paste(out.path,'/',name,'.KEGG.dot.pdf',sep=''),width=12,height=8) ; dot=dotplot(kegg,showCategory=50) ;plot(dot); dev.off()
-  pdf(paste(out.path,'/',name,'.KEGG.emap.pdf',sep=''),width=12,height=8) ; emap=emapplot(kegg,showCategory=50) ;plot(emap); dev.off()
+  if (k >= 1){ pdf(paste(out.path,'/',name,'.KEGG.emap.pdf',sep=''),width=12,height=8) ; emap=emapplot(kegg,showCategory=50) ;plot(emap); dev.off()}
   pdf(paste(out.path,'/',name,'.KEGG.cnet.pdf',sep=''),width=12,height=8) ; cnet=cnetplot(kegg,showCategory=10) ;plot(cnet); dev.off()
   }
   write.table(as.data.frame(bp),paste(out.path,'/',paste(name,argv,sep='_'),'.GO.BP.txt',sep=''),sep='\t',quote=F,col.names=T,row.names=F)
@@ -68,4 +70,4 @@ for(f in files[n]){
   write.table(filted$Gene,paste('./result/diff/',paste(name,argv,sep='_'),'.genesymbol.txt',sep=''),sep='\t',col.names=F,row.names=F,quote = F)
   analysis(filted, dat ,name,out.path)
 }
-
+print ('work done')
