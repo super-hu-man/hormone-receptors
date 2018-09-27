@@ -1,4 +1,4 @@
-##
+## setwd('D:/GitHub/Hormone-Receptors')
 library(doSNOW)
 library(foreach)
 library(parallel)
@@ -24,6 +24,8 @@ for (f in files[n]){
   name = toupper(strsplit(strsplit(f,'/',fixed=T)[[1]][3],'_',fixed=T)[[1]][1])
   print(name)
   dat = read.csv(paste(f,'/data_expression_merged.txt',sep=''),header = T,sep='\t',stringsAsFactors = F)
+  rownames(dat) = paste(dat$Hugo_Symbol,dat$Entrez_Gene_Id,sep='|')
+  colnames(dat) = gsub('[.]','-',colnames(dat))
   datu = dat[which(dat$Hugo_Symbol==gene),order(dat[which(dat$Hugo_Symbol==gene),3:ncol(dat)])+2]
   colnames(datu) = gsub('[.]','-',colnames(datu))
   # meth 
