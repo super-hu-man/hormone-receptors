@@ -1,2 +1,0 @@
-ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
-hsa04512	ECM-receptor interaction	8/67	77/4765	9.73603362964666e-06	0.000856770959408906	0.000809628059728511	5649/1286/7060/8515/8516/1281/7448/3908	8
