@@ -1,34 +1,34 @@
 Disease Name	Cohort	Cases	Name	origin
 Adrenocortical carcinoma	ACC	92	肾上腺皮质癌	中胚层
-Bladder urothelial carcinoma	BLCA	412	膀胱尿路上皮癌	内胚层
-Breast invasive carcinoma	BRCA	1098	乳腺癌	外胚层
 Cervical and endocervical cancers	CESC	307	宫颈癌	中胚层
-Cholangiocarcinoma	CHOL	51	胆管癌	内胚层
-Colon adenocarcinoma	COAD	460	结肠癌	内胚层
-Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	DLBC	58	淋巴性肿瘤扩散大b细胞淋巴瘤	
-Esophageal carcinoma	ESCA	185	食管癌	内胚层
-Glioblastoma multiforme	GBM	613	胶质瘤	外胚层
-Head and Neck squamous cell carcinoma	HNSC	528	头颈鳞癌	
 Kidney Chromophobe	KICH	113	肾难染细胞癌	中胚层
 Kidney renal clear cell carcinoma	KIRC	537	肾透明细胞癌	中胚层
 Kidney renal papillary cell carcinoma	KIRP	323	肾乳突细胞癌	中胚层
-Acute Myeloid Leukemia	LAML	200	急性髓性白血病	
+Mesothelioma	MESO	87	间皮瘤	中胚层
+Ovarian serous cystadenocarcinoma	OV	602	卵巢癌	中胚层
+Prostate adenocarcinoma	PRAD	499	前列腺癌	中胚层
+Sarcoma	SARC	261	肉瘤	中胚层
+Uterine Corpus Endometrial Carcinoma	UCEC	560	子宫内膜癌	中胚层
+Uterine Carcinosarcoma	UCS	57	子宫癌肉瘤	中胚层
+Breast invasive carcinoma	BRCA	1098	乳腺癌	外胚层
+Glioblastoma multiforme	GBM	613	胶质瘤	外胚层
 Brain Lower Grade Glioma	LGG	516	低级别胶质瘤	外胚层
+Pheochromocytoma and Paraganglioma	PCPG	179	嗜铬细胞癌	外胚层
+Skin Cutaneous Melanoma	SKCM	470	皮肤黑色素瘤	外胚层
+Uveal Melanoma	UVM	80	葡萄膜黑色素瘤	外胚层
+Bladder urothelial carcinoma	BLCA	412	膀胱尿路上皮癌	内胚层
+Cholangiocarcinoma	CHOL	51	胆管癌	内胚层
+Colon adenocarcinoma	COAD	460	结肠癌	内胚层
+Esophageal carcinoma	ESCA	185	食管癌	内胚层
 Liver hepatocellular carcinoma	LIHC	377	肝癌	内胚层
 Lung adenocarcinoma	LUAD	585	肺腺癌	内胚层
 Lung squamous cell carcinoma	LUSC	504	肺鳞癌	内胚层
-Mesothelioma	MESO	87	间皮瘤	中胚层
-Ovarian serous cystadenocarcinoma	OV	602	卵巢癌	中胚层
 Pancreatic adenocarcinoma	PAAD	185	胰腺癌	内胚层
-Pheochromocytoma and Paraganglioma	PCPG	179	嗜铬细胞癌	外胚层
-Prostate adenocarcinoma	PRAD	499	前列腺癌	中胚层
 Rectum adenocarcinoma	READ	171	直肠癌	内胚层
-Sarcoma	SARC	261	肉瘤	中胚层
-Skin Cutaneous Melanoma	SKCM	470	皮肤黑色素瘤	外胚层
 Stomach adenocarcinoma	STAD	443	胃癌	内胚层
-Testicular Germ Cell Tumors	TGCT	150	睾丸生殖细胞癌	
 Thyroid carcinoma	THCA	503	甲状腺癌	内胚层
 Thymoma	THYM	124	胸腺癌	内胚层
-Uterine Corpus Endometrial Carcinoma	UCEC	560	子宫内膜癌	中胚层
-Uterine Carcinosarcoma	UCS	57	子宫癌肉瘤	中胚层
-Uveal Melanoma	UVM	80	葡萄膜黑色素瘤	外胚层
+Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	DLBC	58	淋巴性肿瘤扩散大b细胞淋巴瘤	 
+Acute Myeloid Leukemia	LAML	200	急性髓性白血病	 
+Testicular Germ Cell Tumors	TGCT	150	睾丸生殖细胞癌	 
+Head and Neck squamous cell carcinoma	HNSC	528	头颈鳞癌	

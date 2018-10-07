@@ -9,7 +9,7 @@ for(f in files){
   print(name)
   mat = read.csv(f,header = T,row.names = 1,sep='\t',stringsAsFactors = F)
   colnames(mat)  = gsub('[.]','-',colnames(mat))
-  mat = mat[,c(1:3,which(mat['Group',]=='Low'),which(mat['Group',]=='High'))]
+  #mat = mat[,c(1:3,which(mat['Group',]=='Low'),which(mat['Group',]=='High'))]
   # group make
   group = mat[1:2,4:ncol(mat)]
   group['Gender',] = cli[substr(colnames(group),1,12),'gender']
@@ -59,7 +59,7 @@ tgp = HeatmapAnnotation(Exp = anno_barplot(group$Exp,gp=gpar(fill='#FFD400',col=
                         gap=unit(0.8,'mm'),annotation_name_offset = unit(3,'mm'), 
                         name=colnames(group), show_annotation_name=TRUE,annotation_name_side='left',
                         annotation_legend_param = list(legend_height=unit(0.1,'cm'),legend_direction='horizontal'),
-                        col=list( Group=c("Low"="blue", "High"="red"),
+                        col=list( Group=c("Low"="blue", "High"="red" , 'M' = 'grey'),
                                   Age=colorRamp2(c(min(group$Age,na.rm=T),max(group$Age,na.rm=T)), c("white","#FFA500")),
                                   Gender=c('FEMALE'='#FF6161','MALE'='#1592A0')) ,
                         annotation_height = c(1.8, 1, 1, 1))
@@ -91,7 +91,7 @@ pic = oncoPrint(mat, alter_fun=alter_fun, col=col,show_row_barplot = F,row_title
           get_type = function(x){strsplit(x, ";")[[1]]}, 
           column_order = NULL, row_order = NULL,heatmap_legend_param = list(title='Alterations',nrow=2,height=unit(3,'cm')))
 
-tiff(paste('./result/Mutation/',name,'.tiff'),width =6+0.12*ncol(mat),height = 8+0.6*nrow(mat),units = 'cm',compression = 'lzw',res=800)
+tiff(paste('./result/Mutation/',name,'.all.tiff'),width =6+0.12*ncol(mat),height = 8+0.6*nrow(mat),units = 'cm',compression = 'lzw',res=800)
 draw(gnl+pic+gnr, heatmap_legend_side='top',annotation_legend_side='top')
 dev.off()
 }

@@ -30,7 +30,7 @@ for(fd in files){
   mut1 = mut[mut$Tumor_Sample_Barcode %in% info[info$Freq<=1000,'Var1'],]
   # prepare matrix  ^as.data.frame(matrix(numeric(0),ncol=4))^
   outp = datu[which(dat$Hugo_Symbol==gene),colnames(datu) %in% mut1$Tumor_Sample_Barcode]
-  rownames(outp) = 'Exp' ; outp['Group',] = ' '
+  rownames(outp) = 'Exp' ; outp['Group',] = 'M'
   outp['Group',colnames(outp) %in% Lname] = 'Low'
   outp['Group',colnames(outp) %in% Hname] = 'High'
   # filter less than 5% non-silents mutation samples
